@@ -1,0 +1,512 @@
+[
+  {
+    "text": "MyKBO Stats",
+    "href": "https://mykbostats.com/",
+    "html": "<a href=\"/\" class=\"ds-wordmark\" data-turbolinks=\"false\">\n      MyKBO <span>Stats</span>\n    </a>"
+  },
+  {
+    "text": "Schedule",
+    "href": "https://mykbostats.com/schedule",
+    "html": "<a href=\"/schedule\" class=\"ds-primary-nav__link\">Schedule</a>"
+  },
+  {
+    "text": "Stats",
+    "href": "https://mykbostats.com/stats",
+    "html": "<a href=\"/stats\" class=\"ds-primary-nav__link\">Stats</a>"
+  },
+  {
+    "text": "Doosan Bears",
+    "href": "https://mykbostats.com/teams/1-Doosan-Bears",
+    "html": "<a href=\"/teams/1-Doosan-Bears\">\n        <img class=\"ds-team-logo ds-menu-team-logo\" src=\"/assets/images/team-logos-alt/doosan.png\" alt=\"\" loading=\"lazy\" onerror=\"this.onerror=null;this.removeAttribute('src');this.classList.add('is-missing');\">Doosan Bears\n      </a>"
+  },
+  {
+    "text": "Hanwha Eagles",
+    "href": "https://mykbostats.com/teams/4-Hanwha-Eagles",
+    "html": "<a href=\"/teams/4-Hanwha-Eagles\">\n        <img class=\"ds-team-logo ds-menu-team-logo\" src=\"/assets/images/team-logos-alt/hanwha.png\" alt=\"\" loading=\"lazy\" onerror=\"this.onerror=null;this.removeAttribute('src');this.classList.add('is-missing');\">Hanwha Eagles\n      </a>"
+  },
+  {
+    "text": "Kia Tigers",
+    "href": "https://mykbostats.com/teams/5-Kia-Tigers",
+    "html": "<a href=\"/teams/5-Kia-Tigers\">\n        <img class=\"ds-team-logo ds-menu-team-logo\" src=\"/assets/images/team-logos-alt/kia.png\" alt=\"\" loading=\"lazy\" onerror=\"this.onerror=null;this.removeAttribute('src');this.classList.add('is-missing');\">Kia Tigers\n      </a>"
+  },
+  {
+    "text": "Kiwoom Heroes",
+    "href": "https://mykbostats.com/teams/23-Kiwoom-Heroes",
+    "html": "<a href=\"/teams/23-Kiwoom-Heroes\">\n        <img class=\"ds-team-logo ds-menu-team-logo\" src=\"/assets/images/team-logos-alt/kiwoom.png\" alt=\"\" loading=\"lazy\" onerror=\"this.onerror=null;this.removeAttribute('src');this.classList.add('is-missing');\">Kiwoom Heroes\n      </a>"
+  },
+  {
+    "text": "KT Wiz",
+    "href": "https://mykbostats.com/teams/22-KT-Wiz",
+    "html": "<a href=\"/teams/22-KT-Wiz\">\n        <img class=\"ds-team-logo ds-menu-team-logo\" src=\"/assets/images/team-logos-alt/kt.png\" alt=\"\" loading=\"lazy\" onerror=\"this.onerror=null;this.removeAttribute('src');this.classList.add('is-missing');\">KT Wiz\n      </a>"
+  },
+  {
+    "text": "LG Twins",
+    "href": "https://mykbostats.com/teams/6-LG-Twins",
+    "html": "<a href=\"/teams/6-LG-Twins\">\n        <img class=\"ds-team-logo ds-menu-team-logo\" src=\"/assets/images/team-logos-alt/lg.png\" alt=\"\" loading=\"lazy\" onerror=\"this.onerror=null;this.removeAttribute('src');this.classList.add('is-missing');\">LG Twins\n      </a>"
+  },
+  {
+    "text": "Lotte Giants",
+    "href": "https://mykbostats.com/teams/2-Lotte-Giants",
+    "html": "<a href=\"/teams/2-Lotte-Giants\">\n        <img class=\"ds-team-logo ds-menu-team-logo\" src=\"/assets/images/team-logos-alt/lotte.png\" alt=\"\" loading=\"lazy\" onerror=\"this.onerror=null;this.removeAttribute('src');this.classList.add('is-missing');\">Lotte Giants\n      </a>"
+  },
+  {
+    "text": "NC Dinos",
+    "href": "https://mykbostats.com/teams/9-NC-Dinos",
+    "html": "<a href=\"/teams/9-NC-Dinos\">\n        <img class=\"ds-team-logo ds-menu-team-logo\" src=\"/assets/images/team-logos-alt/nc.png\" alt=\"\" loading=\"lazy\" onerror=\"this.onerror=null;this.removeAttribute('src');this.classList.add('is-missing');\">NC Dinos\n      </a>"
+  },
+  {
+    "text": "Samsung Lions",
+    "href": "https://mykbostats.com/teams/3-Samsung-Lions",
+    "html": "<a href=\"/teams/3-Samsung-Lions\">\n        <img class=\"ds-team-logo ds-menu-team-logo\" src=\"/assets/images/team-logos-alt/samsung.png\" alt=\"\" loading=\"lazy\" onerror=\"this.onerror=null;this.removeAttribute('src');this.classList.add('is-missing');\">Samsung Lions\n      </a>"
+  },
+  {
+    "text": "SSG Landers",
+    "href": "https://mykbostats.com/teams/24-SSG-Landers",
+    "html": "<a href=\"/teams/24-SSG-Landers\">\n        <img class=\"ds-team-logo ds-menu-team-logo\" src=\"/assets/images/team-logos-alt/ssg.png\" alt=\"\" loading=\"lazy\" onerror=\"this.onerror=null;this.removeAttribute('src');this.classList.add('is-missing');\">SSG Landers\n      </a>"
+  },
+  {
+    "text": "Team List",
+    "href": "https://mykbostats.com/teams",
+    "html": "<a href=\"/teams\">Team List</a>"
+  },
+  {
+    "text": "Historical Teams",
+    "href": "https://mykbostats.com/teams/historical",
+    "html": "<a href=\"/teams/historical\">Historical Teams</a>"
+  },
+  {
+    "text": "Leaders",
+    "href": "https://mykbostats.com/stats/top/ops",
+    "html": "<a href=\"/stats/top/ops\">Leaders</a>"
+  },
+  {
+    "text": "Win Matrix",
+    "href": "https://mykbostats.com/stats/matrix",
+    "html": "<a href=\"/stats/matrix\">Win Matrix</a>"
+  },
+  {
+    "text": "Park Splits",
+    "href": "https://mykbostats.com/stats/park_splits",
+    "html": "<a href=\"/stats/park_splits\">Park Splits</a>"
+  },
+  {
+    "text": "Team Splits",
+    "href": "https://mykbostats.com/stats/team_splits",
+    "html": "<a href=\"/stats/team_splits\">Team Splits</a>"
+  },
+  {
+    "text": "Birthdays",
+    "href": "https://mykbostats.com/stats/birthdays",
+    "html": "<a href=\"/stats/birthdays\">Birthdays</a>"
+  },
+  {
+    "text": "Foreign Players",
+    "href": "https://mykbostats.com/players/foreign",
+    "html": "<a href=\"/players/foreign\">Foreign Players</a>"
+  },
+  {
+    "text": "Community",
+    "href": "https://mykbostats.com/community",
+    "html": "<a href=\"/community\">Community</a>"
+  },
+  {
+    "text": "FBL",
+    "href": "https://mykbostats.com/fbl",
+    "html": "<a href=\"/fbl\">FBL</a>"
+  },
+  {
+    "text": "Log in",
+    "href": "https://mykbostats.com/auth/login",
+    "html": "<a href=\"/auth/login\" data-turbolinks=\"false\">Log in</a>"
+  },
+  {
+    "text": "Register",
+    "href": "https://mykbostats.com/auth/register",
+    "html": "<a href=\"/auth/register\" data-turbolinks=\"false\">Register</a>"
+  },
+  {
+    "text": "Edit Profile",
+    "href": "https://mykbostats.com/account/edit_profile",
+    "html": "<a href=\"/account/edit_profile\">Edit Profile</a>"
+  },
+  {
+    "text": "Change Email/Password",
+    "href": "https://mykbostats.com/account",
+    "html": "<a href=\"/account\">Change Email/Password</a>"
+  },
+  {
+    "text": "Manage Account",
+    "href": "https://mykbostats.com/account/manage",
+    "html": "<a href=\"/account/manage\">Manage Account</a>"
+  },
+  {
+    "text": "Doosan Bears",
+    "href": "https://mykbostats.com/teams/1-Doosan-Bears",
+    "html": "<a href=\"/teams/1-Doosan-Bears\">\n        <img class=\"ds-team-logo ds-menu-team-logo\" src=\"/assets/images/team-logos-alt/doosan.png\" alt=\"\" loading=\"lazy\" onerror=\"this.onerror=null;this.removeAttribute('src');this.classList.add('is-missing');\">Doosan Bears\n      </a>"
+  },
+  {
+    "text": "Hanwha Eagles",
+    "href": "https://mykbostats.com/teams/4-Hanwha-Eagles",
+    "html": "<a href=\"/teams/4-Hanwha-Eagles\">\n        <img class=\"ds-team-logo ds-menu-team-logo\" src=\"/assets/images/team-logos-alt/hanwha.png\" alt=\"\" loading=\"lazy\" onerror=\"this.onerror=null;this.removeAttribute('src');this.classList.add('is-missing');\">Hanwha Eagles\n      </a>"
+  },
+  {
+    "text": "Kia Tigers",
+    "href": "https://mykbostats.com/teams/5-Kia-Tigers",
+    "html": "<a href=\"/teams/5-Kia-Tigers\">\n        <img class=\"ds-team-logo ds-menu-team-logo\" src=\"/assets/images/team-logos-alt/kia.png\" alt=\"\" loading=\"lazy\" onerror=\"this.onerror=null;this.removeAttribute('src');this.classList.add('is-missing');\">Kia Tigers\n      </a>"
+  },
+  {
+    "text": "Kiwoom Heroes",
+    "href": "https://mykbostats.com/teams/23-Kiwoom-Heroes",
+    "html": "<a href=\"/teams/23-Kiwoom-Heroes\">\n        <img class=\"ds-team-logo ds-menu-team-logo\" src=\"/assets/images/team-logos-alt/kiwoom.png\" alt=\"\" loading=\"lazy\" onerror=\"this.onerror=null;this.removeAttribute('src');this.classList.add('is-missing');\">Kiwoom Heroes\n      </a>"
+  },
+  {
+    "text": "KT Wiz",
+    "href": "https://mykbostats.com/teams/22-KT-Wiz",
+    "html": "<a href=\"/teams/22-KT-Wiz\">\n        <img class=\"ds-team-logo ds-menu-team-logo\" src=\"/assets/images/team-logos-alt/kt.png\" alt=\"\" loading=\"lazy\" onerror=\"this.onerror=null;this.removeAttribute('src');this.classList.add('is-missing');\">KT Wiz\n      </a>"
+  },
+  {
+    "text": "LG Twins",
+    "href": "https://mykbostats.com/teams/6-LG-Twins",
+    "html": "<a href=\"/teams/6-LG-Twins\">\n        <img class=\"ds-team-logo ds-menu-team-logo\" src=\"/assets/images/team-logos-alt/lg.png\" alt=\"\" loading=\"lazy\" onerror=\"this.onerror=null;this.removeAttribute('src');this.classList.add('is-missing');\">LG Twins\n      </a>"
+  },
+  {
+    "text": "Lotte Giants",
+    "href": "https://mykbostats.com/teams/2-Lotte-Giants",
+    "html": "<a href=\"/teams/2-Lotte-Giants\">\n        <img class=\"ds-team-logo ds-menu-team-logo\" src=\"/assets/images/team-logos-alt/lotte.png\" alt=\"\" loading=\"lazy\" onerror=\"this.onerror=null;this.removeAttribute('src');this.classList.add('is-missing');\">Lotte Giants\n      </a>"
+  },
+  {
+    "text": "NC Dinos",
+    "href": "https://mykbostats.com/teams/9-NC-Dinos",
+    "html": "<a href=\"/teams/9-NC-Dinos\">\n        <img class=\"ds-team-logo ds-menu-team-logo\" src=\"/assets/images/team-logos-alt/nc.png\" alt=\"\" loading=\"lazy\" onerror=\"this.onerror=null;this.removeAttribute('src');this.classList.add('is-missing');\">NC Dinos\n      </a>"
+  },
+  {
+    "text": "Samsung Lions",
+    "href": "https://mykbostats.com/teams/3-Samsung-Lions",
+    "html": "<a href=\"/teams/3-Samsung-Lions\">\n        <img class=\"ds-team-logo ds-menu-team-logo\" src=\"/assets/images/team-logos-alt/samsung.png\" alt=\"\" loading=\"lazy\" onerror=\"this.onerror=null;this.removeAttribute('src');this.classList.add('is-missing');\">Samsung Lions\n      </a>"
+  },
+  {
+    "text": "SSG Landers",
+    "href": "https://mykbostats.com/teams/24-SSG-Landers",
+    "html": "<a href=\"/teams/24-SSG-Landers\">\n        <img class=\"ds-team-logo ds-menu-team-logo\" src=\"/assets/images/team-logos-alt/ssg.png\" alt=\"\" loading=\"lazy\" onerror=\"this.onerror=null;this.removeAttribute('src');this.classList.add('is-missing');\">SSG Landers\n      </a>"
+  },
+  {
+    "text": "Team List",
+    "href": "https://mykbostats.com/teams",
+    "html": "<a href=\"/teams\">Team List</a>"
+  },
+  {
+    "text": "Historical Teams",
+    "href": "https://mykbostats.com/teams/historical",
+    "html": "<a href=\"/teams/historical\">Historical Teams</a>"
+  },
+  {
+    "text": "Leaders",
+    "href": "https://mykbostats.com/stats/top/ops",
+    "html": "<a href=\"/stats/top/ops\">Leaders</a>"
+  },
+  {
+    "text": "Win Matrix",
+    "href": "https://mykbostats.com/stats/matrix",
+    "html": "<a href=\"/stats/matrix\">Win Matrix</a>"
+  },
+  {
+    "text": "Park Splits",
+    "href": "https://mykbostats.com/stats/park_splits",
+    "html": "<a href=\"/stats/park_splits\">Park Splits</a>"
+  },
+  {
+    "text": "Team Splits",
+    "href": "https://mykbostats.com/stats/team_splits",
+    "html": "<a href=\"/stats/team_splits\">Team Splits</a>"
+  },
+  {
+    "text": "Birthdays",
+    "href": "https://mykbostats.com/stats/birthdays",
+    "html": "<a href=\"/stats/birthdays\">Birthdays</a>"
+  },
+  {
+    "text": "Foreign Players",
+    "href": "https://mykbostats.com/players/foreign",
+    "html": "<a href=\"/players/foreign\">Foreign Players</a>"
+  },
+  {
+    "text": "Community",
+    "href": "https://mykbostats.com/community",
+    "html": "<a href=\"/community\">Community</a>"
+  },
+  {
+    "text": "FBL",
+    "href": "https://mykbostats.com/fbl",
+    "html": "<a href=\"/fbl\">FBL</a>"
+  },
+  {
+    "text": "Log in",
+    "href": "https://mykbostats.com/auth/login",
+    "html": "<a href=\"/auth/login\" data-turbolinks=\"false\">Log in</a>"
+  },
+  {
+    "text": "Register",
+    "href": "https://mykbostats.com/auth/register",
+    "html": "<a href=\"/auth/register\" data-turbolinks=\"false\">Register</a>"
+  },
+  {
+    "text": "Edit Profile",
+    "href": "https://mykbostats.com/account/edit_profile",
+    "html": "<a href=\"/account/edit_profile\">Edit Profile</a>"
+  },
+  {
+    "text": "Change Email/Password",
+    "href": "https://mykbostats.com/account",
+    "html": "<a href=\"/account\">Change Email/Password</a>"
+  },
+  {
+    "text": "Manage Account",
+    "href": "https://mykbostats.com/account/manage",
+    "html": "<a href=\"/account/manage\">Manage Account</a>"
+  },
+  {
+    "text": "Games",
+    "href": "https://mykbostats.com/games",
+    "html": "<a href=\"/games\" class=\"ds-bottom-nav__item is-active\">\n    <span class=\"ds-nav-icon ds-nav-icon--games\" aria-hidden=\"true\"></span> Games\n  </a>"
+  },
+  {
+    "text": "Teams",
+    "href": "https://mykbostats.com/standings",
+    "html": "<a href=\"/standings\" class=\"ds-bottom-nav__item\">\n    <span class=\"ds-nav-icon ds-nav-icon--teams\" aria-hidden=\"true\"></span> Teams\n  </a>"
+  },
+  {
+    "text": "Stats",
+    "href": "https://mykbostats.com/stats",
+    "html": "<a href=\"/stats\" class=\"ds-bottom-nav__item\">\n    <span class=\"ds-nav-icon ds-nav-icon--stats\" aria-hidden=\"true\"></span> Stats\n  </a>"
+  },
+  {
+    "text": "Full schedule",
+    "href": "https://mykbostats.com/schedule",
+    "html": "<a href=\"/schedule\">Full schedule</a>"
+  },
+  {
+    "text": "Hanwha Eagles\n3\nKia Tigers\n7\nFinal",
+    "href": "https://mykbostats.com/games/13712-Hanwha-vs-Kia-20260721",
+    "html": "<a id=\"game-line-13712\" class=\"ds-game-card \" href=\"/games/13712-Hanwha-vs-Kia-20260721\">\n  <div class=\"ds-game-card__teams\">\n    <div class=\"ds-game-team is-muted\">\n  <img class=\"ds-team-logo ds-game-team__logo\" src=\"/assets/images/team-logos-alt/hanwha.png\" alt=\"\" loading=\"lazy\" onerror=\"this.onerror=null;this.removeAttribute('src');this.classList.add('is-missing');\">\n  <span class=\"ds-game-team__name\">\n    Hanwha<span class=\"ds-game-team__suffix\"> Eagles</span>\n  </span>\n  <span class=\"ds-game-team__score\">3</span>\n  \n</div>\n    <div class=\"ds-game-team \">\n  <img class=\"ds-team-logo ds-game-team__logo\" src=\"/assets/images/team-logos-alt/kia.png\" alt=\"\" loading=\"lazy\" onerror=\"this.onerror=null;this.removeAttribute('src');this.classList.add('is-missing');\">\n  <span class=\"ds-game-team__name\">\n    Kia<span class=\"ds-game-team__suffix\"> Tigers</span>\n  </span>\n  <span class=\"ds-game-team__score\">7</span>\n  \n</div>\n  </div>\n\n  <div class=\"ds-game-card__status\">\n    \n        <span class=\"ds-game-card__state \">\n          \n              Final\n            \n        </span>\n        \n      \n  </div>\n\n  \n  \n</a>"
+  },
+  {
+    "text": "NC Dinos\n7\nLG Twins\n5\nFinal",
+    "href": "https://mykbostats.com/games/13713-NC-vs-LG-20260721",
+    "html": "<a id=\"game-line-13713\" class=\"ds-game-card \" href=\"/games/13713-NC-vs-LG-20260721\">\n  <div class=\"ds-game-card__teams\">\n    <div class=\"ds-game-team \">\n  <img class=\"ds-team-logo ds-game-team__logo\" src=\"/assets/images/team-logos-alt/nc.png\" alt=\"\" loading=\"lazy\" onerror=\"this.onerror=null;this.removeAttribute('src');this.classList.add('is-missing');\">\n  <span class=\"ds-game-team__name\">\n    NC<span class=\"ds-game-team__suffix\"> Dinos</span>\n  </span>\n  <span class=\"ds-game-team__score\">7</span>\n  \n</div>\n    <div class=\"ds-game-team is-muted\">\n  <img class=\"ds-team-logo ds-game-team__logo\" src=\"/assets/images/team-logos-alt/lg.png\" alt=\"\" loading=\"lazy\" onerror=\"this.onerror=null;this.removeAttribute('src');this.classList.add('is-missing');\">\n  <span class=\"ds-game-team__name\">\n    LG<span class=\"ds-game-team__suffix\"> Twins</span>\n  </span>\n  <span class=\"ds-game-team__score\">5</span>\n  \n</div>\n  </div>\n\n  <div class=\"ds-game-card__status\">\n    \n        <span class=\"ds-game-card__state \">\n          \n              Final\n            \n        </span>\n        \n      \n  </div>\n\n  \n  \n</a>"
+  },
+  {
+    "text": "Doosan Bears\n2\nKT Wiz\n2\nFinal/11",
+    "href": "https://mykbostats.com/games/13714-Doosan-vs-KT-20260721",
+    "html": "<a id=\"game-line-13714\" class=\"ds-game-card \" href=\"/games/13714-Doosan-vs-KT-20260721\">\n  <div class=\"ds-game-card__teams\">\n    <div class=\"ds-game-team is-muted\">\n  <img class=\"ds-team-logo ds-game-team__logo\" src=\"/assets/images/team-logos-alt/doosan.png\" alt=\"\" loading=\"lazy\" onerror=\"this.onerror=null;this.removeAttribute('src');this.classList.add('is-missing');\">\n  <span class=\"ds-game-team__name\">\n    Doosan<span class=\"ds-game-team__suffix\"> Bears</span>\n  </span>\n  <span class=\"ds-game-team__score\">2</span>\n  \n</div>\n    <div class=\"ds-game-team is-muted\">\n  <img class=\"ds-team-logo ds-game-team__logo\" src=\"/assets/images/team-logos-alt/kt.png\" alt=\"\" loading=\"lazy\" onerror=\"this.onerror=null;this.removeAttribute('src');this.classList.add('is-missing');\">\n  <span class=\"ds-game-team__name\">\n    KT<span class=\"ds-game-team__suffix\"> Wiz</span>\n  </span>\n  <span class=\"ds-game-team__score\">2</span>\n  \n</div>\n  </div>\n\n  <div class=\"ds-game-card__status\">\n    \n        <span class=\"ds-game-card__state \">\n          \n              Final/11\n            \n        </span>\n        \n      \n  </div>\n\n  \n  \n</a>"
+  },
+  {
+    "text": "SSG Landers\n2\nLotte Giants\n6\nFinal/8",
+    "href": "https://mykbostats.com/games/13715-SSG-vs-Lotte-20260721",
+    "html": "<a id=\"game-line-13715\" class=\"ds-game-card \" href=\"/games/13715-SSG-vs-Lotte-20260721\">\n  <div class=\"ds-game-card__teams\">\n    <div class=\"ds-game-team is-muted\">\n  <img class=\"ds-team-logo ds-game-team__logo\" src=\"/assets/images/team-logos-alt/ssg.png\" alt=\"\" loading=\"lazy\" onerror=\"this.onerror=null;this.removeAttribute('src');this.classList.add('is-missing');\">\n  <span class=\"ds-game-team__name\">\n    SSG<span class=\"ds-game-team__suffix\"> Landers</span>\n  </span>\n  <span class=\"ds-game-team__score\">2</span>\n  \n</div>\n    <div class=\"ds-game-team \">\n  <img class=\"ds-team-logo ds-game-team__logo\" src=\"/assets/images/team-logos-alt/lotte.png\" alt=\"\" loading=\"lazy\" onerror=\"this.onerror=null;this.removeAttribute('src');this.classList.add('is-missing');\">\n  <span class=\"ds-game-team__name\">\n    Lotte<span class=\"ds-game-team__suffix\"> Giants</span>\n  </span>\n  <span class=\"ds-game-team__score\">6</span>\n  \n</div>\n  </div>\n\n  <div class=\"ds-game-card__status\">\n    \n        <span class=\"ds-game-card__state \">\n          \n              Final/8\n            \n        </span>\n        \n      \n  </div>\n\n  \n  \n</a>"
+  },
+  {
+    "text": "Samsung Lions\n8\nKiwoom Heroes\n6\nFinal",
+    "href": "https://mykbostats.com/games/13716-Samsung-vs-Kiwoom-20260721",
+    "html": "<a id=\"game-line-13716\" class=\"ds-game-card \" href=\"/games/13716-Samsung-vs-Kiwoom-20260721\">\n  <div class=\"ds-game-card__teams\">\n    <div class=\"ds-game-team \">\n  <img class=\"ds-team-logo ds-game-team__logo\" src=\"/assets/images/team-logos-alt/samsung.png\" alt=\"\" loading=\"lazy\" onerror=\"this.onerror=null;this.removeAttribute('src');this.classList.add('is-missing');\">\n  <span class=\"ds-game-team__name\">\n    Samsung<span class=\"ds-game-team__suffix\"> Lions</span>\n  </span>\n  <span class=\"ds-game-team__score\">8</span>\n  \n</div>\n    <div class=\"ds-game-team is-muted\">\n  <img class=\"ds-team-logo ds-game-team__logo\" src=\"/assets/images/team-logos-alt/kiwoom.png\" alt=\"\" loading=\"lazy\" onerror=\"this.onerror=null;this.removeAttribute('src');this.classList.add('is-missing');\">\n  <span class=\"ds-game-team__name\">\n    Kiwoom<span class=\"ds-game-team__suffix\"> Heroes</span>\n  </span>\n  <span class=\"ds-game-team__score\">6</span>\n  \n</div>\n  </div>\n\n  <div class=\"ds-game-card__status\">\n    \n        <span class=\"ds-game-card__state \">\n          \n              Final\n            \n        </span>\n        \n      \n  </div>\n\n  \n  \n</a>"
+  },
+  {
+    "text": "Hanwha Eagles\nKia Tigers\n6:30pm\nGwangju",
+    "href": "https://mykbostats.com/games/13717-Hanwha-vs-Kia-20260722",
+    "html": "<a id=\"game-line-13717\" class=\"ds-game-card \" href=\"/games/13717-Hanwha-vs-Kia-20260722\">\n  <div class=\"ds-game-card__teams\">\n    <div class=\"ds-game-team \">\n  <img class=\"ds-team-logo ds-game-team__logo\" src=\"/assets/images/team-logos-alt/hanwha.png\" alt=\"\" loading=\"lazy\" onerror=\"this.onerror=null;this.removeAttribute('src');this.classList.add('is-missing');\">\n  <span class=\"ds-game-team__name\">\n    Hanwha<span class=\"ds-game-team__suffix\"> Eagles</span>\n  </span>\n  \n  \n</div>\n    <div class=\"ds-game-team \">\n  <img class=\"ds-team-logo ds-game-team__logo\" src=\"/assets/images/team-logos-alt/kia.png\" alt=\"\" loading=\"lazy\" onerror=\"this.onerror=null;this.removeAttribute('src');this.classList.add('is-missing');\">\n  <span class=\"ds-game-team__name\">\n    Kia<span class=\"ds-game-team__suffix\"> Tigers</span>\n  </span>\n  \n  \n</div>\n  </div>\n\n  <div class=\"ds-game-card__status\">\n    \n        <span class=\"ds-game-card__state is-time \">\n          <time data-format=\"%l:%M%P\" data-local=\"time\" datetime=\"2026-07-22T09:30:00Z\">\n   6:30pm\n</time>\n        </span>\n        <span class=\"ds-game-card__sub is-prose\">Gwangju</span>\n    \n  </div>\n\n  \n  \n</a>"
+  },
+  {
+    "text": "NC Dinos\nLG Twins\n6:30pm\nSeoul-Jamsil\nForecast Uncertain",
+    "href": "https://mykbostats.com/games/13718-NC-vs-LG-20260722",
+    "html": "<a id=\"game-line-13718\" class=\"ds-game-card \" href=\"/games/13718-NC-vs-LG-20260722\">\n  <div class=\"ds-game-card__teams\">\n    <div class=\"ds-game-team \">\n  <img class=\"ds-team-logo ds-game-team__logo\" src=\"/assets/images/team-logos-alt/nc.png\" alt=\"\" loading=\"lazy\" onerror=\"this.onerror=null;this.removeAttribute('src');this.classList.add('is-missing');\">\n  <span class=\"ds-game-team__name\">\n    NC<span class=\"ds-game-team__suffix\"> Dinos</span>\n  </span>\n  \n  \n</div>\n    <div class=\"ds-game-team \">\n  <img class=\"ds-team-logo ds-game-team__logo\" src=\"/assets/images/team-logos-alt/lg.png\" alt=\"\" loading=\"lazy\" onerror=\"this.onerror=null;this.removeAttribute('src');this.classList.add('is-missing');\">\n  <span class=\"ds-game-team__name\">\n    LG<span class=\"ds-game-team__suffix\"> Twins</span>\n  </span>\n  \n  \n</div>\n  </div>\n\n  <div class=\"ds-game-card__status\">\n    \n        <span class=\"ds-game-card__state is-time \">\n          <time data-format=\"%l:%M%P\" data-local=\"time\" datetime=\"2026-07-22T09:30:00Z\">\n   6:30pm\n</time>\n        </span>\n        <span class=\"ds-game-card__sub is-prose\">Seoul-Jamsil</span>\n    \n  </div>\n\n  \n  <span class=\"ds-game-card__alert ds-game-card__alert--wide\">\n    Forecast Uncertain\n  </span>\n</a>"
+  },
+  {
+    "text": "Doosan Bears\nKT Wiz\n6:30pm\nSuwon\nChance of Rainout",
+    "href": "https://mykbostats.com/games/13719-Doosan-vs-KT-20260722",
+    "html": "<a id=\"game-line-13719\" class=\"ds-game-card \" href=\"/games/13719-Doosan-vs-KT-20260722\">\n  <div class=\"ds-game-card__teams\">\n    <div class=\"ds-game-team \">\n  <img class=\"ds-team-logo ds-game-team__logo\" src=\"/assets/images/team-logos-alt/doosan.png\" alt=\"\" loading=\"lazy\" onerror=\"this.onerror=null;this.removeAttribute('src');this.classList.add('is-missing');\">\n  <span class=\"ds-game-team__name\">\n    Doosan<span class=\"ds-game-team__suffix\"> Bears</span>\n  </span>\n  \n  \n</div>\n    <div class=\"ds-game-team \">\n  <img class=\"ds-team-logo ds-game-team__logo\" src=\"/assets/images/team-logos-alt/kt.png\" alt=\"\" loading=\"lazy\" onerror=\"this.onerror=null;this.removeAttribute('src');this.classList.add('is-missing');\">\n  <span class=\"ds-game-team__name\">\n    KT<span class=\"ds-game-team__suffix\"> Wiz</span>\n  </span>\n  \n  \n</div>\n  </div>\n\n  <div class=\"ds-game-card__status\">\n    \n        <span class=\"ds-game-card__state is-time \">\n          <time data-format=\"%l:%M%P\" data-local=\"time\" datetime=\"2026-07-22T09:30:00Z\">\n   6:30pm\n</time>\n        </span>\n        <span class=\"ds-game-card__sub is-prose\">Suwon</span>\n    \n  </div>\n\n  \n  <span class=\"ds-game-card__alert ds-game-card__alert--wide\">\n    Chance of Rainout\n  </span>\n</a>"
+  },
+  {
+    "text": "SSG Landers\nLotte Giants\n6:30pm\nBusan-Sajik",
+    "href": "https://mykbostats.com/games/13720-SSG-vs-Lotte-20260722",
+    "html": "<a id=\"game-line-13720\" class=\"ds-game-card \" href=\"/games/13720-SSG-vs-Lotte-20260722\">\n  <div class=\"ds-game-card__teams\">\n    <div class=\"ds-game-team \">\n  <img class=\"ds-team-logo ds-game-team__logo\" src=\"/assets/images/team-logos-alt/ssg.png\" alt=\"\" loading=\"lazy\" onerror=\"this.onerror=null;this.removeAttribute('src');this.classList.add('is-missing');\">\n  <span class=\"ds-game-team__name\">\n    SSG<span class=\"ds-game-team__suffix\"> Landers</span>\n  </span>\n  \n  \n</div>\n    <div class=\"ds-game-team \">\n  <img class=\"ds-team-logo ds-game-team__logo\" src=\"/assets/images/team-logos-alt/lotte.png\" alt=\"\" loading=\"lazy\" onerror=\"this.onerror=null;this.removeAttribute('src');this.classList.add('is-missing');\">\n  <span class=\"ds-game-team__name\">\n    Lotte<span class=\"ds-game-team__suffix\"> Giants</span>\n  </span>\n  \n  \n</div>\n  </div>\n\n  <div class=\"ds-game-card__status\">\n    \n        <span class=\"ds-game-card__state is-time \">\n          <time data-format=\"%l:%M%P\" data-local=\"time\" datetime=\"2026-07-22T09:30:00Z\">\n   6:30pm\n</time>\n        </span>\n        <span class=\"ds-game-card__sub is-prose\">Busan-Sajik</span>\n    \n  </div>\n\n  \n  \n</a>"
+  },
+  {
+    "text": "Samsung Lions\nKiwoom Heroes\n6:30pm\nSeoul-Gocheok",
+    "href": "https://mykbostats.com/games/13721-Samsung-vs-Kiwoom-20260722",
+    "html": "<a id=\"game-line-13721\" class=\"ds-game-card \" href=\"/games/13721-Samsung-vs-Kiwoom-20260722\">\n  <div class=\"ds-game-card__teams\">\n    <div class=\"ds-game-team \">\n  <img class=\"ds-team-logo ds-game-team__logo\" src=\"/assets/images/team-logos-alt/samsung.png\" alt=\"\" loading=\"lazy\" onerror=\"this.onerror=null;this.removeAttribute('src');this.classList.add('is-missing');\">\n  <span class=\"ds-game-team__name\">\n    Samsung<span class=\"ds-game-team__suffix\"> Lions</span>\n  </span>\n  \n  \n</div>\n    <div class=\"ds-game-team \">\n  <img class=\"ds-team-logo ds-game-team__logo\" src=\"/assets/images/team-logos-alt/kiwoom.png\" alt=\"\" loading=\"lazy\" onerror=\"this.onerror=null;this.removeAttribute('src');this.classList.add('is-missing');\">\n  <span class=\"ds-game-team__name\">\n    Kiwoom<span class=\"ds-game-team__suffix\"> Heroes</span>\n  </span>\n  \n  \n</div>\n  </div>\n\n  <div class=\"ds-game-card__status\">\n    \n        <span class=\"ds-game-card__state is-time \">\n          <time data-format=\"%l:%M%P\" data-local=\"time\" datetime=\"2026-07-22T09:30:00Z\">\n   6:30pm\n</time>\n        </span>\n        <span class=\"ds-game-card__sub is-prose\">Seoul-Gocheok</span>\n    \n  </div>\n\n  \n  \n</a>"
+  },
+  {
+    "text": "Samsung",
+    "href": "https://mykbostats.com/teams/3-Samsung-Lions",
+    "html": "<a href=\"/teams/3-Samsung-Lions\">\n                  Samsung<span class=\"ds-standings-suffix\">Lions</span>\n                </a>"
+  },
+  {
+    "text": "KT",
+    "href": "https://mykbostats.com/teams/22-KT-Wiz",
+    "html": "<a href=\"/teams/22-KT-Wiz\">\n                  KT<span class=\"ds-standings-suffix\">Wiz</span>\n                </a>"
+  },
+  {
+    "text": "LG",
+    "href": "https://mykbostats.com/teams/6-LG-Twins",
+    "html": "<a href=\"/teams/6-LG-Twins\">\n                  LG<span class=\"ds-standings-suffix\">Twins</span>\n                </a>"
+  },
+  {
+    "text": "Kia",
+    "href": "https://mykbostats.com/teams/5-Kia-Tigers",
+    "html": "<a href=\"/teams/5-Kia-Tigers\">\n                  Kia<span class=\"ds-standings-suffix\">Tigers</span>\n                </a>"
+  },
+  {
+    "text": "Doosan",
+    "href": "https://mykbostats.com/teams/1-Doosan-Bears",
+    "html": "<a href=\"/teams/1-Doosan-Bears\">\n                  Doosan<span class=\"ds-standings-suffix\">Bears</span>\n                </a>"
+  },
+  {
+    "text": "NC",
+    "href": "https://mykbostats.com/teams/9-NC-Dinos",
+    "html": "<a href=\"/teams/9-NC-Dinos\">\n                  NC<span class=\"ds-standings-suffix\">Dinos</span>\n                </a>"
+  },
+  {
+    "text": "Hanwha",
+    "href": "https://mykbostats.com/teams/4-Hanwha-Eagles",
+    "html": "<a href=\"/teams/4-Hanwha-Eagles\">\n                  Hanwha<span class=\"ds-standings-suffix\">Eagles</span>\n                </a>"
+  },
+  {
+    "text": "Lotte",
+    "href": "https://mykbostats.com/teams/2-Lotte-Giants",
+    "html": "<a href=\"/teams/2-Lotte-Giants\">\n                  Lotte<span class=\"ds-standings-suffix\">Giants</span>\n                </a>"
+  },
+  {
+    "text": "SSG",
+    "href": "https://mykbostats.com/teams/24-SSG-Landers",
+    "html": "<a href=\"/teams/24-SSG-Landers\">\n                  SSG<span class=\"ds-standings-suffix\">Landers</span>\n                </a>"
+  },
+  {
+    "text": "Kiwoom",
+    "href": "https://mykbostats.com/teams/23-Kiwoom-Heroes",
+    "html": "<a href=\"/teams/23-Kiwoom-Heroes\">\n                  Kiwoom<span class=\"ds-standings-suffix\">Heroes</span>\n                </a>"
+  },
+  {
+    "text": "Win Matrix →",
+    "href": "https://mykbostats.com/stats/matrix",
+    "html": "<a href=\"/stats/matrix\">Win Matrix →</a>"
+  },
+  {
+    "text": "Full leaderboards",
+    "href": "https://mykbostats.com/stats",
+    "html": "<a href=\"/stats\">Full leaderboards</a>"
+  },
+  {
+    "text": "AVG",
+    "href": "https://mykbostats.com/stats/top/ba",
+    "html": "<a class=\"ds-leader-tag\" href=\"/stats/top/ba\">\n          AVG\n        </a>"
+  },
+  {
+    "text": "Choi Won-jun",
+    "href": "https://mykbostats.com/players/1288",
+    "html": "<a class=\"player-link\" href=\"/players/1288\" data-player-card=\"1288\" data-player-card-bound=\"true\">\n                  Choi Won-jun\n                </a>"
+  },
+  {
+    "text": "Víctor Reyes",
+    "href": "https://mykbostats.com/players/2572",
+    "html": "<a class=\"player-link\" href=\"/players/2572\" data-player-card=\"2572\" data-player-card-bound=\"true\">\n                  Víctor Reyes\n                </a>"
+  },
+  {
+    "text": "Koo Ja-wook",
+    "href": "https://mykbostats.com/players/964",
+    "html": "<a class=\"player-link\" href=\"/players/964\" data-player-card=\"964\" data-player-card-bound=\"true\">\n                  Koo Ja-wook\n                </a>"
+  },
+  {
+    "text": "HR",
+    "href": "https://mykbostats.com/stats/top/hr",
+    "html": "<a class=\"ds-leader-tag\" href=\"/stats/top/hr\">\n          HR\n        </a>"
+  },
+  {
+    "text": "Austin Dean",
+    "href": "https://mykbostats.com/players/2451",
+    "html": "<a class=\"player-link\" href=\"/players/2451\" data-player-card=\"2451\" data-player-card-bound=\"true\">\n                  Austin Dean\n                </a>"
+  },
+  {
+    "text": "Kim Do-yeong",
+    "href": "https://mykbostats.com/players/2281",
+    "html": "<a class=\"player-link\" href=\"/players/2281\" data-player-card=\"2281\" data-player-card-bound=\"true\">\n                  Kim Do-yeong\n                </a>"
+  },
+  {
+    "text": "Sam Hilliard",
+    "href": "https://mykbostats.com/players/2972",
+    "html": "<a class=\"player-link\" href=\"/players/2972\" data-player-card=\"2972\" data-player-card-bound=\"true\">\n                  Sam Hilliard\n                </a>"
+  },
+  {
+    "text": "Kang Baek-ho",
+    "href": "https://mykbostats.com/players/1694",
+    "html": "<a class=\"player-link\" href=\"/players/1694\" data-player-card=\"1694\" data-player-card-bound=\"true\">\n                  Kang Baek-ho\n                </a>"
+  },
+  {
+    "text": "RBI",
+    "href": "https://mykbostats.com/stats/top/rbi",
+    "html": "<a class=\"ds-leader-tag\" href=\"/stats/top/rbi\">\n          RBI\n        </a>"
+  },
+  {
+    "text": "Kang Baek-ho",
+    "href": "https://mykbostats.com/players/1694",
+    "html": "<a class=\"player-link\" href=\"/players/1694\" data-player-card=\"1694\" data-player-card-bound=\"true\">\n                  Kang Baek-ho\n                </a>"
+  },
+  {
+    "text": "Austin Dean",
+    "href": "https://mykbostats.com/players/2451",
+    "html": "<a class=\"player-link\" href=\"/players/2451\" data-player-card=\"2451\" data-player-card-bound=\"true\">\n                  Austin Dean\n                </a>"
+  },
+  {
+    "text": "Sam Hilliard",
+    "href": "https://mykbostats.com/players/2972",
+    "html": "<a class=\"player-link\" href=\"/players/2972\" data-player-card=\"2972\" data-player-card-bound=\"true\">\n                  Sam Hilliard\n                </a>"
+  },
+  {
+    "text": "ERA",
+    "href": "https://mykbostats.com/stats/top/era",
+    "html": "<a class=\"ds-leader-tag\" href=\"/stats/top/era\">\n          ERA\n        </a>"
+  },
+  {
+    "text": "Choi Min-seok",
+    "href": "https://mykbostats.com/players/2746",
+    "html": "<a class=\"player-link\" href=\"/players/2746\" data-player-card=\"2746\" data-player-card-bound=\"true\">\n                  Choi Min-seok\n                </a>"
+  },
+  {
+    "text": "Adam Oller",
+    "href": "https://mykbostats.com/players/2770",
+    "html": "<a class=\"player-link\" href=\"/players/2770\" data-player-card=\"2770\" data-player-card-bound=\"true\">\n                  Adam Oller\n                </a>"
+  },
+  {
+    "text": "Gwak Been",
+    "href": "https://mykbostats.com/players/1628",
+    "html": "<a class=\"player-link\" href=\"/players/1628\" data-player-card=\"1628\" data-player-card-bound=\"true\">\n                  Gwak Been\n                </a>"
+  },
+  {
+    "text": "SV",
+    "href": "https://mykbostats.com/stats/top/sv",
+    "html": "<a class=\"ds-leader-tag\" href=\"/stats/top/sv\">\n          SV\n        </a>"
+  },
+  {
+    "text": "Kim Jae-yoon",
+    "href": "https://mykbostats.com/players/1155",
+    "html": "<a class=\"player-link\" href=\"/players/1155\" data-player-card=\"1155\" data-player-card-bound=\"true\">\n                  Kim Jae-yoon\n                </a>"
+  },
+  {
+    "text": "Son Ju-young",
+    "href": "https://mykbostats.com/players/1501",
+    "html": "<a class=\"player-link\" href=\"/players/1501\" data-player-card=\"1501\" data-player-card-bound=\"true\">\n                  Son Ju-young\n                </a>"
+  },
+  {
+    "text": "Park Yeong-hyun",
+    "href": "https://mykbostats.com/players/2302",
+    "html": "<a class=\"player-link\" href=\"/players/2302\" data-player-card=\"2302\" data-player-card-bound=\"true\">\n                  Park Yeong-hyun\n                </a>"
+  },
+  {
+    "text": "Privacy Policy",
+    "href": "https://mykbostats.com/privacy",
+    "html": "<a href=\"/privacy\">Privacy Policy</a>"
+  },
+  {
+    "text": "Terms of Service",
+    "href": "https://mykbostats.com/tos",
+    "html": "<a href=\"/tos\">Terms of Service</a>"
+  }
+]
