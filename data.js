@@ -1,5 +1,5 @@
 window.kboData = {
-  "lastUpdated": "2026-07-21T22:12:11.515Z",
+  "lastUpdated": "2026-07-22T07:43:49.700Z",
   "games": [
     {
       "id": "13717-Hanwha-vs-Kia-20260722",
@@ -24,21 +24,21 @@ window.kboData = {
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": ".265",
-          "obp": ".335",
-          "slg": ".410",
-          "ops": ".745",
-          "r": "450",
-          "r_per_game": "5.00",
-          "hr": 90
+          "avg": "0.273",
+          "obp": "0.353",
+          "slg": "0.421",
+          "ops": "0.774",
+          "r": "474",
+          "r_per_game": "5.26",
+          "hr": 73
         },
         "pitching": {
-          "era": "4.50",
-          "whip": "1.40",
-          "hr": 80,
-          "bb": 350,
-          "so": 700,
-          "avg": ".265"
+          "era": "3.88",
+          "whip": "1.36",
+          "hr": 66,
+          "bb": 194,
+          "so": 425,
+          "avg": "0.283"
         }
       },
       "teamHome": {
@@ -122,15 +122,15 @@ window.kboData = {
         "pitcher": {
           "name": "Anders Tolhurst",
           "url": "https://mykbostats.com/players/2913-Anders-Tolhurst-LG-Twins",
-          "era": "4.21",
-          "whip": "1.27",
-          "hr": 9,
-          "bb": 27,
-          "so": 78,
-          "ip": "98 ⅓",
-          "hb": 8,
-          "fip": "4.47",
-          "yearUsed": "2026"
+          "era": 4.5,
+          "whip": 1.4,
+          "hr": 0,
+          "bb": 0,
+          "so": 0,
+          "ip": 0,
+          "hb": 0,
+          "fip": 4.5,
+          "yearUsed": "Error"
         },
         "batting": {
           "avg": "0.271",
@@ -174,21 +174,21 @@ window.kboData = {
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": "0.273",
-          "obp": "0.347",
-          "slg": "0.396",
-          "ops": "0.743",
-          "r": "455",
-          "r_per_game": "5.06",
-          "hr": 58
+          "avg": "0.274",
+          "obp": "0.346",
+          "slg": "0.401",
+          "ops": "0.747",
+          "r": "457",
+          "r_per_game": "5.08",
+          "hr": 52
         },
         "pitching": {
-          "era": "3.60",
-          "whip": "1.33",
-          "hr": 52,
-          "bb": 242,
-          "so": 650,
-          "avg": "0.283"
+          "era": "3.35",
+          "whip": "1.29",
+          "hr": 47,
+          "bb": 145,
+          "so": 413,
+          "avg": "0.284"
         }
       },
       "teamHome": {
