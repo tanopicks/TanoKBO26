@@ -1,11 +1,11 @@
 window.kboData = {
-  "lastUpdated": "2026-07-24T13:06:54.183Z",
+  "lastUpdated": "2026-07-24T18:06:28.284Z",
   "games": [
     {
       "id": "13732-KT-vs-Lotte-20260725",
       "url": "https://mykbostats.com/games/13732-KT-vs-Lotte-20260725",
       "status": "6:00pm",
-      "isTomorrow": true,
+      "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "KT Wiz",
@@ -80,7 +80,7 @@ window.kboData = {
       "id": "13733-LG-vs-Hanwha-20260725",
       "url": "https://mykbostats.com/games/13733-LG-vs-Hanwha-20260725",
       "status": "6:00pm",
-      "isTomorrow": true,
+      "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "LG Twins",
@@ -103,16 +103,16 @@ window.kboData = {
           "obp": "0.361",
           "slg": "0.403",
           "ops": "0.764",
-          "r": "467",
-          "r_per_game": "5.19",
+          "r": "468",
+          "r_per_game": "5.20",
           "hr": 78
         },
         "pitching": {
-          "era": "4.24",
+          "era": "4.31",
           "whip": "1.41",
           "hr": 70,
-          "bb": 229,
-          "so": 467,
+          "bb": 231,
+          "so": 470,
           "avg": "0.282"
         }
       },
@@ -142,11 +142,11 @@ window.kboData = {
           "hr": 76
         },
         "pitching": {
-          "era": "3.83",
-          "whip": "1.34",
+          "era": "3.85",
+          "whip": "1.35",
           "hr": 68,
-          "bb": 197,
-          "so": 440,
+          "bb": 200,
+          "so": 445,
           "avg": "0.283"
         }
       }
@@ -155,7 +155,7 @@ window.kboData = {
       "id": "13734-NC-vs-SSG-20260725",
       "url": "https://mykbostats.com/games/13734-NC-vs-SSG-20260725",
       "status": "6:00pm",
-      "isTomorrow": true,
+      "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "NC Dinos",
@@ -230,7 +230,7 @@ window.kboData = {
       "id": "13735-Samsung-vs-Doosan-20260725",
       "url": "https://mykbostats.com/games/13735-Samsung-vs-Doosan-20260725",
       "status": "6:00pm",
-      "isTomorrow": true,
+      "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "Samsung Lions",
@@ -286,9 +286,9 @@ window.kboData = {
           "avg": "0.273",
           "obp": "0.348",
           "slg": "0.397",
-          "ops": "0.746",
+          "ops": "0.745",
           "r": "456",
-          "r_per_game": "5.07",
+          "r_per_game": "5.06",
           "hr": 58
         },
         "pitching": {
@@ -305,20 +305,23 @@ window.kboData = {
       "id": "13736-Kiwoom-vs-Kia-20260725",
       "url": "https://mykbostats.com/games/13736-Kiwoom-vs-Kia-20260725",
       "status": "6:00pm",
-      "isTomorrow": true,
+      "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "Kiwoom Heroes",
         "url": "https://mykbostats.com/teams/23-Kiwoom-Heroes",
         "pitcher": {
-          "name": "TBD",
-          "era": "0.00",
-          "whip": "0.00",
-          "hr": 0,
-          "bb": 0,
-          "so": 0,
-          "ip": "0",
-          "fip": "0.00"
+          "name": "Park Jun-hyun",
+          "url": "https://mykbostats.com/players/2974-Park-Junhyun-Kiwoom-Heroes",
+          "era": "4.18",
+          "whip": "1.66",
+          "hr": 3,
+          "bb": 42,
+          "so": 50,
+          "ip": "51 ⅔",
+          "hb": 1,
+          "fip": "5.12",
+          "yearUsed": "2026"
         },
         "batting": {
           "avg": "0.256",
@@ -330,11 +333,11 @@ window.kboData = {
           "hr": 60
         },
         "pitching": {
-          "era": "4.16",
-          "whip": "1.41",
+          "era": "4.15",
+          "whip": "1.42",
           "hr": 54,
-          "bb": 182,
-          "so": 359,
+          "bb": 185,
+          "so": 367,
           "avg": "0.266"
         }
       },
@@ -342,14 +345,17 @@ window.kboData = {
         "name": "Kia Tigers",
         "url": "https://mykbostats.com/teams/5-Kia-Tigers",
         "pitcher": {
-          "name": "TBD",
-          "era": "0.00",
-          "whip": "0.00",
-          "hr": 0,
-          "bb": 0,
-          "so": 0,
-          "ip": "0",
-          "fip": "0.00"
+          "name": "Yang Hyeon-jong",
+          "url": "https://mykbostats.com/players/298-Yang-Hyeonjong-Kia-Tigers",
+          "era": "3.78",
+          "whip": "1.40",
+          "hr": 10,
+          "bb": 40,
+          "so": 54,
+          "ip": "83 ⅓",
+          "hb": 1,
+          "fip": "5.54",
+          "yearUsed": "2026"
         },
         "batting": {
           "avg": "0.279",
