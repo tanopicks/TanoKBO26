@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-25T14:50:34.128Z",
+  "lastUpdated": "2026-07-25T18:07:00.792Z",
   "games": [
     {
       "id": "13737-KT-vs-Lotte-20260726",
       "url": "https://mykbostats.com/games/13737-KT-vs-Lotte-20260726",
       "status": "6:00pm",
-      "isTomorrow": true,
+      "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "KT Wiz",
@@ -80,7 +80,7 @@
       "id": "13738-LG-vs-Hanwha-20260726",
       "url": "https://mykbostats.com/games/13738-LG-vs-Hanwha-20260726",
       "status": "6:00pm",
-      "isTomorrow": true,
+      "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "LG Twins",
@@ -136,11 +136,11 @@
           "hr": 76
         },
         "pitching": {
-          "era": "3.80",
+          "era": "3.82",
           "whip": "1.35",
           "hr": 68,
-          "bb": 212,
-          "so": 462,
+          "bb": 213,
+          "so": 465,
           "avg": "0.285"
         }
       }
@@ -149,7 +149,7 @@
       "id": "13739-NC-vs-SSG-20260726",
       "url": "https://mykbostats.com/games/13739-NC-vs-SSG-20260726",
       "status": "6:00pm",
-      "isTomorrow": true,
+      "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "NC Dinos",
@@ -224,7 +224,7 @@
       "id": "13740-Samsung-vs-Doosan-20260726",
       "url": "https://mykbostats.com/games/13740-Samsung-vs-Doosan-20260726",
       "status": "6:00pm",
-      "isTomorrow": true,
+      "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "Samsung Lions",
@@ -252,11 +252,11 @@
           "hr": 70
         },
         "pitching": {
-          "era": "3.98",
-          "whip": "1.40",
+          "era": "3.95",
+          "whip": "1.39",
           "hr": 63,
           "bb": 216,
-          "so": 438,
+          "so": 442,
           "avg": "0.296"
         }
       },
@@ -286,11 +286,11 @@
           "hr": 58
         },
         "pitching": {
-          "era": "3.66",
+          "era": "3.68",
           "whip": "1.34",
           "hr": 52,
-          "bb": 248,
-          "so": 656,
+          "bb": 249,
+          "so": 660,
           "avg": "0.283"
         }
       }
@@ -299,7 +299,7 @@
       "id": "13741-Kiwoom-vs-Kia-20260726",
       "url": "https://mykbostats.com/games/13741-Kiwoom-vs-Kia-20260726",
       "status": "6:00pm",
-      "isTomorrow": true,
+      "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "Kiwoom Heroes",
