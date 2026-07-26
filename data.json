@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-25T21:12:24.833Z",
+  "lastUpdated": "2026-07-26T07:18:42.542Z",
   "games": [
     {
       "id": "13737-KT-vs-Lotte-20260726",
@@ -58,21 +58,21 @@
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": "0.267",
-          "obp": "0.331",
-          "slg": "0.388",
-          "ops": "0.719",
-          "r": "440",
-          "r_per_game": "4.89",
-          "hr": 53
+          "avg": "0.265",
+          "obp": "0.328",
+          "slg": "0.387",
+          "ops": "0.715",
+          "r": "438",
+          "r_per_game": "4.86",
+          "hr": 56
         },
         "pitching": {
           "era": "4.24",
           "whip": "1.40",
-          "hr": 48,
+          "hr": 50,
           "bb": 271,
           "so": 649,
-          "avg": "0.277"
+          "avg": "0.275"
         }
       }
     },
@@ -86,14 +86,17 @@
         "name": "LG Twins",
         "url": "https://mykbostats.com/teams/6-LG-Twins",
         "pitcher": {
-          "name": "TBD",
-          "era": "0.00",
-          "whip": "0.00",
+          "name": "Park Si-won",
+          "url": "https://mykbostats.com/players/2860-Park-Siwon-LG-Twins",
+          "era": "4.00",
+          "whip": "1.67",
           "hr": 0,
-          "bb": 0,
-          "so": 0,
-          "ip": "0",
-          "fip": "0.00"
+          "bb": 8,
+          "so": 12,
+          "ip": "18",
+          "hb": 3,
+          "fip": "4.30",
+          "yearUsed": "2026"
         },
         "batting": {
           "avg": "0.273",
@@ -117,14 +120,17 @@
         "name": "Hanwha Eagles",
         "url": "https://mykbostats.com/teams/4-Hanwha-Eagles",
         "pitcher": {
-          "name": "TBD",
-          "era": "0.00",
-          "whip": "0.00",
+          "name": "짐머맨",
+          "url": "https://mykbostats.com/players/3100-%E1%84%8C%E1%85%B5%E1%86%B7%E1%84%86%E1%85%A5%E1%84%86%E1%85%A2%E1%86%AB-Hanwha-Eagles",
+          "era": 4.5,
+          "whip": 1.4,
           "hr": 0,
           "bb": 0,
           "so": 0,
-          "ip": "0",
-          "fip": "0.00"
+          "ip": 0,
+          "hb": 0,
+          "fip": 4.5,
+          "yearUsed": "N/A"
         },
         "batting": {
           "avg": "0.276",
@@ -136,11 +142,11 @@
           "hr": 78
         },
         "pitching": {
-          "era": "3.97",
+          "era": "3.84",
           "whip": "1.37",
           "hr": 70,
-          "bb": 224,
-          "so": 467,
+          "bb": 203,
+          "so": 434,
           "avg": "0.286"
         }
       }
