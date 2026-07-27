@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-27T18:00:45.019Z",
+  "lastUpdated": "2026-07-27T21:51:16.453Z",
   "games": [
     {
       "id": "13742-Kia-vs-Samsung-20260728",
@@ -197,15 +197,15 @@
         "pitcher": {
           "name": "Owen White",
           "url": "https://mykbostats.com/players/2944-Owen-White-Hanwha-Eagles",
-          "era": "2.92",
-          "whip": "1.16",
-          "hr": 5,
-          "bb": 16,
-          "so": 52,
-          "ip": "74",
-          "hb": 1,
-          "fip": "3.96",
-          "yearUsed": "2026"
+          "era": 4.5,
+          "whip": 1.4,
+          "hr": 0,
+          "bb": 0,
+          "so": 0,
+          "ip": 0,
+          "hb": 0,
+          "fip": 4.5,
+          "yearUsed": "Error"
         },
         "batting": {
           "avg": "0.279",
@@ -272,15 +272,15 @@
         "pitcher": {
           "name": "Pedro Ávila",
           "url": "https://mykbostats.com/players/3095-Pedro-A%CC%81vila-SSG-Landers",
-          "era": "2.25",
-          "whip": "0.83",
+          "era": 4.5,
+          "whip": 1.4,
           "hr": 0,
-          "bb": 3,
-          "so": 14,
-          "ip": "12",
+          "bb": 0,
+          "so": 0,
+          "ip": 0,
           "hb": 0,
-          "fip": "2.22",
-          "yearUsed": "2026"
+          "fip": 4.5,
+          "yearUsed": "Error"
         },
         "batting": {
           "avg": "0.257",
