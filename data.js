@@ -1,5 +1,5 @@
 window.kboData = {
-  "lastUpdated": "2026-07-27T21:51:16.453Z",
+  "lastUpdated": "2026-07-28T07:47:53.357Z",
   "games": [
     {
       "id": "13742-Kia-vs-Samsung-20260728",
@@ -34,10 +34,10 @@ window.kboData = {
         },
         "pitching": {
           "era": "4.35",
-          "whip": "1.39",
+          "whip": "1.38",
           "hr": 88,
-          "bb": 314,
-          "so": 621,
+          "bb": 282,
+          "so": 564,
           "avg": "0.289"
         }
       },
@@ -174,21 +174,21 @@ window.kboData = {
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": "0.270",
-          "obp": "0.333",
-          "slg": "0.396",
-          "ops": "0.729",
-          "r": "446",
-          "r_per_game": "4.96",
-          "hr": 58
+          "avg": "0.267",
+          "obp": "0.332",
+          "slg": "0.401",
+          "ops": "0.732",
+          "r": "448",
+          "r_per_game": "4.98",
+          "hr": 50
         },
         "pitching": {
-          "era": "4.20",
+          "era": "4.18",
           "whip": "1.40",
-          "hr": 52,
-          "bb": 273,
-          "so": 657,
-          "avg": "0.280"
+          "hr": 45,
+          "bb": 252,
+          "so": 632,
+          "avg": "0.277"
         }
       },
       "teamHome": {
@@ -197,15 +197,15 @@ window.kboData = {
         "pitcher": {
           "name": "Owen White",
           "url": "https://mykbostats.com/players/2944-Owen-White-Hanwha-Eagles",
-          "era": 4.5,
-          "whip": 1.4,
-          "hr": 0,
-          "bb": 0,
-          "so": 0,
-          "ip": 0,
-          "hb": 0,
-          "fip": 4.5,
-          "yearUsed": "Error"
+          "era": "2.92",
+          "whip": "1.16",
+          "hr": 5,
+          "bb": 16,
+          "so": 52,
+          "ip": "74",
+          "hb": 1,
+          "fip": "3.96",
+          "yearUsed": "2026"
         },
         "batting": {
           "avg": "0.279",
@@ -272,15 +272,15 @@ window.kboData = {
         "pitcher": {
           "name": "Pedro Ávila",
           "url": "https://mykbostats.com/players/3095-Pedro-A%CC%81vila-SSG-Landers",
-          "era": 4.5,
-          "whip": 1.4,
+          "era": "2.25",
+          "whip": "0.83",
           "hr": 0,
-          "bb": 0,
-          "so": 0,
-          "ip": 0,
+          "bb": 3,
+          "so": 14,
+          "ip": "12",
           "hb": 0,
-          "fip": 4.5,
-          "yearUsed": "Error"
+          "fip": "2.22",
+          "yearUsed": "2026"
         },
         "batting": {
           "avg": "0.257",
