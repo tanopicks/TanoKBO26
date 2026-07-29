@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-29T18:44:47.697Z",
+  "lastUpdated": "2026-07-29T21:42:46.865Z",
   "games": [
     {
       "id": "13752-Kia-vs-Samsung-20260730",
@@ -347,15 +347,15 @@
         "pitcher": {
           "name": "Im Chan-kyu",
           "url": "https://mykbostats.com/players/372-Im-Chankyu-LG-Twins",
-          "era": "4.53",
-          "whip": "1.46",
-          "hr": 7,
-          "bb": 30,
-          "so": 56,
-          "ip": "103 ⅓",
-          "hb": 4,
-          "fip": "4.58",
-          "yearUsed": "2026"
+          "era": 4.5,
+          "whip": 1.4,
+          "hr": 0,
+          "bb": 0,
+          "so": 0,
+          "ip": 0,
+          "hb": 0,
+          "fip": 4.5,
+          "yearUsed": "Error"
         },
         "batting": {
           "avg": "0.275",
