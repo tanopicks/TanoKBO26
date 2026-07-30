@@ -1,5 +1,5 @@
 window.kboData = {
-  "lastUpdated": "2026-07-29T21:42:46.865Z",
+  "lastUpdated": "2026-07-30T07:24:30.800Z",
   "games": [
     {
       "id": "13752-Kia-vs-Samsung-20260730",
@@ -24,21 +24,21 @@ window.kboData = {
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": "0.278",
-          "obp": "0.353",
-          "slg": "0.447",
-          "ops": "0.800",
-          "r": "490",
-          "r_per_game": "5.44",
-          "hr": 102
+          "avg": "0.260",
+          "obp": "0.330",
+          "slg": "0.400",
+          "ops": "0.730",
+          "r": "447",
+          "r_per_game": "4.96",
+          "hr": 0
         },
         "pitching": {
-          "era": "4.47",
-          "whip": "1.39",
-          "hr": 92,
-          "bb": 308,
-          "so": 616,
-          "avg": "0.288"
+          "era": "4.50",
+          "whip": "1.40",
+          "hr": 0,
+          "bb": 0,
+          "so": 0,
+          "avg": "0.270"
         }
       },
       "teamHome": {
@@ -99,21 +99,21 @@ window.kboData = {
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": "0.293",
-          "obp": "0.372",
-          "slg": "0.410",
-          "ops": "0.783",
-          "r": "479",
-          "r_per_game": "5.32",
-          "hr": 59
+          "avg": ".265",
+          "obp": ".335",
+          "slg": ".410",
+          "ops": ".745",
+          "r": "450",
+          "r_per_game": "5.00",
+          "hr": 90
         },
         "pitching": {
-          "era": "4.26",
-          "whip": "1.39",
-          "hr": 53,
-          "bb": 230,
-          "so": 568,
-          "avg": "0.303"
+          "era": "4.50",
+          "whip": "1.40",
+          "hr": 80,
+          "bb": 350,
+          "so": 700,
+          "avg": ".265"
         }
       },
       "teamHome": {
@@ -174,21 +174,21 @@ window.kboData = {
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": "0.273",
-          "obp": "0.335",
-          "slg": "0.399",
-          "ops": "0.734",
+          "avg": "0.269",
+          "obp": "0.333",
+          "slg": "0.400",
+          "ops": "0.733",
           "r": "449",
           "r_per_game": "4.99",
-          "hr": 59
+          "hr": 50
         },
         "pitching": {
           "era": "4.09",
           "whip": "1.39",
-          "hr": 53,
-          "bb": 256,
-          "so": 644,
-          "avg": "0.283"
+          "hr": 45,
+          "bb": 234,
+          "so": 617,
+          "avg": "0.279"
         }
       },
       "teamHome": {
@@ -208,21 +208,21 @@ window.kboData = {
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": "0.277",
-          "obp": "0.355",
-          "slg": "0.430",
-          "ops": "0.785",
-          "r": "481",
-          "r_per_game": "5.34",
-          "hr": 86
+          "avg": "0.260",
+          "obp": "0.330",
+          "slg": "0.400",
+          "ops": "0.730",
+          "r": "447",
+          "r_per_game": "4.96",
+          "hr": 0
         },
         "pitching": {
-          "era": "3.90",
+          "era": "4.50",
           "whip": "1.40",
-          "hr": 77,
-          "bb": 225,
-          "so": 471,
-          "avg": "0.287"
+          "hr": 0,
+          "bb": 0,
+          "so": 0,
+          "avg": "0.270"
         }
       }
     },
@@ -249,21 +249,21 @@ window.kboData = {
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": "0.272",
-          "obp": "0.345",
-          "slg": "0.394",
-          "ops": "0.739",
-          "r": "452",
-          "r_per_game": "5.02",
-          "hr": 60
+          "avg": "0.260",
+          "obp": "0.330",
+          "slg": "0.400",
+          "ops": "0.730",
+          "r": "447",
+          "r_per_game": "4.96",
+          "hr": 0
         },
         "pitching": {
-          "era": "3.61",
-          "whip": "1.33",
-          "hr": 54,
-          "bb": 257,
-          "so": 690,
-          "avg": "0.282"
+          "era": "4.50",
+          "whip": "1.40",
+          "hr": 0,
+          "bb": 0,
+          "so": 0,
+          "avg": "0.270"
         }
       },
       "teamHome": {
@@ -347,15 +347,15 @@ window.kboData = {
         "pitcher": {
           "name": "Im Chan-kyu",
           "url": "https://mykbostats.com/players/372-Im-Chankyu-LG-Twins",
-          "era": 4.5,
-          "whip": 1.4,
-          "hr": 0,
-          "bb": 0,
-          "so": 0,
-          "ip": 0,
-          "hb": 0,
-          "fip": 4.5,
-          "yearUsed": "Error"
+          "era": "4.53",
+          "whip": "1.46",
+          "hr": 7,
+          "bb": 30,
+          "so": 56,
+          "ip": "103 ⅓",
+          "hb": 4,
+          "fip": "4.58",
+          "yearUsed": "2026"
         },
         "batting": {
           "avg": "0.275",
