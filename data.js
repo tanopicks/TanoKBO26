@@ -1,11 +1,11 @@
 window.kboData = {
-  "lastUpdated": "2026-07-30T13:14:03.084Z",
+  "lastUpdated": "2026-07-30T18:04:51.493Z",
   "games": [
     {
       "id": "13757-Hanwha-vs-KT-20260731",
       "url": "https://mykbostats.com/games/13757-Hanwha-vs-KT-20260731",
       "status": "6:30pm",
-      "isTomorrow": true,
+      "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "Hanwha Eagles",
@@ -67,11 +67,11 @@ window.kboData = {
           "hr": 59
         },
         "pitching": {
-          "era": "4.15",
+          "era": "4.13",
           "whip": "1.38",
           "hr": 53,
-          "bb": 185,
-          "so": 497,
+          "bb": 186,
+          "so": 500,
           "avg": "0.298"
         }
       }
@@ -80,7 +80,7 @@ window.kboData = {
       "id": "13758-Kia-vs-NC-20260731",
       "url": "https://mykbostats.com/games/13758-Kia-vs-NC-20260731",
       "status": "6:30pm",
-      "isTomorrow": true,
+      "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "Kia Tigers",
@@ -155,7 +155,7 @@ window.kboData = {
       "id": "13759-LG-vs-Doosan-20260731",
       "url": "https://mykbostats.com/games/13759-LG-vs-Doosan-20260731",
       "status": "6:30pm",
-      "isTomorrow": true,
+      "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "LG Twins",
@@ -186,8 +186,8 @@ window.kboData = {
           "era": "4.47",
           "whip": "1.44",
           "hr": 77,
-          "bb": 236,
-          "so": 476,
+          "bb": 238,
+          "so": 480,
           "avg": "0.285"
         }
       },
@@ -209,8 +209,8 @@ window.kboData = {
         },
         "batting": {
           "avg": "0.272",
-          "obp": "0.346",
-          "slg": "0.395",
+          "obp": "0.345",
+          "slg": "0.394",
           "ops": "0.740",
           "r": "453",
           "r_per_game": "5.03",
@@ -230,7 +230,7 @@ window.kboData = {
       "id": "13760-SSG-vs-Kiwoom-20260731",
       "url": "https://mykbostats.com/games/13760-SSG-vs-Kiwoom-20260731",
       "status": "6:30pm",
-      "isTomorrow": true,
+      "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "SSG Landers",
@@ -249,21 +249,21 @@ window.kboData = {
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": "0.254",
-          "obp": "0.334",
-          "slg": "0.385",
-          "ops": "0.719",
-          "r": "440",
-          "r_per_game": "4.89",
-          "hr": 57
+          "avg": ".265",
+          "obp": ".335",
+          "slg": ".410",
+          "ops": ".745",
+          "r": "450",
+          "r_per_game": "5.00",
+          "hr": 90
         },
         "pitching": {
-          "era": "5.22",
-          "whip": "1.53",
-          "hr": 51,
-          "bb": 318,
-          "so": 562,
-          "avg": "0.264"
+          "era": "4.50",
+          "whip": "1.40",
+          "hr": 80,
+          "bb": 350,
+          "so": 700,
+          "avg": ".265"
         }
       },
       "teamHome": {
@@ -305,7 +305,7 @@ window.kboData = {
       "id": "13761-Samsung-vs-Lotte-20260731",
       "url": "https://mykbostats.com/games/13761-Samsung-vs-Lotte-20260731",
       "status": "6:30pm",
-      "isTomorrow": true,
+      "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "Samsung Lions",
