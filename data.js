@@ -1,5 +1,5 @@
 window.kboData = {
-  "lastUpdated": "2026-07-30T21:52:56.550Z",
+  "lastUpdated": "2026-07-31T08:19:38.730Z",
   "games": [
     {
       "id": "13757-Hanwha-vs-KT-20260731",
@@ -24,21 +24,21 @@ window.kboData = {
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": "0.277",
-          "obp": "0.355",
-          "slg": "0.430",
-          "ops": "0.785",
-          "r": "481",
-          "r_per_game": "5.34",
-          "hr": 87
+          "avg": "0.281",
+          "obp": "0.359",
+          "slg": "0.447",
+          "ops": "0.806",
+          "r": "493",
+          "r_per_game": "5.48",
+          "hr": 110
         },
         "pitching": {
           "era": "3.87",
           "whip": "1.40",
-          "hr": 78,
+          "hr": 99,
           "bb": 228,
           "so": 480,
-          "avg": "0.287"
+          "avg": "0.291"
         }
       },
       "teamHome": {
@@ -58,12 +58,12 @@ window.kboData = {
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": "0.288",
-          "obp": "0.366",
-          "slg": "0.404",
-          "ops": "0.770",
-          "r": "471",
-          "r_per_game": "5.24",
+          "avg": "0.294",
+          "obp": "0.373",
+          "slg": "0.415",
+          "ops": "0.787",
+          "r": "482",
+          "r_per_game": "5.35",
           "hr": 62
         },
         "pitching": {
@@ -72,7 +72,7 @@ window.kboData = {
           "hr": 56,
           "bb": 188,
           "so": 505,
-          "avg": "0.298"
+          "avg": "0.304"
         }
       }
     },
@@ -99,12 +99,12 @@ window.kboData = {
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": "0.280",
-          "obp": "0.353",
-          "slg": "0.449",
-          "ops": "0.803",
-          "r": "491",
-          "r_per_game": "5.46",
+          "avg": "0.282",
+          "obp": "0.356",
+          "slg": "0.457",
+          "ops": "0.814",
+          "r": "498",
+          "r_per_game": "5.53",
           "hr": 105
         },
         "pitching": {
@@ -113,7 +113,7 @@ window.kboData = {
           "hr": 95,
           "bb": 310,
           "so": 624,
-          "avg": "0.290"
+          "avg": "0.292"
         }
       },
       "teamHome": {
@@ -175,11 +175,11 @@ window.kboData = {
         },
         "batting": {
           "avg": "0.275",
-          "obp": "0.364",
-          "slg": "0.411",
-          "ops": "0.775",
-          "r": "474",
-          "r_per_game": "5.27",
+          "obp": "0.365",
+          "slg": "0.412",
+          "ops": "0.777",
+          "r": "475",
+          "r_per_game": "5.28",
           "hr": 88
         },
         "pitching": {
@@ -208,21 +208,21 @@ window.kboData = {
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": "0.273",
-          "obp": "0.346",
-          "slg": "0.395",
-          "ops": "0.741",
-          "r": "454",
-          "r_per_game": "5.04",
-          "hr": 61
+          "avg": "0.274",
+          "obp": "0.349",
+          "slg": "0.401",
+          "ops": "0.750",
+          "r": "459",
+          "r_per_game": "5.10",
+          "hr": 62
         },
         "pitching": {
           "era": "3.60",
           "whip": "1.33",
-          "hr": 55,
+          "hr": 56,
           "bb": 262,
           "so": 700,
-          "avg": "0.283"
+          "avg": "0.284"
         }
       }
     },
@@ -324,12 +324,12 @@ window.kboData = {
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": "0.286",
-          "obp": "0.377",
-          "slg": "0.420",
-          "ops": "0.797",
-          "r": "488",
-          "r_per_game": "5.42",
+          "avg": "0.289",
+          "obp": "0.379",
+          "slg": "0.424",
+          "ops": "0.803",
+          "r": "491",
+          "r_per_game": "5.46",
           "hr": 76
         },
         "pitching": {
@@ -338,7 +338,7 @@ window.kboData = {
           "hr": 68,
           "bb": 182,
           "so": 407,
-          "avg": "0.296"
+          "avg": "0.299"
         }
       },
       "teamHome": {
@@ -347,15 +347,15 @@ window.kboData = {
         "pitcher": {
           "name": "Kim Jin-uk",
           "url": "https://mykbostats.com/players/2114-Kim-Jinuk-Lotte-Giants",
-          "era": "3.19",
-          "whip": "1.26",
-          "hr": 13,
-          "bb": 35,
-          "so": 87,
-          "ip": "104 ⅓",
-          "hb": 6,
-          "fip": "4.93",
-          "yearUsed": "2026"
+          "era": 4.5,
+          "whip": 1.4,
+          "hr": 0,
+          "bb": 0,
+          "so": 0,
+          "ip": 0,
+          "hb": 0,
+          "fip": 4.5,
+          "yearUsed": "Error"
         },
         "batting": {
           "avg": "0.273",
