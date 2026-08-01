@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-01T00:11:06.989Z",
+  "lastUpdated": "2026-08-01T07:57:20.929Z",
   "games": [
     {
       "id": "13762-Hanwha-vs-KT-20260801",
@@ -33,11 +33,11 @@
           "hr": 111
         },
         "pitching": {
-          "era": "3.90",
-          "whip": "1.40",
+          "era": "3.87",
+          "whip": "1.39",
           "hr": 100,
-          "bb": 229,
-          "so": 486,
+          "bb": 219,
+          "so": 477,
           "avg": "0.291"
         }
       },
@@ -79,38 +79,35 @@
     {
       "id": "13763-Kia-vs-NC-20260801",
       "url": "https://mykbostats.com/games/13763-Kia-vs-NC-20260801",
-      "status": "6:00pm",
+      "status": "Canceled",
       "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "Kia Tigers",
         "url": "https://mykbostats.com/teams/5-Kia-Tigers",
         "pitcher": {
-          "name": "Hwang Dong-ha",
-          "url": "https://mykbostats.com/players/2362-Hwang-Dongha-Kia-Tigers",
-          "era": "4.38",
-          "whip": "1.45",
-          "hr": 13,
-          "bb": 32,
-          "so": 57,
-          "ip": "76",
-          "hb": 3,
-          "fip": "5.91",
-          "yearUsed": "2026"
+          "name": "TBD",
+          "era": "0.00",
+          "whip": "0.00",
+          "hr": 0,
+          "bb": 0,
+          "so": 0,
+          "ip": "0",
+          "fip": "0.00"
         },
         "batting": {
           "avg": "0.282",
-          "obp": "0.356",
-          "slg": "0.459",
+          "obp": "0.354",
+          "slg": "0.460",
           "ops": "0.815",
           "r": "499",
           "r_per_game": "5.54",
-          "hr": 107
+          "hr": 106
         },
         "pitching": {
           "era": "4.51",
           "whip": "1.41",
-          "hr": 96,
+          "hr": 95,
           "bb": 321,
           "so": 628,
           "avg": "0.292"
@@ -120,17 +117,14 @@
         "name": "NC Dinos",
         "url": "https://mykbostats.com/teams/9-NC-Dinos",
         "pitcher": {
-          "name": "Riley Thompson",
-          "url": "https://mykbostats.com/players/2781-Riley-Thompson-NC-Dinos",
-          "era": "3.09",
-          "whip": "1.11",
-          "hr": 11,
-          "bb": 18,
-          "so": 100,
-          "ip": "75 ⅔",
-          "hb": 0,
-          "fip": "3.76",
-          "yearUsed": "2026"
+          "name": "TBD",
+          "era": "0.00",
+          "whip": "0.00",
+          "hr": 0,
+          "bb": 0,
+          "so": 0,
+          "ip": "0",
+          "fip": "0.00"
         },
         "batting": {
           "avg": "0.274",
@@ -183,10 +177,10 @@
           "hr": 88
         },
         "pitching": {
-          "era": "4.45",
+          "era": "4.44",
           "whip": "1.43",
           "hr": 79,
-          "bb": 241,
+          "bb": 240,
           "so": 490,
           "avg": "0.284"
         }
@@ -272,15 +266,15 @@
         "pitcher": {
           "name": "Kim Yun-ha",
           "url": "https://mykbostats.com/players/2614-Kim-Yunha-Kiwoom-Heroes",
-          "era": "6.35",
-          "whip": "1.53",
-          "hr": 6,
-          "bb": 5,
-          "so": 15,
-          "ip": "17",
+          "era": 4.5,
+          "whip": 1.4,
+          "hr": 0,
+          "bb": 0,
+          "so": 0,
+          "ip": 0,
           "hb": 0,
-          "fip": "7.51",
-          "yearUsed": "2026"
+          "fip": 4.5,
+          "yearUsed": "Error"
         },
         "batting": {
           "avg": "0.260",
@@ -304,24 +298,21 @@
     {
       "id": "13766-Samsung-vs-Lotte-20260801",
       "url": "https://mykbostats.com/games/13766-Samsung-vs-Lotte-20260801",
-      "status": "6:00pm",
+      "status": "Canceled",
       "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "Samsung Lions",
         "url": "https://mykbostats.com/teams/3-Samsung-Lions",
         "pitcher": {
-          "name": "Voth Austin",
-          "url": "https://mykbostats.com/players/3099-Voth-Austin-Samsung-Lions",
-          "era": "3.60",
-          "whip": "1.00",
+          "name": "TBD",
+          "era": "0.00",
+          "whip": "0.00",
           "hr": 0,
           "bb": 0,
-          "so": 5,
-          "ip": "5",
-          "hb": 0,
-          "fip": "1.80",
-          "yearUsed": "2026"
+          "so": 0,
+          "ip": "0",
+          "fip": "0.00"
         },
         "batting": {
           "avg": "0.290",
@@ -345,34 +336,31 @@
         "name": "Lotte Giants",
         "url": "https://mykbostats.com/teams/2-Lotte-Giants",
         "pitcher": {
-          "name": "Jeremy Beasley",
-          "url": "https://mykbostats.com/players/2924-Jeremy-Beasley-Lotte-Giants",
-          "era": "4.02",
-          "whip": "1.40",
-          "hr": 6,
-          "bb": 32,
-          "so": 111,
-          "ip": "96 ⅓",
-          "hb": 9,
-          "fip": "3.58",
-          "yearUsed": "2026"
+          "name": "TBD",
+          "era": "0.00",
+          "whip": "0.00",
+          "hr": 0,
+          "bb": 0,
+          "so": 0,
+          "ip": "0",
+          "fip": "0.00"
         },
         "batting": {
-          "avg": "0.274",
-          "obp": "0.336",
-          "slg": "0.399",
-          "ops": "0.735",
-          "r": "450",
-          "r_per_game": "5.00",
-          "hr": 60
+          "avg": "0.271",
+          "obp": "0.333",
+          "slg": "0.397",
+          "ops": "0.730",
+          "r": "447",
+          "r_per_game": "4.96",
+          "hr": 64
         },
         "pitching": {
-          "era": "4.21",
+          "era": "4.22",
           "whip": "1.40",
-          "hr": 54,
-          "bb": 282,
+          "hr": 58,
+          "bb": 284,
           "so": 692,
-          "avg": "0.284"
+          "avg": "0.281"
         }
       }
     }
