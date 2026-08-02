@@ -1,81 +1,6 @@
 {
-  "lastUpdated": "2026-08-02T11:46:12.198Z",
+  "lastUpdated": "2026-08-02T15:44:09.821Z",
   "games": [
-    {
-      "id": "13768-Hanwha-vs-KT-20260802",
-      "url": "https://mykbostats.com/games/13768-Hanwha-vs-KT-20260802",
-      "status": "Bot 7th",
-      "isTomorrow": false,
-      "time": "6:30pm",
-      "teamAway": {
-        "name": "Hanwha Eagles",
-        "url": "https://mykbostats.com/teams/4-Hanwha-Eagles",
-        "pitcher": {
-          "name": "Gwon Min-gyu",
-          "url": "https://mykbostats.com/players/2760-Gwon-Mingyu-Hanwha-Eagles",
-          "era": "4.82",
-          "whip": "1.82",
-          "hr": 1,
-          "bb": 4,
-          "so": 7,
-          "ip": "9 ⅓",
-          "hb": 0,
-          "fip": "4.98",
-          "yearUsed": "2026"
-        },
-        "batting": {
-          "avg": "0.281",
-          "obp": "0.358",
-          "slg": "0.447",
-          "ops": "0.806",
-          "r": "493",
-          "r_per_game": "5.48",
-          "hr": 113
-        },
-        "pitching": {
-          "era": "3.92",
-          "whip": "1.40",
-          "hr": 102,
-          "bb": 223,
-          "so": 485,
-          "avg": "0.291"
-        }
-      },
-      "teamHome": {
-        "name": "KT Wiz",
-        "url": "https://mykbostats.com/teams/22-KT-Wiz",
-        "pitcher": {
-          "name": "Bae Jeong-dae",
-          "url": "https://mykbostats.com/players/862-Bae-Jeongdae-KT-Wiz",
-          "era": "0.00",
-          "whip": "0.00",
-          "hr": 0,
-          "bb": 4,
-          "so": 28,
-          "ip": "0",
-          "hb": 0,
-          "fip": "4.50",
-          "yearUsed": "2026"
-        },
-        "batting": {
-          "avg": "0.294",
-          "obp": "0.373",
-          "slg": "0.414",
-          "ops": "0.787",
-          "r": "481",
-          "r_per_game": "5.35",
-          "hr": 62
-        },
-        "pitching": {
-          "era": "4.09",
-          "whip": "1.38",
-          "hr": 56,
-          "bb": 193,
-          "so": 517,
-          "avg": "0.304"
-        }
-      }
-    },
     {
       "id": "13769-Kia-vs-NC-20260802",
       "url": "https://mykbostats.com/games/13769-Kia-vs-NC-20260802",
@@ -146,156 +71,6 @@
       }
     },
     {
-      "id": "13770-LG-vs-Doosan-20260802",
-      "url": "https://mykbostats.com/games/13770-LG-vs-Doosan-20260802",
-      "status": "Top 9th",
-      "isTomorrow": false,
-      "time": "6:30pm",
-      "teamAway": {
-        "name": "LG Twins",
-        "url": "https://mykbostats.com/teams/6-LG-Twins",
-        "pitcher": {
-          "name": "Austin Dean",
-          "url": "https://mykbostats.com/players/2451-Austin-Dean-LG-Twins",
-          "era": "0.00",
-          "whip": "0.00",
-          "hr": 31,
-          "bb": 52,
-          "so": 66,
-          "ip": "0",
-          "hb": 0,
-          "fip": "4.50",
-          "yearUsed": "2026"
-        },
-        "batting": {
-          "avg": "0.273",
-          "obp": "0.362",
-          "slg": "0.407",
-          "ops": "0.769",
-          "r": "471",
-          "r_per_game": "5.23",
-          "hr": 88
-        },
-        "pitching": {
-          "era": "4.39",
-          "whip": "1.41",
-          "hr": 79,
-          "bb": 242,
-          "so": 495,
-          "avg": "0.283"
-        }
-      },
-      "teamHome": {
-        "name": "Doosan Bears",
-        "url": "https://mykbostats.com/teams/1-Doosan-Bears",
-        "pitcher": {
-          "name": "Park Chi-guk",
-          "url": "https://mykbostats.com/players/1473-Park-Chiguk-Doosan-Bears",
-          "era": "3.68",
-          "whip": "1.74",
-          "hr": 1,
-          "bb": 12,
-          "so": 26,
-          "ip": "29 ⅓",
-          "hb": 5,
-          "fip": "4.21",
-          "yearUsed": "2026"
-        },
-        "batting": {
-          "avg": "0.271",
-          "obp": "0.345",
-          "slg": "0.399",
-          "ops": "0.745",
-          "r": "456",
-          "r_per_game": "5.06",
-          "hr": 65
-        },
-        "pitching": {
-          "era": "3.54",
-          "whip": "1.32",
-          "hr": 59,
-          "bb": 267,
-          "so": 725,
-          "avg": "0.281"
-        }
-      }
-    },
-    {
-      "id": "13771-Samsung-vs-Lotte-20260802",
-      "url": "https://mykbostats.com/games/13771-Samsung-vs-Lotte-20260802",
-      "status": "Top 7th",
-      "isTomorrow": false,
-      "time": "6:30pm",
-      "teamAway": {
-        "name": "Samsung Lions",
-        "url": "https://mykbostats.com/teams/3-Samsung-Lions",
-        "pitcher": {
-          "name": "Kim Do-hwan",
-          "url": "https://mykbostats.com/players/1797-Kim-Dohwan-Samsung-Lions",
-          "era": "0.00",
-          "whip": "0.00",
-          "hr": 2,
-          "bb": 11,
-          "so": 26,
-          "ip": "0",
-          "hb": 0,
-          "fip": "4.50",
-          "yearUsed": "2026"
-        },
-        "batting": {
-          "avg": "0.290",
-          "obp": "0.379",
-          "slg": "0.426",
-          "ops": "0.806",
-          "r": "493",
-          "r_per_game": "5.48",
-          "hr": 77
-        },
-        "pitching": {
-          "era": "3.92",
-          "whip": "1.36",
-          "hr": 69,
-          "bb": 183,
-          "so": 415,
-          "avg": "0.300"
-        }
-      },
-      "teamHome": {
-        "name": "Lotte Giants",
-        "url": "https://mykbostats.com/teams/2-Lotte-Giants",
-        "pitcher": {
-          "name": "Jeremy Beasley",
-          "url": "https://mykbostats.com/players/2924-Jeremy-Beasley-Lotte-Giants",
-          "era": "4.02",
-          "whip": "1.40",
-          "hr": 6,
-          "bb": 32,
-          "so": 111,
-          "ip": "96 ⅓",
-          "hb": 9,
-          "fip": "3.58",
-          "yearUsed": "2026"
-        },
-        "batting": {
-          "avg": "0.271",
-          "obp": "0.333",
-          "slg": "0.397",
-          "ops": "0.730",
-          "r": "447",
-          "r_per_game": "4.96",
-          "hr": 64
-        },
-        "pitching": {
-          "era": "4.22",
-          "whip": "1.40",
-          "hr": 58,
-          "bb": 284,
-          "so": 692,
-          "avg": "0.281"
-        }
-      }
-    },
-    {
       "id": "13763-Kia-vs-NC-20260801",
       "url": "https://mykbostats.com/games/13763-Kia-vs-NC-20260801",
       "status": "Canceled",
@@ -361,6 +136,75 @@
           "bb": 274,
           "so": 578,
           "avg": "0.284"
+        }
+      }
+    },
+    {
+      "id": "13766-Samsung-vs-Lotte-20260801",
+      "url": "https://mykbostats.com/games/13766-Samsung-vs-Lotte-20260801",
+      "status": "Canceled",
+      "isTomorrow": false,
+      "time": "6:30pm",
+      "teamAway": {
+        "name": "Samsung Lions",
+        "url": "https://mykbostats.com/teams/3-Samsung-Lions",
+        "pitcher": {
+          "name": "TBD",
+          "era": "0.00",
+          "whip": "0.00",
+          "hr": 0,
+          "bb": 0,
+          "so": 0,
+          "ip": "0",
+          "fip": "0.00"
+        },
+        "batting": {
+          "avg": "0.290",
+          "obp": "0.379",
+          "slg": "0.426",
+          "ops": "0.806",
+          "r": "493",
+          "r_per_game": "5.48",
+          "hr": 77
+        },
+        "pitching": {
+          "era": "3.92",
+          "whip": "1.36",
+          "hr": 69,
+          "bb": 183,
+          "so": 415,
+          "avg": "0.300"
+        }
+      },
+      "teamHome": {
+        "name": "Lotte Giants",
+        "url": "https://mykbostats.com/teams/2-Lotte-Giants",
+        "pitcher": {
+          "name": "TBD",
+          "era": "0.00",
+          "whip": "0.00",
+          "hr": 0,
+          "bb": 0,
+          "so": 0,
+          "ip": "0",
+          "fip": "0.00"
+        },
+        "batting": {
+          "avg": "0.271",
+          "obp": "0.333",
+          "slg": "0.397",
+          "ops": "0.730",
+          "r": "447",
+          "r_per_game": "4.96",
+          "hr": 64
+        },
+        "pitching": {
+          "era": "4.23",
+          "whip": "1.40",
+          "hr": 58,
+          "bb": 284,
+          "so": 696,
+          "avg": "0.281"
         }
       }
     }
