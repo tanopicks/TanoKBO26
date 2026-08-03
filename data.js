@@ -1,5 +1,5 @@
 window.kboData = {
-  "lastUpdated": "2026-08-02T23:34:25.261Z",
+  "lastUpdated": "2026-08-03T12:03:18.716Z",
   "games": [
     {
       "id": "13772-Hanwha-vs-Samsung-20260804",
@@ -11,14 +11,17 @@ window.kboData = {
         "name": "Hanwha Eagles",
         "url": "https://mykbostats.com/teams/4-Hanwha-Eagles",
         "pitcher": {
-          "name": "TBD",
-          "era": "0.00",
-          "whip": "0.00",
-          "hr": 0,
-          "bb": 0,
-          "so": 0,
-          "ip": "0",
-          "fip": "0.00"
+          "name": "Wang Yan-cheng",
+          "url": "https://mykbostats.com/players/2941-Wang-Yancheng-Hanwha-Eagles",
+          "era": "3.54",
+          "whip": "1.45",
+          "hr": 10,
+          "bb": 43,
+          "so": 81,
+          "ip": "104 ⅓",
+          "hb": 6,
+          "fip": "4.90",
+          "yearUsed": "2026"
         },
         "batting": {
           "avg": "0.281",
@@ -42,31 +45,34 @@ window.kboData = {
         "name": "Samsung Lions",
         "url": "https://mykbostats.com/teams/3-Samsung-Lions",
         "pitcher": {
-          "name": "TBD",
-          "era": "0.00",
-          "whip": "0.00",
-          "hr": 0,
-          "bb": 0,
-          "so": 0,
-          "ip": "0",
-          "fip": "0.00"
+          "name": "Yang Chang-seop",
+          "url": "https://mykbostats.com/players/1651-Yang-Changseop-Samsung-Lions",
+          "era": "4.14",
+          "whip": "1.39",
+          "hr": 8,
+          "bb": 22,
+          "so": 61,
+          "ip": "78 ⅓",
+          "hb": 3,
+          "fip": "4.53",
+          "yearUsed": "2026"
         },
         "batting": {
-          "avg": "0.290",
-          "obp": "0.379",
-          "slg": "0.426",
-          "ops": "0.805",
-          "r": "493",
-          "r_per_game": "5.48",
-          "hr": 77
+          "avg": "0.292",
+          "obp": "0.381",
+          "slg": "0.429",
+          "ops": "0.810",
+          "r": "496",
+          "r_per_game": "5.51",
+          "hr": 70
         },
         "pitching": {
           "era": "4.01",
           "whip": "1.37",
-          "hr": 69,
+          "hr": 63,
           "bb": 186,
           "so": 418,
-          "avg": "0.300"
+          "avg": "0.302"
         }
       }
     },
@@ -80,14 +86,17 @@ window.kboData = {
         "name": "KT Wiz",
         "url": "https://mykbostats.com/teams/22-KT-Wiz",
         "pitcher": {
-          "name": "TBD",
-          "era": "0.00",
-          "whip": "0.00",
-          "hr": 0,
-          "bb": 0,
-          "so": 0,
-          "ip": "0",
-          "fip": "0.00"
+          "name": "Oh Won-seok",
+          "url": "https://mykbostats.com/players/1976-Oh-Wonseok-KT-Wiz",
+          "era": "5.59",
+          "whip": "1.49",
+          "hr": 8,
+          "bb": 26,
+          "so": 81,
+          "ip": "83 ⅔",
+          "hb": 1,
+          "fip": "4.07",
+          "yearUsed": "2026"
         },
         "batting": {
           "avg": "0.295",
@@ -111,14 +120,17 @@ window.kboData = {
         "name": "Kia Tigers",
         "url": "https://mykbostats.com/teams/5-Kia-Tigers",
         "pitcher": {
-          "name": "TBD",
-          "era": "0.00",
-          "whip": "0.00",
-          "hr": 0,
-          "bb": 0,
-          "so": 0,
-          "ip": "0",
-          "fip": "0.00"
+          "name": "Adam Oller",
+          "url": "https://mykbostats.com/players/2770-Adam-Oller-Kia-Tigers",
+          "era": "3.36",
+          "whip": "1.14",
+          "hr": 11,
+          "bb": 41,
+          "so": 116,
+          "ip": "109 ⅔",
+          "hb": 6,
+          "fip": "4.27",
+          "yearUsed": "2026"
         },
         "batting": {
           "avg": "0.282",
@@ -149,30 +161,33 @@ window.kboData = {
         "name": "LG Twins",
         "url": "https://mykbostats.com/teams/6-LG-Twins",
         "pitcher": {
-          "name": "TBD",
-          "era": "0.00",
-          "whip": "0.00",
-          "hr": 0,
-          "bb": 0,
-          "so": 0,
-          "ip": "0",
-          "fip": "0.00"
+          "name": "Lachlan Wells",
+          "url": "https://mykbostats.com/players/2904-Lachlan-Wells-LG-Twins",
+          "era": "4.04",
+          "whip": "1.25",
+          "hr": 12,
+          "bb": 29,
+          "so": 80,
+          "ip": "93 ⅔",
+          "hb": 2,
+          "fip": "4.75",
+          "yearUsed": "2026"
         },
         "batting": {
           "avg": "0.272",
-          "obp": "0.360",
+          "obp": "0.361",
           "slg": "0.406",
-          "ops": "0.766",
+          "ops": "0.767",
           "r": "469",
-          "r_per_game": "5.21",
+          "r_per_game": "5.22",
           "hr": 89
         },
         "pitching": {
-          "era": "4.45",
-          "whip": "1.42",
+          "era": "4.42",
+          "whip": "1.41",
           "hr": 80,
-          "bb": 245,
-          "so": 501,
+          "bb": 224,
+          "so": 484,
           "avg": "0.282"
         }
       },
@@ -180,14 +195,17 @@ window.kboData = {
         "name": "SSG Landers",
         "url": "https://mykbostats.com/teams/24-SSG-Landers",
         "pitcher": {
-          "name": "TBD",
-          "era": "0.00",
-          "whip": "0.00",
-          "hr": 0,
-          "bb": 0,
-          "so": 0,
-          "ip": "0",
-          "fip": "0.00"
+          "name": "Kim Min-jun",
+          "url": "https://mykbostats.com/players/2983-Kim-Minjun-SSG-Landers",
+          "era": "4.30",
+          "whip": "1.33",
+          "hr": 2,
+          "bb": 19,
+          "so": 28,
+          "ip": "37 ⅔",
+          "hb": 2,
+          "fip": "4.68",
+          "yearUsed": "2026"
         },
         "batting": {
           "avg": "0.256",
@@ -218,22 +236,25 @@ window.kboData = {
         "name": "NC Dinos",
         "url": "https://mykbostats.com/teams/9-NC-Dinos",
         "pitcher": {
-          "name": "TBD",
-          "era": "0.00",
-          "whip": "0.00",
-          "hr": 0,
-          "bb": 0,
-          "so": 0,
-          "ip": "0",
-          "fip": "0.00"
+          "name": "Riley Thompson",
+          "url": "https://mykbostats.com/players/2781-Riley-Thompson-NC-Dinos",
+          "era": "3.09",
+          "whip": "1.11",
+          "hr": 11,
+          "bb": 18,
+          "so": 100,
+          "ip": "75 ⅔",
+          "hb": 0,
+          "fip": "3.76",
+          "yearUsed": "2026"
         },
         "batting": {
-          "avg": "0.274",
-          "obp": "0.361",
-          "slg": "0.407",
-          "ops": "0.768",
-          "r": "470",
-          "r_per_game": "5.23",
+          "avg": "0.278",
+          "obp": "0.362",
+          "slg": "0.413",
+          "ops": "0.775",
+          "r": "475",
+          "r_per_game": "5.27",
           "hr": 75
         },
         "pitching": {
@@ -242,21 +263,24 @@ window.kboData = {
           "hr": 68,
           "bb": 274,
           "so": 578,
-          "avg": "0.284"
+          "avg": "0.288"
         }
       },
       "teamHome": {
         "name": "Doosan Bears",
         "url": "https://mykbostats.com/teams/1-Doosan-Bears",
         "pitcher": {
-          "name": "TBD",
-          "era": "0.00",
-          "whip": "0.00",
-          "hr": 0,
-          "bb": 0,
-          "so": 0,
-          "ip": "0",
-          "fip": "0.00"
+          "name": "Choi Seung-yong",
+          "url": "https://mykbostats.com/players/2113-Choi-Seungyong-Doosan-Bears",
+          "era": "5.53",
+          "whip": "1.52",
+          "hr": 9,
+          "bb": 30,
+          "so": 55,
+          "ip": "83",
+          "hb": 4,
+          "fip": "5.11",
+          "yearUsed": "2026"
         },
         "batting": {
           "avg": "0.272",
@@ -268,11 +292,11 @@ window.kboData = {
           "hr": 65
         },
         "pitching": {
-          "era": "3.53",
+          "era": "3.54",
           "whip": "1.31",
           "hr": 59,
           "bb": 268,
-          "so": 737,
+          "so": 734,
           "avg": "0.282"
         }
       }
@@ -287,14 +311,17 @@ window.kboData = {
         "name": "Kiwoom Heroes",
         "url": "https://mykbostats.com/teams/23-Kiwoom-Heroes",
         "pitcher": {
-          "name": "TBD",
-          "era": "0.00",
-          "whip": "0.00",
-          "hr": 0,
-          "bb": 0,
-          "so": 0,
-          "ip": "0",
-          "fip": "0.00"
+          "name": "Ha Yeong-min",
+          "url": "https://mykbostats.com/players/712-Ha-Yeongmin-Kiwoom-Heroes",
+          "era": "4.55",
+          "whip": "1.43",
+          "hr": 7,
+          "bb": 35,
+          "so": 71,
+          "ip": "83",
+          "hb": 5,
+          "fip": "4.63",
+          "yearUsed": "2026"
         },
         "batting": {
           "avg": "0.260",
@@ -318,14 +345,17 @@ window.kboData = {
         "name": "Lotte Giants",
         "url": "https://mykbostats.com/teams/2-Lotte-Giants",
         "pitcher": {
-          "name": "TBD",
-          "era": "0.00",
-          "whip": "0.00",
-          "hr": 0,
-          "bb": 0,
-          "so": 0,
-          "ip": "0",
-          "fip": "0.00"
+          "name": "Elvin Rodríguez",
+          "url": "https://mykbostats.com/players/2922-Elvin-Rodri%CC%81guez-Lotte-Giants",
+          "era": "4.33",
+          "whip": "1.37",
+          "hr": 15,
+          "bb": 38,
+          "so": 125,
+          "ip": "106",
+          "hb": 5,
+          "fip": "4.50",
+          "yearUsed": "2026"
         },
         "batting": {
           "avg": "0.272",
@@ -337,11 +367,11 @@ window.kboData = {
           "hr": 65
         },
         "pitching": {
-          "era": "4.24",
-          "whip": "1.40",
+          "era": "4.44",
+          "whip": "1.43",
           "hr": 59,
-          "bb": 285,
-          "so": 700,
+          "bb": 249,
+          "so": 607,
           "avg": "0.282"
         }
       }
