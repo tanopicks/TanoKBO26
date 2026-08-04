@@ -1,5 +1,5 @@
 window.kboData = {
-  "lastUpdated": "2026-08-03T22:19:19.351Z",
+  "lastUpdated": "2026-08-04T08:03:13.424Z",
   "games": [
     {
       "id": "13772-Hanwha-vs-Samsung-20260804",
@@ -79,24 +79,21 @@ window.kboData = {
     {
       "id": "13773-KT-vs-Kia-20260804",
       "url": "https://mykbostats.com/games/13773-KT-vs-Kia-20260804",
-      "status": "6:30pm",
+      "status": "Canceled",
       "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "KT Wiz",
         "url": "https://mykbostats.com/teams/22-KT-Wiz",
         "pitcher": {
-          "name": "Oh Won-seok",
-          "url": "https://mykbostats.com/players/1976-Oh-Wonseok-KT-Wiz",
-          "era": "5.59",
-          "whip": "1.49",
-          "hr": 8,
-          "bb": 26,
-          "so": 81,
-          "ip": "83 ⅔",
-          "hb": 1,
-          "fip": "4.07",
-          "yearUsed": "2026"
+          "name": "TBD",
+          "era": "0.00",
+          "whip": "0.00",
+          "hr": 0,
+          "bb": 0,
+          "so": 0,
+          "ip": "0",
+          "fip": "0.00"
         },
         "batting": {
           "avg": "0.295",
@@ -120,17 +117,14 @@ window.kboData = {
         "name": "Kia Tigers",
         "url": "https://mykbostats.com/teams/5-Kia-Tigers",
         "pitcher": {
-          "name": "Adam Oller",
-          "url": "https://mykbostats.com/players/2770-Adam-Oller-Kia-Tigers",
-          "era": "3.36",
-          "whip": "1.14",
-          "hr": 11,
-          "bb": 41,
-          "so": 116,
-          "ip": "109 ⅔",
-          "hb": 6,
-          "fip": "4.27",
-          "yearUsed": "2026"
+          "name": "TBD",
+          "era": "0.00",
+          "whip": "0.00",
+          "hr": 0,
+          "bb": 0,
+          "so": 0,
+          "ip": "0",
+          "fip": "0.00"
         },
         "batting": {
           "avg": "0.282",
@@ -142,11 +136,11 @@ window.kboData = {
           "hr": 106
         },
         "pitching": {
-          "era": "4.51",
-          "whip": "1.41",
+          "era": "4.43",
+          "whip": "1.39",
           "hr": 95,
-          "bb": 321,
-          "so": 628,
+          "bb": 279,
+          "so": 553,
           "avg": "0.292"
         }
       }
@@ -229,24 +223,21 @@ window.kboData = {
     {
       "id": "13775-NC-vs-Doosan-20260804",
       "url": "https://mykbostats.com/games/13775-NC-vs-Doosan-20260804",
-      "status": "6:30pm",
+      "status": "Canceled",
       "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "NC Dinos",
         "url": "https://mykbostats.com/teams/9-NC-Dinos",
         "pitcher": {
-          "name": "Riley Thompson",
-          "url": "https://mykbostats.com/players/2781-Riley-Thompson-NC-Dinos",
-          "era": "3.09",
-          "whip": "1.11",
-          "hr": 11,
-          "bb": 18,
-          "so": 100,
-          "ip": "75 ⅔",
-          "hb": 0,
-          "fip": "3.76",
-          "yearUsed": "2026"
+          "name": "TBD",
+          "era": "0.00",
+          "whip": "0.00",
+          "hr": 0,
+          "bb": 0,
+          "so": 0,
+          "ip": "0",
+          "fip": "0.00"
         },
         "batting": {
           "avg": "0.278",
@@ -270,17 +261,14 @@ window.kboData = {
         "name": "Doosan Bears",
         "url": "https://mykbostats.com/teams/1-Doosan-Bears",
         "pitcher": {
-          "name": "Choi Seung-yong",
-          "url": "https://mykbostats.com/players/2113-Choi-Seungyong-Doosan-Bears",
-          "era": "5.53",
-          "whip": "1.52",
-          "hr": 9,
-          "bb": 30,
-          "so": 55,
-          "ip": "83",
-          "hb": 4,
-          "fip": "5.11",
-          "yearUsed": "2026"
+          "name": "TBD",
+          "era": "0.00",
+          "whip": "0.00",
+          "hr": 0,
+          "bb": 0,
+          "so": 0,
+          "ip": "0",
+          "fip": "0.00"
         },
         "batting": {
           "avg": "0.272",
@@ -358,21 +346,21 @@ window.kboData = {
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": "0.272",
-          "obp": "0.334",
-          "slg": "0.400",
-          "ops": "0.734",
-          "r": "449",
-          "r_per_game": "4.99",
-          "hr": 65
+          "avg": "0.267",
+          "obp": "0.330",
+          "slg": "0.397",
+          "ops": "0.727",
+          "r": "445",
+          "r_per_game": "4.95",
+          "hr": 54
         },
         "pitching": {
-          "era": "4.44",
-          "whip": "1.43",
-          "hr": 59,
-          "bb": 249,
-          "so": 607,
-          "avg": "0.282"
+          "era": "4.46",
+          "whip": "1.44",
+          "hr": 49,
+          "bb": 226,
+          "so": 580,
+          "avg": "0.277"
         }
       }
     }
