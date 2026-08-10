@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-09T23:16:24.606Z",
+  "lastUpdated": "2026-08-10T05:08:26.201Z",
   "games": [
     {
       "id": "13802-Hanwha-vs-Doosan-20260811",
@@ -11,14 +11,17 @@
         "name": "Hanwha Eagles",
         "url": "https://mykbostats.com/teams/4-Hanwha-Eagles",
         "pitcher": {
-          "name": "TBD",
-          "era": "0.00",
-          "whip": "0.00",
-          "hr": 0,
-          "bb": 0,
-          "so": 0,
-          "ip": "0",
-          "fip": "0.00"
+          "name": "Wang Yan-cheng",
+          "url": "https://mykbostats.com/players/2941-Wang-Yancheng-Hanwha-Eagles",
+          "era": "3.34",
+          "whip": "1.41",
+          "hr": 10,
+          "bb": 45,
+          "so": 88,
+          "ip": "110 ⅓",
+          "hb": 6,
+          "fip": "4.77",
+          "yearUsed": "2026"
         },
         "batting": {
           "avg": "0.280",
@@ -42,14 +45,17 @@
         "name": "Doosan Bears",
         "url": "https://mykbostats.com/teams/1-Doosan-Bears",
         "pitcher": {
-          "name": "TBD",
-          "era": "0.00",
-          "whip": "0.00",
-          "hr": 0,
-          "bb": 0,
-          "so": 0,
-          "ip": "0",
-          "fip": "0.00"
+          "name": "Gwak Been",
+          "url": "https://mykbostats.com/players/1628-Gwak-Been-Doosan-Bears",
+          "era": "2.66",
+          "whip": "1.15",
+          "hr": 8,
+          "bb": 30,
+          "so": 138,
+          "ip": "115",
+          "hb": 5,
+          "fip": "3.22",
+          "yearUsed": "2026"
         },
         "batting": {
           "avg": "0.272",
@@ -80,14 +86,17 @@
         "name": "KT Wiz",
         "url": "https://mykbostats.com/teams/22-KT-Wiz",
         "pitcher": {
-          "name": "TBD",
-          "era": "0.00",
-          "whip": "0.00",
-          "hr": 0,
-          "bb": 0,
-          "so": 0,
-          "ip": "0",
-          "fip": "0.00"
+          "name": "Logan Allen",
+          "url": "https://mykbostats.com/players/2782-Logan-Allen-KT-Wiz",
+          "era": "3.08",
+          "whip": "1.34",
+          "hr": 5,
+          "bb": 10,
+          "so": 27,
+          "ip": "38",
+          "hb": 1,
+          "fip": "4.96",
+          "yearUsed": "2026"
         },
         "batting": {
           "avg": "0.295",
@@ -111,14 +120,17 @@
         "name": "NC Dinos",
         "url": "https://mykbostats.com/teams/9-NC-Dinos",
         "pitcher": {
-          "name": "TBD",
-          "era": "0.00",
-          "whip": "0.00",
-          "hr": 0,
-          "bb": 0,
-          "so": 0,
-          "ip": "0",
-          "fip": "0.00"
+          "name": "Riley Thompson",
+          "url": "https://mykbostats.com/players/2781-Riley-Thompson-NC-Dinos",
+          "era": "3.09",
+          "whip": "1.11",
+          "hr": 11,
+          "bb": 18,
+          "so": 100,
+          "ip": "75 ⅔",
+          "hb": 0,
+          "fip": "3.76",
+          "yearUsed": "2026"
         },
         "batting": {
           "avg": "0.278",
@@ -149,22 +161,25 @@
         "name": "LG Twins",
         "url": "https://mykbostats.com/teams/6-LG-Twins",
         "pitcher": {
-          "name": "TBD",
+          "name": "Carlos Carrasco",
+          "url": "https://mykbostats.com/players/3101-Carlos-Carrasco-LG-Twins",
           "era": "0.00",
           "whip": "0.00",
           "hr": 0,
           "bb": 0,
-          "so": 0,
-          "ip": "0",
-          "fip": "0.00"
+          "so": 2,
+          "ip": "7",
+          "hb": 0,
+          "fip": "3.23",
+          "yearUsed": "2026"
         },
         "batting": {
-          "avg": "0.272",
-          "obp": "0.359",
-          "slg": "0.405",
-          "ops": "0.764",
-          "r": "467",
-          "r_per_game": "5.19",
+          "avg": "0.274",
+          "obp": "0.356",
+          "slg": "0.416",
+          "ops": "0.773",
+          "r": "473",
+          "r_per_game": "5.25",
           "hr": 92
         },
         "pitching": {
@@ -173,21 +188,24 @@
           "hr": 83,
           "bb": 233,
           "so": 497,
-          "avg": "0.282"
+          "avg": "0.284"
         }
       },
       "teamHome": {
         "name": "Kiwoom Heroes",
         "url": "https://mykbostats.com/teams/23-Kiwoom-Heroes",
         "pitcher": {
-          "name": "TBD",
-          "era": "0.00",
-          "whip": "0.00",
-          "hr": 0,
-          "bb": 0,
-          "so": 0,
-          "ip": "0",
-          "fip": "0.00"
+          "name": "An Woo-jin",
+          "url": "https://mykbostats.com/players/1681-An-Woojin-Kiwoom-Heroes",
+          "era": "3.70",
+          "whip": "1.27",
+          "hr": 6,
+          "bb": 23,
+          "so": 92,
+          "ip": "73",
+          "hb": 1,
+          "fip": "3.33",
+          "yearUsed": "2026"
         },
         "batting": {
           "avg": "0.262",
@@ -218,45 +236,51 @@
         "name": "Lotte Giants",
         "url": "https://mykbostats.com/teams/2-Lotte-Giants",
         "pitcher": {
-          "name": "TBD",
-          "era": "0.00",
-          "whip": "0.00",
-          "hr": 0,
-          "bb": 0,
-          "so": 0,
-          "ip": "0",
-          "fip": "0.00"
+          "name": "Jeremy Beasley",
+          "url": "https://mykbostats.com/players/2924-Jeremy-Beasley-Lotte-Giants",
+          "era": "4.09",
+          "whip": "1.37",
+          "hr": 6,
+          "bb": 32,
+          "so": 115,
+          "ip": "103 ⅓",
+          "hb": 9,
+          "fip": "3.52",
+          "yearUsed": "2026"
         },
         "batting": {
-          "avg": "0.272",
-          "obp": "0.334",
-          "slg": "0.399",
-          "ops": "0.733",
-          "r": "448",
-          "r_per_game": "4.98",
-          "hr": 65
+          "avg": "0.267",
+          "obp": "0.330",
+          "slg": "0.396",
+          "ops": "0.726",
+          "r": "444",
+          "r_per_game": "4.94",
+          "hr": 54
         },
         "pitching": {
-          "era": "4.25",
-          "whip": "1.41",
-          "hr": 59,
-          "bb": 237,
-          "so": 595,
-          "avg": "0.282"
+          "era": "4.26",
+          "whip": "1.42",
+          "hr": 49,
+          "bb": 214,
+          "so": 568,
+          "avg": "0.277"
         }
       },
       "teamHome": {
         "name": "SSG Landers",
         "url": "https://mykbostats.com/teams/24-SSG-Landers",
         "pitcher": {
-          "name": "TBD",
-          "era": "0.00",
-          "whip": "0.00",
+          "name": "Pedro Ávila",
+          "url": "https://mykbostats.com/players/3095-Pedro-A%CC%81vila-SSG-Landers",
+          "era": "2.45",
+          "whip": "1.32",
           "hr": 0,
-          "bb": 0,
-          "so": 0,
-          "ip": "0",
-          "fip": "0.00"
+          "bb": 11,
+          "so": 26,
+          "ip": "22",
+          "hb": 0,
+          "fip": "2.94",
+          "yearUsed": "2026"
         },
         "batting": {
           "avg": "0.257",
@@ -287,14 +311,17 @@
         "name": "Samsung Lions",
         "url": "https://mykbostats.com/teams/3-Samsung-Lions",
         "pitcher": {
-          "name": "TBD",
-          "era": "0.00",
-          "whip": "0.00",
-          "hr": 0,
-          "bb": 0,
-          "so": 0,
-          "ip": "0",
-          "fip": "0.00"
+          "name": "Chris Paddack",
+          "url": "https://mykbostats.com/players/3097-Chris-Paddack-Samsung-Lions",
+          "era": "4.24",
+          "whip": "0.82",
+          "hr": 2,
+          "bb": 1,
+          "so": 17,
+          "ip": "17",
+          "hb": 1,
+          "fip": "3.68",
+          "yearUsed": "2026"
         },
         "batting": {
           "avg": "0.289",
@@ -318,14 +345,17 @@
         "name": "Kia Tigers",
         "url": "https://mykbostats.com/teams/5-Kia-Tigers",
         "pitcher": {
-          "name": "TBD",
-          "era": "0.00",
-          "whip": "0.00",
-          "hr": 0,
-          "bb": 0,
-          "so": 0,
-          "ip": "0",
-          "fip": "0.00"
+          "name": "Adam Oller",
+          "url": "https://mykbostats.com/players/2770-Adam-Oller-Kia-Tigers",
+          "era": "3.36",
+          "whip": "1.14",
+          "hr": 11,
+          "bb": 41,
+          "so": 116,
+          "ip": "109 ⅔",
+          "hb": 6,
+          "fip": "4.27",
+          "yearUsed": "2026"
         },
         "batting": {
           "avg": "0.282",
@@ -337,11 +367,11 @@
           "hr": 106
         },
         "pitching": {
-          "era": "4.51",
-          "whip": "1.41",
+          "era": "4.43",
+          "whip": "1.39",
           "hr": 95,
-          "bb": 321,
-          "so": 628,
+          "bb": 279,
+          "so": 553,
           "avg": "0.292"
         }
       }
