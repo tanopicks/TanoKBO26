@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-08-10T15:45:06.592Z",
+  "lastUpdated": "2026-08-10T18:36:41.979Z",
   "games": [
     {
       "id": "13802-Hanwha-vs-Doosan-20260811",
       "url": "https://mykbostats.com/games/13802-Hanwha-vs-Doosan-20260811",
       "status": "7:00pm",
-      "isTomorrow": true,
+      "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "Hanwha Eagles",
@@ -80,7 +80,7 @@
       "id": "13803-KT-vs-NC-20260811",
       "url": "https://mykbostats.com/games/13803-KT-vs-NC-20260811",
       "status": "7:00pm",
-      "isTomorrow": true,
+      "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "KT Wiz",
@@ -155,7 +155,7 @@
       "id": "13804-LG-vs-Kiwoom-20260811",
       "url": "https://mykbostats.com/games/13804-LG-vs-Kiwoom-20260811",
       "status": "7:00pm",
-      "isTomorrow": true,
+      "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "LG Twins",
@@ -230,7 +230,7 @@
       "id": "13805-Lotte-vs-SSG-20260811",
       "url": "https://mykbostats.com/games/13805-Lotte-vs-SSG-20260811",
       "status": "7:00pm",
-      "isTomorrow": true,
+      "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "Lotte Giants",
@@ -305,7 +305,7 @@
       "id": "13806-Samsung-vs-Kia-20260811",
       "url": "https://mykbostats.com/games/13806-Samsung-vs-Kia-20260811",
       "status": "7:00pm",
-      "isTomorrow": true,
+      "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "Samsung Lions",
