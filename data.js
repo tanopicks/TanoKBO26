@@ -1,11 +1,11 @@
 window.kboData = {
-  "lastUpdated": "2026-08-11T14:44:43.280Z",
+  "lastUpdated": "2026-08-11T18:04:46.463Z",
   "games": [
     {
       "id": "13807-Hanwha-vs-Doosan-20260812",
       "url": "https://mykbostats.com/games/13807-Hanwha-vs-Doosan-20260812",
       "status": "7:00pm",
-      "isTomorrow": true,
+      "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "Hanwha Eagles",
@@ -24,21 +24,21 @@ window.kboData = {
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": "0.280",
+          "avg": "0.279",
           "obp": "0.357",
           "slg": "0.444",
           "ops": "0.801",
           "r": "490",
-          "r_per_game": "5.45",
-          "hr": 114
+          "r_per_game": "5.44",
+          "hr": 115
         },
         "pitching": {
           "era": "3.99",
           "whip": "1.40",
-          "hr": 103,
+          "hr": 104,
           "bb": 230,
           "so": 504,
-          "avg": "0.290"
+          "avg": "0.289"
         }
       },
       "teamHome": {
@@ -80,7 +80,7 @@ window.kboData = {
       "id": "13808-KT-vs-NC-20260812",
       "url": "https://mykbostats.com/games/13808-KT-vs-NC-20260812",
       "status": "7:00pm",
-      "isTomorrow": true,
+      "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "KT Wiz",
@@ -100,10 +100,10 @@ window.kboData = {
         },
         "batting": {
           "avg": "0.295",
-          "obp": "0.374",
-          "slg": "0.417",
+          "obp": "0.373",
+          "slg": "0.416",
           "ops": "0.790",
-          "r": "484",
+          "r": "483",
           "r_per_game": "5.37",
           "hr": 65
         },
@@ -155,7 +155,7 @@ window.kboData = {
       "id": "13809-LG-vs-Kiwoom-20260812",
       "url": "https://mykbostats.com/games/13809-LG-vs-Kiwoom-20260812",
       "status": "7:00pm",
-      "isTomorrow": true,
+      "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "LG Twins",
@@ -174,7 +174,7 @@ window.kboData = {
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": "0.269",
+          "avg": "0.270",
           "obp": "0.358",
           "slg": "0.406",
           "ops": "0.764",
@@ -183,12 +183,12 @@ window.kboData = {
           "hr": 91
         },
         "pitching": {
-          "era": "4.69",
+          "era": "4.68",
           "whip": "1.45",
           "hr": 82,
           "bb": 249,
-          "so": 514,
-          "avg": "0.279"
+          "so": 516,
+          "avg": "0.280"
         }
       },
       "teamHome": {
@@ -230,7 +230,7 @@ window.kboData = {
       "id": "13810-Lotte-vs-SSG-20260812",
       "url": "https://mykbostats.com/games/13810-Lotte-vs-SSG-20260812",
       "status": "7:00pm",
-      "isTomorrow": true,
+      "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "Lotte Giants",
@@ -250,10 +250,10 @@ window.kboData = {
         },
         "batting": {
           "avg": "0.271",
-          "obp": "0.333",
-          "slg": "0.395",
-          "ops": "0.727",
-          "r": "445",
+          "obp": "0.332",
+          "slg": "0.394",
+          "ops": "0.726",
+          "r": "444",
           "r_per_game": "4.94",
           "hr": 65
         },
@@ -305,7 +305,7 @@ window.kboData = {
       "id": "13811-Samsung-vs-Kia-20260812",
       "url": "https://mykbostats.com/games/13811-Samsung-vs-Kia-20260812",
       "status": "7:00pm",
-      "isTomorrow": true,
+      "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "Samsung Lions",
@@ -324,12 +324,12 @@ window.kboData = {
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": "0.289",
-          "obp": "0.380",
-          "slg": "0.429",
-          "ops": "0.809",
-          "r": "495",
-          "r_per_game": "5.50",
+          "avg": "0.288",
+          "obp": "0.379",
+          "slg": "0.428",
+          "ops": "0.808",
+          "r": "494",
+          "r_per_game": "5.49",
           "hr": 79
         },
         "pitching": {
@@ -338,7 +338,7 @@ window.kboData = {
           "hr": 71,
           "bb": 200,
           "so": 439,
-          "avg": "0.299"
+          "avg": "0.298"
         }
       },
       "teamHome": {
@@ -359,11 +359,11 @@ window.kboData = {
         },
         "batting": {
           "avg": "0.282",
-          "obp": "0.354",
-          "slg": "0.460",
+          "obp": "0.355",
+          "slg": "0.461",
           "ops": "0.815",
           "r": "499",
-          "r_per_game": "5.54",
+          "r_per_game": "5.55",
           "hr": 106
         },
         "pitching": {
