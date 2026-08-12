@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11T22:27:02.386Z",
+  "lastUpdated": "2026-08-12T04:30:25.638Z",
   "games": [
     {
       "id": "13807-Hanwha-vs-Doosan-20260812",
@@ -47,15 +47,15 @@
         "pitcher": {
           "name": "Wes Benjamin",
           "url": "https://mykbostats.com/players/2402-Wes-Benjamin-Doosan-Bears",
-          "era": "2.61",
-          "whip": "1.20",
-          "hr": 4,
-          "bb": 23,
-          "so": 96,
-          "ip": "96 ⅔",
-          "hb": 1,
-          "fip": "3.10",
-          "yearUsed": "2026"
+          "era": 4.5,
+          "whip": 1.4,
+          "hr": 0,
+          "bb": 0,
+          "so": 0,
+          "ip": 0,
+          "hb": 0,
+          "fip": 4.5,
+          "yearUsed": "Error"
         },
         "batting": {
           "avg": "0.273",
@@ -122,15 +122,15 @@
         "pitcher": {
           "name": "Koo Chang-mo",
           "url": "https://mykbostats.com/players/1099-Koo-Changmo-NC-Dinos",
-          "era": "4.19",
-          "whip": "1.29",
-          "hr": 14,
-          "bb": 29,
-          "so": 94,
-          "ip": "107 ⅓",
-          "hb": 4,
-          "fip": "4.67",
-          "yearUsed": "2026"
+          "era": 4.5,
+          "whip": 1.4,
+          "hr": 0,
+          "bb": 0,
+          "so": 0,
+          "ip": 0,
+          "hb": 0,
+          "fip": 4.5,
+          "yearUsed": "Error"
         },
         "batting": {
           "avg": "0.277",
@@ -174,12 +174,12 @@
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": "0.269",
-          "obp": "0.359",
-          "slg": "0.408",
-          "ops": "0.766",
-          "r": "469",
-          "r_per_game": "5.21",
+          "avg": "0.271",
+          "obp": "0.356",
+          "slg": "0.420",
+          "ops": "0.776",
+          "r": "475",
+          "r_per_game": "5.28",
           "hr": 93
         },
         "pitching": {
@@ -188,7 +188,7 @@
           "hr": 84,
           "bb": 249,
           "so": 525,
-          "avg": "0.279"
+          "avg": "0.281"
         }
       },
       "teamHome": {
@@ -249,21 +249,21 @@
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": "0.271",
-          "obp": "0.331",
-          "slg": "0.394",
-          "ops": "0.725",
-          "r": "444",
-          "r_per_game": "4.93",
-          "hr": 66
+          "avg": "0.266",
+          "obp": "0.328",
+          "slg": "0.389",
+          "ops": "0.717",
+          "r": "439",
+          "r_per_game": "4.88",
+          "hr": 54
         },
         "pitching": {
-          "era": "4.30",
-          "whip": "1.41",
-          "hr": 59,
-          "bb": 238,
-          "so": 600,
-          "avg": "0.281"
+          "era": "4.32",
+          "whip": "1.42",
+          "hr": 49,
+          "bb": 215,
+          "so": 573,
+          "avg": "0.276"
         }
       },
       "teamHome": {
@@ -367,11 +367,11 @@
           "hr": 106
         },
         "pitching": {
-          "era": "4.47",
-          "whip": "1.40",
+          "era": "4.38",
+          "whip": "1.38",
           "hr": 95,
-          "bb": 322,
-          "so": 637,
+          "bb": 280,
+          "so": 562,
           "avg": "0.291"
         }
       }
