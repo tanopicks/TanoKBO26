@@ -1,11 +1,11 @@
 window.kboData = {
-  "lastUpdated": "2026-08-12T14:49:52.618Z",
+  "lastUpdated": "2026-08-12T18:05:40.322Z",
   "games": [
     {
       "id": "13812-Hanwha-vs-Doosan-20260813",
       "url": "https://mykbostats.com/games/13812-Hanwha-vs-Doosan-20260813",
       "status": "7:00pm",
-      "isTomorrow": true,
+      "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "Hanwha Eagles",
@@ -67,11 +67,11 @@ window.kboData = {
           "hr": 67
         },
         "pitching": {
-          "era": "3.51",
+          "era": "3.50",
           "whip": "1.31",
           "hr": 60,
-          "bb": 277,
-          "so": 756,
+          "bb": 278,
+          "so": 758,
           "avg": "0.283"
         }
       }
@@ -80,7 +80,7 @@ window.kboData = {
       "id": "13813-KT-vs-NC-20260813",
       "url": "https://mykbostats.com/games/13813-KT-vs-NC-20260813",
       "status": "7:00pm",
-      "isTomorrow": true,
+      "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "KT Wiz",
@@ -108,11 +108,11 @@ window.kboData = {
           "hr": 66
         },
         "pitching": {
-          "era": "4.03",
+          "era": "4.05",
           "whip": "1.37",
           "hr": 59,
           "bb": 195,
-          "so": 537,
+          "so": 538,
           "avg": "0.304"
         }
       },
@@ -155,7 +155,7 @@ window.kboData = {
       "id": "13814-LG-vs-Kiwoom-20260813",
       "url": "https://mykbostats.com/games/13814-LG-vs-Kiwoom-20260813",
       "status": "7:00pm",
-      "isTomorrow": true,
+      "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "LG Twins",
@@ -217,7 +217,7 @@ window.kboData = {
           "hr": 69
         },
         "pitching": {
-          "era": "4.38",
+          "era": "4.37",
           "whip": "1.41",
           "hr": 62,
           "bb": 174,
@@ -230,7 +230,7 @@ window.kboData = {
       "id": "13815-Lotte-vs-SSG-20260813",
       "url": "https://mykbostats.com/games/13815-Lotte-vs-SSG-20260813",
       "status": "7:00pm",
-      "isTomorrow": true,
+      "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "Lotte Giants",
@@ -305,7 +305,7 @@ window.kboData = {
       "id": "13816-Samsung-vs-Kia-20260813",
       "url": "https://mykbostats.com/games/13816-Samsung-vs-Kia-20260813",
       "status": "7:00pm",
-      "isTomorrow": true,
+      "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "Samsung Lions",
@@ -333,11 +333,11 @@ window.kboData = {
           "hr": 79
         },
         "pitching": {
-          "era": "4.00",
+          "era": "4.03",
           "whip": "1.36",
           "hr": 71,
-          "bb": 200,
-          "so": 440,
+          "bb": 201,
+          "so": 441,
           "avg": "0.297"
         }
       },
