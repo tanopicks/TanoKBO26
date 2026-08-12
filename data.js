@@ -1,5 +1,5 @@
 window.kboData = {
-  "lastUpdated": "2026-08-12T04:30:25.638Z",
+  "lastUpdated": "2026-08-12T08:50:58.322Z",
   "games": [
     {
       "id": "13807-Hanwha-vs-Doosan-20260812",
@@ -47,15 +47,15 @@ window.kboData = {
         "pitcher": {
           "name": "Wes Benjamin",
           "url": "https://mykbostats.com/players/2402-Wes-Benjamin-Doosan-Bears",
-          "era": 4.5,
-          "whip": 1.4,
-          "hr": 0,
-          "bb": 0,
-          "so": 0,
-          "ip": 0,
-          "hb": 0,
-          "fip": 4.5,
-          "yearUsed": "Error"
+          "era": "2.61",
+          "whip": "1.20",
+          "hr": 4,
+          "bb": 23,
+          "so": 96,
+          "ip": "96 ⅔",
+          "hb": 1,
+          "fip": "3.10",
+          "yearUsed": "2026"
         },
         "batting": {
           "avg": "0.273",
@@ -122,15 +122,15 @@ window.kboData = {
         "pitcher": {
           "name": "Koo Chang-mo",
           "url": "https://mykbostats.com/players/1099-Koo-Changmo-NC-Dinos",
-          "era": 4.5,
-          "whip": 1.4,
-          "hr": 0,
-          "bb": 0,
-          "so": 0,
-          "ip": 0,
-          "hb": 0,
-          "fip": 4.5,
-          "yearUsed": "Error"
+          "era": "4.19",
+          "whip": "1.29",
+          "hr": 14,
+          "bb": 29,
+          "so": 94,
+          "ip": "107 ⅓",
+          "hb": 4,
+          "fip": "4.67",
+          "yearUsed": "2026"
         },
         "batting": {
           "avg": "0.277",
@@ -174,21 +174,21 @@ window.kboData = {
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": "0.271",
-          "obp": "0.356",
-          "slg": "0.420",
-          "ops": "0.776",
-          "r": "475",
-          "r_per_game": "5.28",
+          "avg": "0.269",
+          "obp": "0.359",
+          "slg": "0.408",
+          "ops": "0.766",
+          "r": "469",
+          "r_per_game": "5.21",
           "hr": 93
         },
         "pitching": {
-          "era": "4.66",
-          "whip": "1.44",
+          "era": "4.76",
+          "whip": "1.47",
           "hr": 84,
-          "bb": 249,
-          "so": 525,
-          "avg": "0.281"
+          "bb": 220,
+          "so": 443,
+          "avg": "0.279"
         }
       },
       "teamHome": {
@@ -217,11 +217,11 @@ window.kboData = {
           "hr": 69
         },
         "pitching": {
-          "era": "4.54",
-          "whip": "1.48",
+          "era": "4.38",
+          "whip": "1.41",
           "hr": 62,
-          "bb": 188,
-          "so": 343,
+          "bb": 174,
+          "so": 348,
           "avg": "0.270"
         }
       }
@@ -236,34 +236,34 @@ window.kboData = {
         "name": "Lotte Giants",
         "url": "https://mykbostats.com/teams/2-Lotte-Giants",
         "pitcher": {
-          "name": "Na Gyun-an",
-          "url": "https://mykbostats.com/players/1506-Na-Gyunan-Lotte-Giants",
-          "era": "4.14",
-          "whip": "1.43",
-          "hr": 17,
-          "bb": 32,
-          "so": 97,
-          "ip": "108 ⅔",
-          "hb": 2,
-          "fip": "4.99",
-          "yearUsed": "2026"
+          "name": "Kim Han-kyeol",
+          "url": "https://mykbostats.com/players/2997-Kim-Hankyeol-Lotte-Giants",
+          "era": 4.5,
+          "whip": 1.4,
+          "hr": 0,
+          "bb": 0,
+          "so": 0,
+          "ip": 0,
+          "hb": 0,
+          "fip": 4.5,
+          "yearUsed": "N/A"
         },
         "batting": {
-          "avg": "0.266",
-          "obp": "0.328",
-          "slg": "0.389",
-          "ops": "0.717",
-          "r": "439",
-          "r_per_game": "4.88",
-          "hr": 54
+          "avg": "0.270",
+          "obp": "0.331",
+          "slg": "0.394",
+          "ops": "0.725",
+          "r": "444",
+          "r_per_game": "4.93",
+          "hr": 66
         },
         "pitching": {
-          "era": "4.32",
+          "era": "4.36",
           "whip": "1.42",
-          "hr": 49,
-          "bb": 215,
-          "so": 573,
-          "avg": "0.276"
+          "hr": 59,
+          "bb": 240,
+          "so": 601,
+          "avg": "0.280"
         }
       },
       "teamHome": {
@@ -367,11 +367,11 @@ window.kboData = {
           "hr": 106
         },
         "pitching": {
-          "era": "4.38",
-          "whip": "1.38",
+          "era": "4.47",
+          "whip": "1.40",
           "hr": 95,
-          "bb": 280,
-          "so": 562,
+          "bb": 322,
+          "so": 637,
           "avg": "0.291"
         }
       }
