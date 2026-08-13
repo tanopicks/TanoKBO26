@@ -1,5 +1,5 @@
 window.kboData = {
-  "lastUpdated": "2026-08-13T05:18:20.177Z",
+  "lastUpdated": "2026-08-13T09:42:55.812Z",
   "games": [
     {
       "id": "13812-Hanwha-vs-Doosan-20260813",
@@ -61,9 +61,9 @@ window.kboData = {
           "avg": "0.273",
           "obp": "0.345",
           "slg": "0.401",
-          "ops": "0.747",
+          "ops": "0.746",
           "r": "457",
-          "r_per_game": "5.08",
+          "r_per_game": "5.07",
           "hr": 67
         },
         "pitching": {
@@ -99,21 +99,21 @@ window.kboData = {
           "yearUsed": "N/A"
         },
         "batting": {
-          "avg": "0.292",
-          "obp": "0.372",
-          "slg": "0.412",
-          "ops": "0.784",
-          "r": "480",
-          "r_per_game": "5.33",
-          "hr": 66
+          "avg": ".265",
+          "obp": ".335",
+          "slg": ".410",
+          "ops": ".745",
+          "r": "450",
+          "r_per_game": "5.00",
+          "hr": 90
         },
         "pitching": {
-          "era": "4.02",
-          "whip": "1.36",
-          "hr": 59,
-          "bb": 196,
-          "so": 546,
-          "avg": "0.302"
+          "era": "4.50",
+          "whip": "1.40",
+          "hr": 80,
+          "bb": 350,
+          "so": 700,
+          "avg": ".265"
         }
       },
       "teamHome": {
@@ -174,21 +174,21 @@ window.kboData = {
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": "0.271",
-          "obp": "0.356",
-          "slg": "0.420",
-          "ops": "0.776",
-          "r": "475",
-          "r_per_game": "5.27",
-          "hr": 94
+          "avg": ".265",
+          "obp": ".335",
+          "slg": ".410",
+          "ops": ".745",
+          "r": "450",
+          "r_per_game": "5.00",
+          "hr": 90
         },
         "pitching": {
-          "era": "4.71",
-          "whip": "1.47",
-          "hr": 85,
-          "bb": 222,
-          "so": 452,
-          "avg": "0.281"
+          "era": "4.50",
+          "whip": "1.40",
+          "hr": 80,
+          "bb": 350,
+          "so": 700,
+          "avg": ".265"
         }
       },
       "teamHome": {
@@ -249,21 +249,21 @@ window.kboData = {
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": "0.265",
-          "obp": "0.326",
-          "slg": "0.388",
-          "ops": "0.715",
-          "r": "437",
-          "r_per_game": "4.86",
-          "hr": 55
+          "avg": "0.269",
+          "obp": "0.330",
+          "slg": "0.392",
+          "ops": "0.722",
+          "r": "442",
+          "r_per_game": "4.91",
+          "hr": 67
         },
         "pitching": {
-          "era": "4.45",
-          "whip": "1.44",
-          "hr": 50,
-          "bb": 221,
-          "so": 583,
-          "avg": "0.275"
+          "era": "4.52",
+          "whip": "1.45",
+          "hr": 60,
+          "bb": 271,
+          "so": 644,
+          "avg": "0.279"
         }
       },
       "teamHome": {
@@ -272,15 +272,15 @@ window.kboData = {
         "pitcher": {
           "name": "Takeda Shota",
           "url": "https://mykbostats.com/players/2987-Takeda-Shota-SSG-Landers",
-          "era": "6.89",
-          "whip": "1.80",
-          "hr": 7,
-          "bb": 39,
-          "so": 65,
-          "ip": "82 ⅓",
-          "hb": 3,
-          "fip": "4.86",
-          "yearUsed": "2026"
+          "era": 4.5,
+          "whip": 1.4,
+          "hr": 0,
+          "bb": 0,
+          "so": 0,
+          "ip": 0,
+          "hb": 0,
+          "fip": 4.5,
+          "yearUsed": "Error"
         },
         "batting": {
           "avg": "0.259",
@@ -324,21 +324,21 @@ window.kboData = {
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": "0.286",
-          "obp": "0.376",
-          "slg": "0.424",
-          "ops": "0.801",
-          "r": "490",
-          "r_per_game": "5.44",
-          "hr": 79
+          "avg": "0.290",
+          "obp": "0.384",
+          "slg": "0.433",
+          "ops": "0.817",
+          "r": "500",
+          "r_per_game": "5.55",
+          "hr": 84
         },
         "pitching": {
           "era": "4.06",
           "whip": "1.37",
-          "hr": 71,
+          "hr": 76,
           "bb": 206,
           "so": 450,
-          "avg": "0.296"
+          "avg": "0.300"
         }
       },
       "teamHome": {
@@ -367,11 +367,11 @@ window.kboData = {
           "hr": 109
         },
         "pitching": {
-          "era": "4.35",
-          "whip": "1.38",
+          "era": "4.44",
+          "whip": "1.39",
           "hr": 98,
-          "bb": 281,
-          "so": 570,
+          "bb": 323,
+          "so": 645,
           "avg": "0.291"
         }
       }
