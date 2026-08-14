@@ -1,11 +1,11 @@
 window.kboData = {
-  "lastUpdated": "2026-08-14T15:08:11.367Z",
+  "lastUpdated": "2026-08-14T18:08:53.608Z",
   "games": [
     {
       "id": "13822-Hanwha-vs-Samsung-20260815",
       "url": "https://mykbostats.com/games/13822-Hanwha-vs-Samsung-20260815",
       "status": "7:00pm",
-      "isTomorrow": true,
+      "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "Hanwha Eagles",
@@ -80,7 +80,7 @@ window.kboData = {
       "id": "13823-NC-vs-Lotte-20260815",
       "url": "https://mykbostats.com/games/13823-NC-vs-Lotte-20260815",
       "status": "7:00pm",
-      "isTomorrow": true,
+      "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "NC Dinos",
@@ -155,7 +155,7 @@ window.kboData = {
       "id": "13824-Doosan-vs-Kia-20260815",
       "url": "https://mykbostats.com/games/13824-Doosan-vs-Kia-20260815",
       "status": "7:00pm",
-      "isTomorrow": true,
+      "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "Doosan Bears",
@@ -186,8 +186,8 @@ window.kboData = {
           "era": "3.51",
           "whip": "1.31",
           "hr": 61,
-          "bb": 284,
-          "so": 777,
+          "bb": 285,
+          "so": 784,
           "avg": "0.284"
         }
       },
@@ -230,7 +230,7 @@ window.kboData = {
       "id": "13825-SSG-vs-LG-20260815",
       "url": "https://mykbostats.com/games/13825-SSG-vs-LG-20260815",
       "status": "7:00pm",
-      "isTomorrow": true,
+      "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "SSG Landers",
@@ -305,7 +305,7 @@ window.kboData = {
       "id": "13826-Kiwoom-vs-KT-20260815",
       "url": "https://mykbostats.com/games/13826-Kiwoom-vs-KT-20260815",
       "status": "7:00pm",
-      "isTomorrow": true,
+      "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "Kiwoom Heroes",
@@ -367,11 +367,11 @@ window.kboData = {
           "hr": 68
         },
         "pitching": {
-          "era": "3.99",
-          "whip": "1.35",
+          "era": "4.00",
+          "whip": "1.34",
           "hr": 61,
-          "bb": 195,
-          "so": 545,
+          "bb": 197,
+          "so": 553,
           "avg": "0.301"
         }
       }
