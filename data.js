@@ -1,5 +1,5 @@
 window.kboData = {
-  "lastUpdated": "2026-08-15T02:41:01.145Z",
+  "lastUpdated": "2026-08-15T04:07:26.740Z",
   "games": [
     {
       "id": "13822-Hanwha-vs-Samsung-20260815",
@@ -47,15 +47,15 @@ window.kboData = {
         "pitcher": {
           "name": "Yang Chang-seop",
           "url": "https://mykbostats.com/players/1651-Yang-Changseop-Samsung-Lions",
-          "era": "4.23",
-          "whip": "1.39",
-          "hr": 8,
-          "bb": 26,
-          "so": 65,
-          "ip": "83",
-          "hb": 5,
-          "fip": "4.61",
-          "yearUsed": "2026"
+          "era": 4.5,
+          "whip": 1.4,
+          "hr": 0,
+          "bb": 0,
+          "so": 0,
+          "ip": 0,
+          "hb": 0,
+          "fip": 4.5,
+          "yearUsed": "Error"
         },
         "batting": {
           "avg": "0.292",
@@ -174,21 +174,21 @@ window.kboData = {
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": "0.274",
-          "obp": "0.347",
-          "slg": "0.401",
-          "ops": "0.749",
-          "r": "458",
-          "r_per_game": "5.09",
-          "hr": 68
+          "avg": ".265",
+          "obp": ".335",
+          "slg": ".410",
+          "ops": ".745",
+          "r": "450",
+          "r_per_game": "5.00",
+          "hr": 90
         },
         "pitching": {
-          "era": "3.52",
-          "whip": "1.31",
-          "hr": 61,
-          "bb": 285,
-          "so": 787,
-          "avg": "0.284"
+          "era": "4.50",
+          "whip": "1.40",
+          "hr": 80,
+          "bb": 350,
+          "so": 700,
+          "avg": ".265"
         }
       },
       "teamHome": {
