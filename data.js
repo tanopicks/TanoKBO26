@@ -1,5 +1,5 @@
 window.kboData = {
-  "lastUpdated": "2026-08-15T07:19:16.312Z",
+  "lastUpdated": "2026-08-15T08:00:04.883Z",
   "games": [
     {
       "id": "13822-Hanwha-vs-Samsung-20260815",
@@ -347,15 +347,15 @@ window.kboData = {
         "pitcher": {
           "name": "Oh Won-seok",
           "url": "https://mykbostats.com/players/1976-Oh-Wonseok-KT-Wiz",
-          "era": "5.59",
-          "whip": "1.49",
-          "hr": 8,
-          "bb": 26,
-          "so": 81,
-          "ip": "83 ⅔",
-          "hb": 1,
-          "fip": "4.07",
-          "yearUsed": "2026"
+          "era": 4.5,
+          "whip": 1.4,
+          "hr": 0,
+          "bb": 0,
+          "so": 0,
+          "ip": 0,
+          "hb": 0,
+          "fip": 4.5,
+          "yearUsed": "Error"
         },
         "batting": {
           "avg": "0.291",
