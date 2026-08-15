@@ -1,11 +1,11 @@
 window.kboData = {
-  "lastUpdated": "2026-08-15T16:56:04.966Z",
+  "lastUpdated": "2026-08-15T17:42:06.353Z",
   "games": [
     {
       "id": "13827-Hanwha-vs-Samsung-20260816",
       "url": "https://mykbostats.com/games/13827-Hanwha-vs-Samsung-20260816",
       "status": "7:00pm",
-      "isTomorrow": true,
+      "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "Hanwha Eagles",
@@ -80,7 +80,7 @@ window.kboData = {
       "id": "13828-NC-vs-Lotte-20260816",
       "url": "https://mykbostats.com/games/13828-NC-vs-Lotte-20260816",
       "status": "7:00pm",
-      "isTomorrow": true,
+      "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "NC Dinos",
@@ -155,7 +155,7 @@ window.kboData = {
       "id": "13829-Doosan-vs-Kia-20260816",
       "url": "https://mykbostats.com/games/13829-Doosan-vs-Kia-20260816",
       "status": "7:00pm",
-      "isTomorrow": true,
+      "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "Doosan Bears",
@@ -230,7 +230,7 @@ window.kboData = {
       "id": "13830-SSG-vs-LG-20260816",
       "url": "https://mykbostats.com/games/13830-SSG-vs-LG-20260816",
       "status": "7:00pm",
-      "isTomorrow": true,
+      "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "SSG Landers",
@@ -305,7 +305,7 @@ window.kboData = {
       "id": "13831-Kiwoom-vs-KT-20260816",
       "url": "https://mykbostats.com/games/13831-Kiwoom-vs-KT-20260816",
       "status": "7:00pm",
-      "isTomorrow": true,
+      "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "Kiwoom Heroes",
