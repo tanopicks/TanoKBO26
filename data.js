@@ -1,101 +1,26 @@
 window.kboData = {
-  "lastUpdated": "2026-08-15T12:00:49.790Z",
+  "lastUpdated": "2026-08-15T13:41:21.949Z",
   "games": [
-    {
-      "id": "13822-Hanwha-vs-Samsung-20260815",
-      "url": "https://mykbostats.com/games/13822-Hanwha-vs-Samsung-20260815",
-      "status": "Top 7th",
-      "isTomorrow": false,
-      "time": "6:30pm",
-      "teamAway": {
-        "name": "Hanwha Eagles",
-        "url": "https://mykbostats.com/teams/4-Hanwha-Eagles",
-        "pitcher": {
-          "name": "Chae Eun-seong",
-          "url": "https://mykbostats.com/players/818-Chae-Eunseong-Hanwha-Eagles",
-          "era": "0.00",
-          "whip": "0.00",
-          "hr": 4,
-          "bb": 11,
-          "so": 33,
-          "ip": "0",
-          "hb": 0,
-          "fip": "4.50",
-          "yearUsed": "2026"
-        },
-        "batting": {
-          "avg": "0.278",
-          "obp": "0.356",
-          "slg": "0.444",
-          "ops": "0.800",
-          "r": "490",
-          "r_per_game": "5.44",
-          "hr": 122
-        },
-        "pitching": {
-          "era": "4.11",
-          "whip": "1.42",
-          "hr": 110,
-          "bb": 241,
-          "so": 541,
-          "avg": "0.288"
-        }
-      },
-      "teamHome": {
-        "name": "Samsung Lions",
-        "url": "https://mykbostats.com/teams/3-Samsung-Lions",
-        "pitcher": {
-          "name": "Lee Seung-hyun",
-          "url": "https://mykbostats.com/players/670-Lee-Seunghyun-Samsung-Lions",
-          "era": "4.14",
-          "whip": "1.59",
-          "hr": 3,
-          "bb": 17,
-          "so": 35,
-          "ip": "37",
-          "hb": 0,
-          "fip": "4.34",
-          "yearUsed": "2026"
-        },
-        "batting": {
-          "avg": "0.292",
-          "obp": "0.385",
-          "slg": "0.438",
-          "ops": "0.823",
-          "r": "503",
-          "r_per_game": "5.59",
-          "hr": 90
-        },
-        "pitching": {
-          "era": "4.27",
-          "whip": "1.40",
-          "hr": 81,
-          "bb": 242,
-          "so": 532,
-          "avg": "0.302"
-        }
-      }
-    },
     {
       "id": "13823-NC-vs-Lotte-20260815",
       "url": "https://mykbostats.com/games/13823-NC-vs-Lotte-20260815",
-      "status": "Delayed",
+      "status": "Top 9th",
       "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "NC Dinos",
         "url": "https://mykbostats.com/teams/9-NC-Dinos",
         "pitcher": {
-          "name": "Ryu Jin-wook",
-          "url": "https://mykbostats.com/players/1103-Ryu-Jinwook-NC-Dinos",
-          "era": "9.51",
-          "whip": "1.94",
+          "name": "Park Min-woo",
+          "url": "https://mykbostats.com/players/539-Park-Minwoo-NC-Dinos",
+          "era": "0.00",
+          "whip": "0.00",
           "hr": 6,
-          "bb": 13,
-          "so": 23,
-          "ip": "23 ⅔",
-          "hb": 4,
-          "fip": "7.31",
+          "bb": 50,
+          "so": 53,
+          "ip": "0",
+          "hb": 0,
+          "fip": "4.50",
           "yearUsed": "2026"
         },
         "batting": {
@@ -120,16 +45,16 @@ window.kboData = {
         "name": "Lotte Giants",
         "url": "https://mykbostats.com/teams/2-Lotte-Giants",
         "pitcher": {
-          "name": "Park Seung-wook",
-          "url": "https://mykbostats.com/players/409-Park-Seungwook-Lotte-Giants",
-          "era": "0.00",
-          "whip": "0.00",
-          "hr": 1,
-          "bb": 8,
-          "so": 36,
-          "ip": "0",
-          "hb": 0,
-          "fip": "4.50",
+          "name": "Choi Jun-yong",
+          "url": "https://mykbostats.com/players/1951-Choi-Junyong-Lotte-Giants",
+          "era": "3.52",
+          "whip": "1.39",
+          "hr": 5,
+          "bb": 21,
+          "so": 48,
+          "ip": "46",
+          "hb": 2,
+          "fip": "4.63",
           "yearUsed": "2026"
         },
         "batting": {
@@ -152,25 +77,169 @@ window.kboData = {
       }
     },
     {
-      "id": "13824-Doosan-vs-Kia-20260815",
-      "url": "https://mykbostats.com/games/13824-Doosan-vs-Kia-20260815",
-      "status": "Top 6th",
-      "isTomorrow": false,
+      "id": "13827-Hanwha-vs-Samsung-20260816",
+      "url": "https://mykbostats.com/games/13827-Hanwha-vs-Samsung-20260816",
+      "status": "7:00pm",
+      "isTomorrow": true,
+      "time": "6:30pm",
+      "teamAway": {
+        "name": "Hanwha Eagles",
+        "url": "https://mykbostats.com/teams/4-Hanwha-Eagles",
+        "pitcher": {
+          "name": "Wang Yan-cheng",
+          "url": "https://mykbostats.com/players/2941-Wang-Yancheng-Hanwha-Eagles",
+          "era": "3.43",
+          "whip": "1.43",
+          "hr": 11,
+          "bb": 46,
+          "so": 92,
+          "ip": "115 ⅓",
+          "hb": 6,
+          "fip": "4.80",
+          "yearUsed": "2026"
+        },
+        "batting": {
+          "avg": "0.278",
+          "obp": "0.356",
+          "slg": "0.444",
+          "ops": "0.800",
+          "r": "490",
+          "r_per_game": "5.44",
+          "hr": 122
+        },
+        "pitching": {
+          "era": "4.11",
+          "whip": "1.42",
+          "hr": 110,
+          "bb": 241,
+          "so": 541,
+          "avg": "0.288"
+        }
+      },
+      "teamHome": {
+        "name": "Samsung Lions",
+        "url": "https://mykbostats.com/teams/3-Samsung-Lions",
+        "pitcher": {
+          "name": "Chris Paddack",
+          "url": "https://mykbostats.com/players/3097-Chris-Paddack-Samsung-Lions",
+          "era": "4.13",
+          "whip": "0.88",
+          "hr": 2,
+          "bb": 4,
+          "so": 26,
+          "ip": "24",
+          "hb": 1,
+          "fip": "3.34",
+          "yearUsed": "2026"
+        },
+        "batting": {
+          "avg": "0.292",
+          "obp": "0.385",
+          "slg": "0.438",
+          "ops": "0.823",
+          "r": "503",
+          "r_per_game": "5.59",
+          "hr": 90
+        },
+        "pitching": {
+          "era": "4.27",
+          "whip": "1.40",
+          "hr": 81,
+          "bb": 242,
+          "so": 532,
+          "avg": "0.302"
+        }
+      }
+    },
+    {
+      "id": "13828-NC-vs-Lotte-20260816",
+      "url": "https://mykbostats.com/games/13828-NC-vs-Lotte-20260816",
+      "status": "7:00pm",
+      "isTomorrow": true,
+      "time": "6:30pm",
+      "teamAway": {
+        "name": "NC Dinos",
+        "url": "https://mykbostats.com/teams/9-NC-Dinos",
+        "pitcher": {
+          "name": "TBD",
+          "era": "0.00",
+          "whip": "0.00",
+          "hr": 0,
+          "bb": 0,
+          "so": 0,
+          "ip": "0",
+          "fip": "0.00"
+        },
+        "batting": {
+          "avg": "0.280",
+          "obp": "0.363",
+          "slg": "0.421",
+          "ops": "0.784",
+          "r": "480",
+          "r_per_game": "5.33",
+          "hr": 80
+        },
+        "pitching": {
+          "era": "4.63",
+          "whip": "1.41",
+          "hr": 72,
+          "bb": 272,
+          "so": 568,
+          "avg": "0.290"
+        }
+      },
+      "teamHome": {
+        "name": "Lotte Giants",
+        "url": "https://mykbostats.com/teams/2-Lotte-Giants",
+        "pitcher": {
+          "name": "TBD",
+          "era": "0.00",
+          "whip": "0.00",
+          "hr": 0,
+          "bb": 0,
+          "so": 0,
+          "ip": "0",
+          "fip": "0.00"
+        },
+        "batting": {
+          "avg": "0.277",
+          "obp": "0.339",
+          "slg": "0.404",
+          "ops": "0.743",
+          "r": "455",
+          "r_per_game": "5.05",
+          "hr": 66
+        },
+        "pitching": {
+          "era": "4.29",
+          "whip": "1.41",
+          "hr": 59,
+          "bb": 309,
+          "so": 755,
+          "avg": "0.287"
+        }
+      }
+    },
+    {
+      "id": "13829-Doosan-vs-Kia-20260816",
+      "url": "https://mykbostats.com/games/13829-Doosan-vs-Kia-20260816",
+      "status": "7:00pm",
+      "isTomorrow": true,
       "time": "6:30pm",
       "teamAway": {
         "name": "Doosan Bears",
         "url": "https://mykbostats.com/teams/1-Doosan-Bears",
         "pitcher": {
-          "name": "Park Ji-hoon",
-          "url": "https://mykbostats.com/players/2004-Park-Jihoon-Doosan-Bears",
-          "era": "0.00",
-          "whip": "0.00",
-          "hr": 0,
-          "bb": 24,
-          "so": 37,
-          "ip": "0",
-          "hb": 0,
-          "fip": "4.50",
+          "name": "Gwak Been",
+          "url": "https://mykbostats.com/players/1628-Gwak-Been-Doosan-Bears",
+          "era": "2.53",
+          "whip": "1.12",
+          "hr": 8,
+          "bb": 31,
+          "so": 148,
+          "ip": "121",
+          "hb": 5,
+          "fip": "3.11",
           "yearUsed": "2026"
         },
         "batting": {
@@ -195,16 +264,16 @@ window.kboData = {
         "name": "Kia Tigers",
         "url": "https://mykbostats.com/teams/5-Kia-Tigers",
         "pitcher": {
-          "name": "Yang Hyeon-jong",
-          "url": "https://mykbostats.com/players/298-Yang-Hyeonjong-Kia-Tigers",
-          "era": "4.52",
-          "whip": "1.47",
-          "hr": 12,
-          "bb": 47,
-          "so": 59,
-          "ip": "89 ⅔",
-          "hb": 2,
-          "fip": "5.86",
+          "name": "Adam Oller",
+          "url": "https://mykbostats.com/players/2770-Adam-Oller-Kia-Tigers",
+          "era": "3.27",
+          "whip": "1.12",
+          "hr": 11,
+          "bb": 41,
+          "so": 122,
+          "ip": "115 ⅔",
+          "hb": 6,
+          "fip": "4.15",
           "yearUsed": "2026"
         },
         "batting": {
@@ -227,25 +296,25 @@ window.kboData = {
       }
     },
     {
-      "id": "13825-SSG-vs-LG-20260815",
-      "url": "https://mykbostats.com/games/13825-SSG-vs-LG-20260815",
-      "status": "Bot 6th",
-      "isTomorrow": false,
+      "id": "13830-SSG-vs-LG-20260816",
+      "url": "https://mykbostats.com/games/13830-SSG-vs-LG-20260816",
+      "status": "7:00pm",
+      "isTomorrow": true,
       "time": "6:30pm",
       "teamAway": {
         "name": "SSG Landers",
         "url": "https://mykbostats.com/teams/24-SSG-Landers",
         "pitcher": {
-          "name": "Kim Keon-woo",
-          "url": "https://mykbostats.com/players/2148-Kim-Keonwoo-SSG-Landers",
-          "era": "6.43",
-          "whip": "1.84",
-          "hr": 14,
-          "bb": 55,
-          "so": 71,
-          "ip": "92 ⅓",
-          "hb": 7,
-          "fip": "6.25",
+          "name": "Pedro Ávila",
+          "url": "https://mykbostats.com/players/3095-Pedro-A%CC%81vila-SSG-Landers",
+          "era": "1.93",
+          "whip": "1.29",
+          "hr": 0,
+          "bb": 13,
+          "so": 32,
+          "ip": "28",
+          "hb": 0,
+          "fip": "2.91",
           "yearUsed": "2026"
         },
         "batting": {
@@ -270,16 +339,16 @@ window.kboData = {
         "name": "LG Twins",
         "url": "https://mykbostats.com/teams/6-LG-Twins",
         "pitcher": {
-          "name": "Moon Jeong-bin",
-          "url": "https://mykbostats.com/players/2364-Moon-Jeongbin-LG-Twins",
-          "era": "0.00",
-          "whip": "0.00",
-          "hr": 12,
-          "bb": 18,
-          "so": 45,
-          "ip": "0",
-          "hb": 0,
-          "fip": "4.50",
+          "name": "Carlos Carrasco",
+          "url": "https://mykbostats.com/players/3101-Carlos-Carrasco-LG-Twins",
+          "era": "1.38",
+          "whip": "0.38",
+          "hr": 0,
+          "bb": 0,
+          "so": 7,
+          "ip": "13",
+          "hb": 1,
+          "fip": "2.95",
           "yearUsed": "2026"
         },
         "batting": {
@@ -298,81 +367,6 @@ window.kboData = {
           "bb": 227,
           "so": 472,
           "avg": "0.278"
-        }
-      }
-    },
-    {
-      "id": "13826-Kiwoom-vs-KT-20260815",
-      "url": "https://mykbostats.com/games/13826-Kiwoom-vs-KT-20260815",
-      "status": "Top 6th",
-      "isTomorrow": false,
-      "time": "6:30pm",
-      "teamAway": {
-        "name": "Kiwoom Heroes",
-        "url": "https://mykbostats.com/teams/23-Kiwoom-Heroes",
-        "pitcher": {
-          "name": "An Chi-hong",
-          "url": "https://mykbostats.com/players/296-An-Chihong-Kiwoom-Heroes",
-          "era": "0.00",
-          "whip": "0.00",
-          "hr": 8,
-          "bb": 36,
-          "so": 55,
-          "ip": "0",
-          "hb": 0,
-          "fip": "4.50",
-          "yearUsed": "2026"
-        },
-        "batting": {
-          "avg": "0.264",
-          "obp": "0.341",
-          "slg": "0.386",
-          "ops": "0.726",
-          "r": "445",
-          "r_per_game": "4.94",
-          "hr": 69
-        },
-        "pitching": {
-          "era": "4.71",
-          "whip": "1.47",
-          "hr": 62,
-          "bb": 250,
-          "so": 502,
-          "avg": "0.274"
-        }
-      },
-      "teamHome": {
-        "name": "KT Wiz",
-        "url": "https://mykbostats.com/teams/22-KT-Wiz",
-        "pitcher": {
-          "name": "Lee Sang-dong",
-          "url": "https://mykbostats.com/players/1858-Lee-Sangdong-KT-Wiz",
-          "era": "7.58",
-          "whip": "1.37",
-          "hr": 3,
-          "bb": 8,
-          "so": 14,
-          "ip": "19",
-          "hb": 0,
-          "fip": "5.64",
-          "yearUsed": "2026"
-        },
-        "batting": {
-          "avg": "0.291",
-          "obp": "0.371",
-          "slg": "0.412",
-          "ops": "0.784",
-          "r": "480",
-          "r_per_game": "5.33",
-          "hr": 68
-        },
-        "pitching": {
-          "era": "3.98",
-          "whip": "1.34",
-          "hr": 61,
-          "bb": 198,
-          "so": 558,
-          "avg": "0.301"
         }
       }
     }
