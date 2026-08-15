@@ -1,5 +1,5 @@
 window.kboData = {
-  "lastUpdated": "2026-08-15T14:44:09.282Z",
+  "lastUpdated": "2026-08-15T15:39:58.218Z",
   "games": [
     {
       "id": "13827-Hanwha-vs-Samsung-20260816",
@@ -217,11 +217,11 @@ window.kboData = {
           "hr": 111
         },
         "pitching": {
-          "era": "4.49",
+          "era": "4.47",
           "whip": "1.42",
           "hr": 100,
-          "bb": 350,
-          "so": 669,
+          "bb": 353,
+          "so": 673,
           "avg": "0.292"
         }
       }
@@ -258,11 +258,11 @@ window.kboData = {
           "hr": 65
         },
         "pitching": {
-          "era": "5.11",
+          "era": "5.09",
           "whip": "1.51",
           "hr": 59,
-          "bb": 335,
-          "so": 607,
+          "bb": 337,
+          "so": 616,
           "avg": "0.268"
         }
       },
