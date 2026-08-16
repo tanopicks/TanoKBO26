@@ -1,5 +1,5 @@
 window.kboData = {
-  "lastUpdated": "2026-08-16T09:00:16.657Z",
+  "lastUpdated": "2026-08-16T09:54:50.492Z",
   "games": [
     {
       "id": "13827-Hanwha-vs-Samsung-20260816",
@@ -312,21 +312,21 @@ window.kboData = {
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": "0.265",
-          "obp": "0.342",
-          "slg": "0.389",
-          "ops": "0.731",
-          "r": "447",
-          "r_per_game": "4.97",
-          "hr": 72
+          "avg": ".265",
+          "obp": ".335",
+          "slg": ".410",
+          "ops": ".745",
+          "r": "450",
+          "r_per_game": "5.00",
+          "hr": 90
         },
         "pitching": {
-          "era": "4.69",
-          "whip": "1.47",
-          "hr": 65,
-          "bb": 252,
-          "so": 506,
-          "avg": "0.275"
+          "era": "4.50",
+          "whip": "1.40",
+          "hr": 80,
+          "bb": 350,
+          "so": 700,
+          "avg": ".265"
         }
       },
       "teamHome": {
