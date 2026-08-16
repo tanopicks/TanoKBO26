@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-16T05:59:19.417Z",
+  "lastUpdated": "2026-08-16T07:45:08.250Z",
   "games": [
     {
       "id": "13827-Hanwha-vs-Samsung-20260816",
@@ -24,21 +24,21 @@
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": "0.278",
-          "obp": "0.356",
-          "slg": "0.445",
-          "ops": "0.801",
-          "r": "490",
-          "r_per_game": "5.45",
-          "hr": 125
+          "avg": ".265",
+          "obp": ".335",
+          "slg": ".410",
+          "ops": ".745",
+          "r": "450",
+          "r_per_game": "5.00",
+          "hr": 90
         },
         "pitching": {
-          "era": "4.17",
-          "whip": "1.42",
-          "hr": 113,
-          "bb": 245,
-          "so": 552,
-          "avg": "0.288"
+          "era": "4.50",
+          "whip": "1.40",
+          "hr": 80,
+          "bb": 350,
+          "so": 700,
+          "avg": ".265"
         }
       },
       "teamHome": {
@@ -79,24 +79,21 @@
     {
       "id": "13828-NC-vs-Lotte-20260816",
       "url": "https://mykbostats.com/games/13828-NC-vs-Lotte-20260816",
-      "status": "7:00pm",
+      "status": "Canceled",
       "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "NC Dinos",
         "url": "https://mykbostats.com/teams/9-NC-Dinos",
         "pitcher": {
-          "name": "Riley Thompson",
-          "url": "https://mykbostats.com/players/2781-Riley-Thompson-NC-Dinos",
-          "era": "2.98",
-          "whip": "1.08",
-          "hr": 12,
-          "bb": 20,
-          "so": 109,
-          "ip": "81 ⅔",
-          "hb": 0,
-          "fip": "3.78",
-          "yearUsed": "2026"
+          "name": "TBD",
+          "era": "0.00",
+          "whip": "0.00",
+          "hr": 0,
+          "bb": 0,
+          "so": 0,
+          "ip": "0",
+          "fip": "0.00"
         },
         "batting": {
           "avg": "0.281",
@@ -120,17 +117,14 @@
         "name": "Lotte Giants",
         "url": "https://mykbostats.com/teams/2-Lotte-Giants",
         "pitcher": {
-          "name": "Jeremy Beasley",
-          "url": "https://mykbostats.com/players/2924-Jeremy-Beasley-Lotte-Giants",
-          "era": "4.40",
-          "whip": "1.39",
-          "hr": 7,
-          "bb": 33,
-          "so": 118,
-          "ip": "108 ⅓",
-          "hb": 9,
-          "fip": "3.62",
-          "yearUsed": "2026"
+          "name": "TBD",
+          "era": "0.00",
+          "whip": "0.00",
+          "hr": 0,
+          "bb": 0,
+          "so": 0,
+          "ip": "0",
+          "fip": "0.00"
         },
         "batting": {
           "avg": "0.274",
