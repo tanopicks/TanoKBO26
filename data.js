@@ -1,5 +1,5 @@
 window.kboData = {
-  "lastUpdated": "2026-08-16T09:54:50.492Z",
+  "lastUpdated": "2026-08-16T10:51:49.240Z",
   "games": [
     {
       "id": "13827-Hanwha-vs-Samsung-20260816",
@@ -142,41 +142,41 @@ window.kboData = {
     {
       "id": "13829-Doosan-vs-Kia-20260816",
       "url": "https://mykbostats.com/games/13829-Doosan-vs-Kia-20260816",
-      "status": "7:00pm",
+      "status": "Top 4th",
       "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "Doosan Bears",
         "url": "https://mykbostats.com/teams/1-Doosan-Bears",
         "pitcher": {
-          "name": "Gwak Been",
-          "url": "https://mykbostats.com/players/1628-Gwak-Been-Doosan-Bears",
-          "era": "2.53",
-          "whip": "1.12",
-          "hr": 8,
-          "bb": 31,
-          "so": 148,
-          "ip": "121",
-          "hb": 5,
-          "fip": "3.11",
+          "name": "An Jae-seok",
+          "url": "https://mykbostats.com/players/2111-An-Jaeseok-Doosan-Bears",
+          "era": "0.00",
+          "whip": "0.00",
+          "hr": 6,
+          "bb": 20,
+          "so": 52,
+          "ip": "0",
+          "hb": 0,
+          "fip": "4.50",
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": "0.274",
-          "obp": "0.346",
-          "slg": "0.400",
-          "ops": "0.746",
-          "r": "457",
-          "r_per_game": "5.07",
-          "hr": 68
+          "avg": ".265",
+          "obp": ".335",
+          "slg": ".410",
+          "ops": ".745",
+          "r": "450",
+          "r_per_game": "5.00",
+          "hr": 90
         },
         "pitching": {
-          "era": "3.53",
-          "whip": "1.31",
-          "hr": 61,
-          "bb": 290,
-          "so": 795,
-          "avg": "0.284"
+          "era": "4.50",
+          "whip": "1.40",
+          "hr": 80,
+          "bb": 350,
+          "so": 700,
+          "avg": ".265"
         }
       },
       "teamHome": {
@@ -217,7 +217,7 @@ window.kboData = {
     {
       "id": "13830-SSG-vs-LG-20260816",
       "url": "https://mykbostats.com/games/13830-SSG-vs-LG-20260816",
-      "status": "7:00pm",
+      "status": "Bot 4th",
       "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
@@ -258,16 +258,16 @@ window.kboData = {
         "name": "LG Twins",
         "url": "https://mykbostats.com/teams/6-LG-Twins",
         "pitcher": {
-          "name": "Carlos Carrasco",
-          "url": "https://mykbostats.com/players/3101-Carlos-Carrasco-LG-Twins",
-          "era": "1.38",
-          "whip": "0.38",
+          "name": "Shin Min-jae",
+          "url": "https://mykbostats.com/players/923-Shin-Minjae-LG-Twins",
+          "era": "0.00",
+          "whip": "0.00",
           "hr": 0,
-          "bb": 0,
-          "so": 7,
-          "ip": "13",
-          "hb": 1,
-          "fip": "2.95",
+          "bb": 33,
+          "so": 41,
+          "ip": "0",
+          "hb": 0,
+          "fip": "4.50",
           "yearUsed": "2026"
         },
         "batting": {
@@ -292,41 +292,41 @@ window.kboData = {
     {
       "id": "13831-Kiwoom-vs-KT-20260816",
       "url": "https://mykbostats.com/games/13831-Kiwoom-vs-KT-20260816",
-      "status": "7:00pm",
+      "status": "Top 3rd",
       "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "Kiwoom Heroes",
         "url": "https://mykbostats.com/teams/23-Kiwoom-Heroes",
         "pitcher": {
-          "name": "Kim Yun-ha",
-          "url": "https://mykbostats.com/players/2614-Kim-Yunha-Kiwoom-Heroes",
-          "era": "7.59",
-          "whip": "1.69",
-          "hr": 7,
-          "bb": 9,
-          "so": 17,
-          "ip": "21 ⅓",
+          "name": "An Chi-hong",
+          "url": "https://mykbostats.com/players/296-An-Chihong-Kiwoom-Heroes",
+          "era": "0.00",
+          "whip": "0.00",
+          "hr": 9,
+          "bb": 37,
+          "so": 55,
+          "ip": "0",
           "hb": 0,
-          "fip": "7.74",
+          "fip": "4.50",
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": ".265",
-          "obp": ".335",
-          "slg": ".410",
-          "ops": ".745",
-          "r": "450",
-          "r_per_game": "5.00",
-          "hr": 90
+          "avg": "0.265",
+          "obp": "0.342",
+          "slg": "0.389",
+          "ops": "0.731",
+          "r": "447",
+          "r_per_game": "4.97",
+          "hr": 72
         },
         "pitching": {
-          "era": "4.50",
-          "whip": "1.40",
-          "hr": 80,
-          "bb": 350,
-          "so": 700,
-          "avg": ".265"
+          "era": "4.69",
+          "whip": "1.47",
+          "hr": 65,
+          "bb": 252,
+          "so": 506,
+          "avg": "0.275"
         }
       },
       "teamHome": {
