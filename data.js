@@ -1,5 +1,5 @@
 window.kboData = {
-  "lastUpdated": "2026-08-18T15:17:48.729Z",
+  "lastUpdated": "2026-08-18T16:56:05.529Z",
   "games": [
     {
       "id": "13837-Kia-vs-Hanwha-20260819",
@@ -99,12 +99,12 @@ window.kboData = {
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": "0.293",
+          "avg": "0.292",
           "obp": "0.372",
           "slg": "0.415",
-          "ops": "0.788",
+          "ops": "0.787",
           "r": "482",
-          "r_per_game": "5.36",
+          "r_per_game": "5.35",
           "hr": 69
         },
         "pitching": {
@@ -113,7 +113,7 @@ window.kboData = {
           "hr": 62,
           "bb": 193,
           "so": 521,
-          "avg": "0.303"
+          "avg": "0.302"
         }
       },
       "teamHome": {
@@ -217,11 +217,11 @@ window.kboData = {
           "hr": 80
         },
         "pitching": {
-          "era": "4.71",
+          "era": "4.70",
           "whip": "1.42",
           "hr": 72,
-          "bb": 283,
-          "so": 595,
+          "bb": 285,
+          "so": 602,
           "avg": "0.291"
         }
       }
@@ -324,21 +324,21 @@ window.kboData = {
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": "0.262",
+          "avg": "0.263",
           "obp": "0.343",
-          "slg": "0.379",
-          "ops": "0.722",
-          "r": "442",
-          "r_per_game": "4.91",
-          "hr": 62
+          "slg": "0.381",
+          "ops": "0.724",
+          "r": "443",
+          "r_per_game": "4.92",
+          "hr": 63
         },
         "pitching": {
-          "era": "4.70",
-          "whip": "1.48",
-          "hr": 56,
-          "bb": 272,
+          "era": "4.73",
+          "whip": "1.49",
+          "hr": 57,
+          "bb": 274,
           "so": 524,
-          "avg": "0.272"
+          "avg": "0.273"
         }
       },
       "teamHome": {
