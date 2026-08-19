@@ -1,5 +1,5 @@
 window.kboData = {
-  "lastUpdated": "2026-08-19T05:03:35.083Z",
+  "lastUpdated": "2026-08-19T06:02:18.796Z",
   "games": [
     {
       "id": "13837-Kia-vs-Hanwha-20260819",
@@ -99,21 +99,21 @@ window.kboData = {
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": ".265",
-          "obp": ".335",
-          "slg": ".410",
-          "ops": ".745",
-          "r": "450",
-          "r_per_game": "5.00",
-          "hr": 90
+          "avg": "0.291",
+          "obp": "0.371",
+          "slg": "0.413",
+          "ops": "0.784",
+          "r": "480",
+          "r_per_game": "5.33",
+          "hr": 70
         },
         "pitching": {
-          "era": "4.50",
-          "whip": "1.40",
-          "hr": 80,
-          "bb": 350,
-          "so": 700,
-          "avg": ".265"
+          "era": "3.89",
+          "whip": "1.34",
+          "hr": 63,
+          "bb": 198,
+          "so": 524,
+          "avg": "0.301"
         }
       },
       "teamHome": {
