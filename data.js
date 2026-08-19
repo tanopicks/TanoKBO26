@@ -1,5 +1,5 @@
 window.kboData = {
-  "lastUpdated": "2026-08-19T07:59:07.787Z",
+  "lastUpdated": "2026-08-19T09:20:38.296Z",
   "games": [
     {
       "id": "13837-Kia-vs-Hanwha-20260819",
@@ -33,11 +33,11 @@ window.kboData = {
           "hr": 114
         },
         "pitching": {
-          "era": "4.35",
-          "whip": "1.39",
+          "era": "4.40",
+          "whip": "1.40",
           "hr": 103,
-          "bb": 322,
-          "so": 632,
+          "bb": 356,
+          "so": 690,
           "avg": "0.292"
         }
       },
@@ -108,11 +108,11 @@ window.kboData = {
           "hr": 70
         },
         "pitching": {
-          "era": "3.89",
+          "era": "3.78",
           "whip": "1.34",
           "hr": 63,
-          "bb": 198,
-          "so": 524,
+          "bb": 187,
+          "so": 494,
           "avg": "0.301"
         }
       },
@@ -133,21 +133,21 @@ window.kboData = {
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": "0.271",
-          "obp": "0.355",
-          "slg": "0.418",
-          "ops": "0.774",
-          "r": "473",
-          "r_per_game": "5.26",
+          "avg": "0.268",
+          "obp": "0.357",
+          "slg": "0.405",
+          "ops": "0.762",
+          "r": "466",
+          "r_per_game": "5.18",
           "hr": 95
         },
         "pitching": {
-          "era": "4.65",
-          "whip": "1.45",
+          "era": "4.63",
+          "whip": "1.44",
           "hr": 86,
-          "bb": 235,
-          "so": 499,
-          "avg": "0.281"
+          "bb": 217,
+          "so": 464,
+          "avg": "0.278"
         }
       }
     },
@@ -197,15 +197,15 @@ window.kboData = {
         "pitcher": {
           "name": "Curtis Taylor",
           "url": "https://mykbostats.com/players/2960-Curtis-Taylor-NC-Dinos",
-          "era": "4.45",
-          "whip": "1.30",
-          "hr": 8,
-          "bb": 42,
-          "so": 82,
-          "ip": "109 ⅓",
-          "hb": 13,
-          "fip": "4.76",
-          "yearUsed": "2026"
+          "era": 4.5,
+          "whip": 1.4,
+          "hr": 0,
+          "bb": 0,
+          "so": 0,
+          "ip": 0,
+          "hb": 0,
+          "fip": 4.5,
+          "yearUsed": "Error"
         },
         "batting": {
           "avg": "0.281",
@@ -283,12 +283,12 @@ window.kboData = {
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": "0.288",
-          "obp": "0.382",
-          "slg": "0.435",
-          "ops": "0.816",
-          "r": "500",
-          "r_per_game": "5.55",
+          "avg": "0.290",
+          "obp": "0.383",
+          "slg": "0.438",
+          "ops": "0.821",
+          "r": "502",
+          "r_per_game": "5.58",
           "hr": 94
         },
         "pitching": {
@@ -297,7 +297,7 @@ window.kboData = {
           "hr": 85,
           "bb": 245,
           "so": 552,
-          "avg": "0.298"
+          "avg": "0.300"
         }
       }
     },
@@ -324,21 +324,21 @@ window.kboData = {
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": "0.264",
-          "obp": "0.343",
-          "slg": "0.383",
-          "ops": "0.726",
-          "r": "444",
-          "r_per_game": "4.94",
-          "hr": 66
+          "avg": "0.262",
+          "obp": "0.341",
+          "slg": "0.380",
+          "ops": "0.721",
+          "r": "442",
+          "r_per_game": "4.91",
+          "hr": 64
         },
         "pitching": {
-          "era": "4.84",
-          "whip": "1.50",
-          "hr": 59,
-          "bb": 279,
-          "so": 530,
-          "avg": "0.274"
+          "era": "4.71",
+          "whip": "1.48",
+          "hr": 58,
+          "bb": 264,
+          "so": 481,
+          "avg": "0.272"
         }
       },
       "teamHome": {
@@ -358,21 +358,21 @@ window.kboData = {
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": "0.276",
-          "obp": "0.341",
-          "slg": "0.402",
-          "ops": "0.743",
-          "r": "455",
-          "r_per_game": "5.05",
-          "hr": 53
+          "avg": "0.279",
+          "obp": "0.343",
+          "slg": "0.408",
+          "ops": "0.751",
+          "r": "459",
+          "r_per_game": "5.10",
+          "hr": 69
         },
         "pitching": {
-          "era": "4.33",
-          "whip": "1.42",
-          "hr": 48,
-          "bb": 287,
-          "so": 734,
-          "avg": "0.286"
+          "era": "4.32",
+          "whip": "1.41",
+          "hr": 62,
+          "bb": 310,
+          "so": 762,
+          "avg": "0.289"
         }
       }
     }
