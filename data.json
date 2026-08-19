@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T23:44:53.482Z",
+  "lastUpdated": "2026-08-19T03:11:56.138Z",
   "games": [
     {
       "id": "13837-Kia-vs-Hanwha-20260819",
@@ -33,11 +33,11 @@
           "hr": 114
         },
         "pitching": {
-          "era": "4.40",
-          "whip": "1.40",
+          "era": "4.35",
+          "whip": "1.39",
           "hr": 103,
-          "bb": 356,
-          "so": 690,
+          "bb": 322,
+          "so": 632,
           "avg": "0.292"
         }
       },
@@ -47,15 +47,15 @@
         "pitcher": {
           "name": "Owen White",
           "url": "https://mykbostats.com/players/2944-Owen-White-Hanwha-Eagles",
-          "era": "3.15",
-          "whip": "1.22",
-          "hr": 5,
-          "bb": 19,
-          "so": 66,
-          "ip": "91 ⅓",
-          "hb": 2,
-          "fip": "3.76",
-          "yearUsed": "2026"
+          "era": 4.5,
+          "whip": 1.4,
+          "hr": 0,
+          "bb": 0,
+          "so": 0,
+          "ip": 0,
+          "hb": 0,
+          "fip": 4.5,
+          "yearUsed": "Error"
         },
         "batting": {
           "avg": "0.277",
@@ -122,15 +122,15 @@
         "pitcher": {
           "name": "Anders Tolhurst",
           "url": "https://mykbostats.com/players/2913-Anders-Tolhurst-LG-Twins",
-          "era": "4.76",
-          "whip": "1.34",
-          "hr": 12,
-          "bb": 30,
-          "so": 97,
-          "ip": "115 ⅓",
-          "hb": 8,
-          "fip": "4.46",
-          "yearUsed": "2026"
+          "era": 4.5,
+          "whip": 1.4,
+          "hr": 0,
+          "bb": 0,
+          "so": 0,
+          "ip": 0,
+          "hb": 0,
+          "fip": 4.5,
+          "yearUsed": "Error"
         },
         "batting": {
           "avg": "0.268",
@@ -197,15 +197,15 @@
         "pitcher": {
           "name": "Curtis Taylor",
           "url": "https://mykbostats.com/players/2960-Curtis-Taylor-NC-Dinos",
-          "era": "4.45",
-          "whip": "1.30",
-          "hr": 8,
-          "bb": 42,
-          "so": 82,
-          "ip": "109 ⅓",
-          "hb": 13,
-          "fip": "4.76",
-          "yearUsed": "2026"
+          "era": 4.5,
+          "whip": 1.4,
+          "hr": 0,
+          "bb": 0,
+          "so": 0,
+          "ip": 0,
+          "hb": 0,
+          "fip": 4.5,
+          "yearUsed": "Error"
         },
         "batting": {
           "avg": "0.281",
@@ -272,15 +272,15 @@
         "pitcher": {
           "name": "Austin Voth",
           "url": "https://mykbostats.com/players/3099-Austin-Voth-Samsung-Lions",
-          "era": "9.00",
-          "whip": "2.25",
-          "hr": 1,
-          "bb": 5,
-          "so": 11,
-          "ip": "12",
-          "hb": 1,
-          "fip": "4.55",
-          "yearUsed": "2026"
+          "era": 4.5,
+          "whip": 1.4,
+          "hr": 0,
+          "bb": 0,
+          "so": 0,
+          "ip": 0,
+          "hb": 0,
+          "fip": 4.5,
+          "yearUsed": "Error"
         },
         "batting": {
           "avg": "0.288",
@@ -347,15 +347,15 @@
         "pitcher": {
           "name": "Elvin Rodríguez",
           "url": "https://mykbostats.com/players/2922-Elvin-Rodri%CC%81guez-Lotte-Giants",
-          "era": "3.81",
-          "whip": "1.32",
-          "hr": 15,
-          "bb": 41,
-          "so": 136,
-          "ip": "118",
-          "hb": 5,
-          "fip": "4.32",
-          "yearUsed": "2026"
+          "era": 4.5,
+          "whip": 1.4,
+          "hr": 0,
+          "bb": 0,
+          "so": 0,
+          "ip": 0,
+          "hb": 0,
+          "fip": 4.5,
+          "yearUsed": "Error"
         },
         "batting": {
           "avg": "0.279",
