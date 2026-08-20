@@ -1,5 +1,5 @@
 window.kboData = {
-  "lastUpdated": "2026-08-20T02:52:45.675Z",
+  "lastUpdated": "2026-08-20T03:35:06.937Z",
   "games": [
     {
       "id": "13842-Kia-vs-Hanwha-20260820",
@@ -33,11 +33,11 @@ window.kboData = {
           "hr": 116
         },
         "pitching": {
-          "era": "4.39",
-          "whip": "1.40",
+          "era": "4.33",
+          "whip": "1.39",
           "hr": 104,
-          "bb": 358,
-          "so": 693,
+          "bb": 324,
+          "so": 635,
           "avg": "0.291"
         }
       },
@@ -133,12 +133,12 @@ window.kboData = {
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": "0.268",
-          "obp": "0.358",
-          "slg": "0.404",
-          "ops": "0.762",
-          "r": "466",
-          "r_per_game": "5.18",
+          "avg": "0.271",
+          "obp": "0.355",
+          "slg": "0.418",
+          "ops": "0.773",
+          "r": "473",
+          "r_per_game": "5.26",
           "hr": 95
         },
         "pitching": {
@@ -147,7 +147,7 @@ window.kboData = {
           "hr": 86,
           "bb": 220,
           "so": 472,
-          "avg": "0.278"
+          "avg": "0.281"
         }
       }
     },
@@ -347,32 +347,32 @@ window.kboData = {
         "pitcher": {
           "name": "Na Gyun-an",
           "url": "https://mykbostats.com/players/1506-Na-Gyunan-Lotte-Giants",
-          "era": "4.14",
-          "whip": "1.43",
-          "hr": 17,
-          "bb": 32,
-          "so": 97,
-          "ip": "108 ⅔",
-          "hb": 2,
-          "fip": "4.99",
-          "yearUsed": "2026"
+          "era": 4.5,
+          "whip": 1.4,
+          "hr": 0,
+          "bb": 0,
+          "so": 0,
+          "ip": 0,
+          "hb": 0,
+          "fip": 4.5,
+          "yearUsed": "Error"
         },
         "batting": {
-          "avg": "0.279",
-          "obp": "0.343",
-          "slg": "0.409",
-          "ops": "0.751",
-          "r": "460",
-          "r_per_game": "5.11",
-          "hr": 70
+          "avg": "0.276",
+          "obp": "0.341",
+          "slg": "0.403",
+          "ops": "0.744",
+          "r": "455",
+          "r_per_game": "5.06",
+          "hr": 54
         },
         "pitching": {
-          "era": "4.32",
-          "whip": "1.41",
-          "hr": 63,
-          "bb": 317,
-          "so": 771,
-          "avg": "0.289"
+          "era": "4.33",
+          "whip": "1.42",
+          "hr": 49,
+          "bb": 294,
+          "so": 743,
+          "avg": "0.286"
         }
       }
     }
