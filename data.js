@@ -1,5 +1,5 @@
 window.kboData = {
-  "lastUpdated": "2026-08-20T03:35:06.937Z",
+  "lastUpdated": "2026-08-20T04:18:18.431Z",
   "games": [
     {
       "id": "13842-Kia-vs-Hanwha-20260820",
@@ -47,15 +47,15 @@ window.kboData = {
         "pitcher": {
           "name": "Ryu Hyun-jin",
           "url": "https://mykbostats.com/players/2626-Ryu-Hyunjin-Hanwha-Eagles",
-          "era": "3.91",
-          "whip": "1.23",
-          "hr": 7,
-          "bb": 15,
-          "so": 84,
-          "ip": "103 ⅔",
-          "hb": 5,
-          "fip": "3.64",
-          "yearUsed": "2026"
+          "era": 4.5,
+          "whip": 1.4,
+          "hr": 0,
+          "bb": 0,
+          "so": 0,
+          "ip": 0,
+          "hb": 0,
+          "fip": 4.5,
+          "yearUsed": "Error"
         },
         "batting": {
           "avg": "0.276",
@@ -272,15 +272,15 @@ window.kboData = {
         "pitcher": {
           "name": "Choi Won-tae",
           "url": "https://mykbostats.com/players/1096-Choi-Wontae-Samsung-Lions",
-          "era": "4.83",
-          "whip": "1.47",
-          "hr": 12,
-          "bb": 35,
-          "so": 80,
-          "ip": "91 ⅓",
-          "hb": 3,
-          "fip": "5.00",
-          "yearUsed": "2026"
+          "era": 4.5,
+          "whip": 1.4,
+          "hr": 0,
+          "bb": 0,
+          "so": 0,
+          "ip": 0,
+          "hb": 0,
+          "fip": 4.5,
+          "yearUsed": "Error"
         },
         "batting": {
           "avg": "0.292",
@@ -324,21 +324,21 @@ window.kboData = {
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": "0.261",
-          "obp": "0.342",
-          "slg": "0.379",
-          "ops": "0.721",
-          "r": "441",
-          "r_per_game": "4.90",
-          "hr": 64
+          "avg": ".265",
+          "obp": ".335",
+          "slg": ".410",
+          "ops": ".745",
+          "r": "450",
+          "r_per_game": "5.00",
+          "hr": 90
         },
         "pitching": {
-          "era": "4.71",
-          "whip": "1.49",
-          "hr": 58,
-          "bb": 267,
-          "so": 483,
-          "avg": "0.271"
+          "era": "4.50",
+          "whip": "1.40",
+          "hr": 80,
+          "bb": 350,
+          "so": 700,
+          "avg": ".265"
         }
       },
       "teamHome": {
@@ -347,15 +347,15 @@ window.kboData = {
         "pitcher": {
           "name": "Na Gyun-an",
           "url": "https://mykbostats.com/players/1506-Na-Gyunan-Lotte-Giants",
-          "era": 4.5,
-          "whip": 1.4,
-          "hr": 0,
-          "bb": 0,
-          "so": 0,
-          "ip": 0,
-          "hb": 0,
-          "fip": 4.5,
-          "yearUsed": "Error"
+          "era": "4.14",
+          "whip": "1.43",
+          "hr": 17,
+          "bb": 32,
+          "so": 97,
+          "ip": "108 ⅔",
+          "hb": 2,
+          "fip": "4.99",
+          "yearUsed": "2026"
         },
         "batting": {
           "avg": "0.276",
