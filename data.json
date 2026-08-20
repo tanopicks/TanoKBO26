@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T04:56:53.149Z",
+  "lastUpdated": "2026-08-20T05:24:46.853Z",
   "games": [
     {
       "id": "13842-Kia-vs-Hanwha-20260820",
@@ -272,15 +272,15 @@
         "pitcher": {
           "name": "Choi Won-tae",
           "url": "https://mykbostats.com/players/1096-Choi-Wontae-Samsung-Lions",
-          "era": 4.5,
-          "whip": 1.4,
-          "hr": 0,
-          "bb": 0,
-          "so": 0,
-          "ip": 0,
-          "hb": 0,
-          "fip": 4.5,
-          "yearUsed": "Error"
+          "era": "4.83",
+          "whip": "1.47",
+          "hr": 12,
+          "bb": 35,
+          "so": 80,
+          "ip": "91 ⅓",
+          "hb": 3,
+          "fip": "5.00",
+          "yearUsed": "2026"
         },
         "batting": {
           "avg": "0.292",
