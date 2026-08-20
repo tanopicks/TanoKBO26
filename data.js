@@ -1,5 +1,5 @@
 window.kboData = {
-  "lastUpdated": "2026-08-20T07:55:35.030Z",
+  "lastUpdated": "2026-08-20T08:25:56.083Z",
   "games": [
     {
       "id": "13842-Kia-vs-Hanwha-20260820",
@@ -47,15 +47,15 @@ window.kboData = {
         "pitcher": {
           "name": "Ryu Hyun-jin",
           "url": "https://mykbostats.com/players/2626-Ryu-Hyunjin-Hanwha-Eagles",
-          "era": "3.91",
-          "whip": "1.23",
-          "hr": 7,
-          "bb": 15,
-          "so": 84,
-          "ip": "103 ⅔",
-          "hb": 5,
-          "fip": "3.64",
-          "yearUsed": "2026"
+          "era": 4.5,
+          "whip": 1.4,
+          "hr": 0,
+          "bb": 0,
+          "so": 0,
+          "ip": 0,
+          "hb": 0,
+          "fip": 4.5,
+          "yearUsed": "Error"
         },
         "batting": {
           "avg": "0.276",
