@@ -1,5 +1,5 @@
 window.kboData = {
-  "lastUpdated": "2026-08-20T23:03:04.778Z",
+  "lastUpdated": "2026-08-20T23:33:56.248Z",
   "games": [
     {
       "id": "13847-Kia-vs-Kiwoom-20260821",
@@ -24,21 +24,21 @@ window.kboData = {
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": "0.281",
-          "obp": "0.354",
-          "slg": "0.458",
-          "ops": "0.812",
-          "r": "497",
-          "r_per_game": "5.52",
-          "hr": 117
+          "avg": ".265",
+          "obp": ".335",
+          "slg": ".410",
+          "ops": ".745",
+          "r": "450",
+          "r_per_game": "5.00",
+          "hr": 90
         },
         "pitching": {
-          "era": "4.39",
+          "era": "4.50",
           "whip": "1.40",
-          "hr": 105,
-          "bb": 361,
-          "so": 699,
-          "avg": "0.291"
+          "hr": 80,
+          "bb": 350,
+          "so": 700,
+          "avg": ".265"
         }
       },
       "teamHome": {
@@ -272,15 +272,15 @@ window.kboData = {
         "pitcher": {
           "name": "Choi Seung-yong",
           "url": "https://mykbostats.com/players/2113-Choi-Seungyong-Doosan-Bears",
-          "era": "5.71",
-          "whip": "1.58",
-          "hr": 10,
-          "bb": 34,
-          "so": 60,
-          "ip": "86 ⅔",
-          "hb": 4,
-          "fip": "5.23",
-          "yearUsed": "2026"
+          "era": 4.5,
+          "whip": 1.4,
+          "hr": 0,
+          "bb": 0,
+          "so": 0,
+          "ip": 0,
+          "hb": 0,
+          "fip": 4.5,
+          "yearUsed": "Error"
         },
         "batting": {
           "avg": "0.275",
