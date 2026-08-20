@@ -1,5 +1,5 @@
 window.kboData = {
-  "lastUpdated": "2026-08-20T21:22:28.958Z",
+  "lastUpdated": "2026-08-20T21:49:24.409Z",
   "games": [
     {
       "id": "13847-Kia-vs-Kiwoom-20260821",
@@ -24,21 +24,21 @@ window.kboData = {
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": "0.281",
-          "obp": "0.354",
-          "slg": "0.458",
-          "ops": "0.812",
-          "r": "497",
-          "r_per_game": "5.52",
-          "hr": 117
+          "avg": ".265",
+          "obp": ".335",
+          "slg": ".410",
+          "ops": ".745",
+          "r": "450",
+          "r_per_game": "5.00",
+          "hr": 90
         },
         "pitching": {
-          "era": "4.39",
+          "era": "4.50",
           "whip": "1.40",
-          "hr": 105,
-          "bb": 361,
-          "so": 699,
-          "avg": "0.291"
+          "hr": 80,
+          "bb": 350,
+          "so": 700,
+          "avg": ".265"
         }
       },
       "teamHome": {
