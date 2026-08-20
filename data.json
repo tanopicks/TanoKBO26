@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T07:11:47.684Z",
+  "lastUpdated": "2026-08-20T07:55:35.030Z",
   "games": [
     {
       "id": "13842-Kia-vs-Hanwha-20260820",
@@ -197,15 +197,15 @@
         "pitcher": {
           "name": "Koo Chang-mo",
           "url": "https://mykbostats.com/players/1099-Koo-Changmo-NC-Dinos",
-          "era": 4.5,
-          "whip": 1.4,
-          "hr": 0,
-          "bb": 0,
-          "so": 0,
-          "ip": 0,
-          "hb": 0,
-          "fip": 4.5,
-          "yearUsed": "Error"
+          "era": "3.94",
+          "whip": "1.26",
+          "hr": 14,
+          "bb": 33,
+          "so": 99,
+          "ip": "114 ⅓",
+          "hb": 4,
+          "fip": "4.63",
+          "yearUsed": "2026"
         },
         "batting": {
           "avg": "0.281",
@@ -249,21 +249,21 @@
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": "0.261",
-          "obp": "0.340",
-          "slg": "0.388",
-          "ops": "0.728",
-          "r": "445",
-          "r_per_game": "4.95",
-          "hr": 69
+          "avg": ".265",
+          "obp": ".335",
+          "slg": ".410",
+          "ops": ".745",
+          "r": "450",
+          "r_per_game": "5.00",
+          "hr": 90
         },
         "pitching": {
-          "era": "5.15",
-          "whip": "1.51",
-          "hr": 62,
-          "bb": 341,
-          "so": 607,
-          "avg": "0.271"
+          "era": "4.50",
+          "whip": "1.40",
+          "hr": 80,
+          "bb": 350,
+          "so": 700,
+          "avg": ".265"
         }
       },
       "teamHome": {
