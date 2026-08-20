@@ -1,10 +1,10 @@
 window.kboData = {
-  "lastUpdated": "2026-08-20T09:44:12.826Z",
+  "lastUpdated": "2026-08-20T10:06:30.723Z",
   "games": [
     {
       "id": "13842-Kia-vs-Hanwha-20260820",
       "url": "https://mykbostats.com/games/13842-Kia-vs-Hanwha-20260820",
-      "status": "7:00pm",
+      "status": "Top 1st",
       "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
@@ -79,23 +79,23 @@ window.kboData = {
     {
       "id": "13843-KT-vs-LG-20260820",
       "url": "https://mykbostats.com/games/13843-KT-vs-LG-20260820",
-      "status": "7:00pm",
+      "status": "Top 1st",
       "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "KT Wiz",
         "url": "https://mykbostats.com/teams/22-KT-Wiz",
         "pitcher": {
-          "name": "Ko Young-pyo",
-          "url": "https://mykbostats.com/players/1142-Ko-Youngpyo-KT-Wiz",
-          "era": "3.70",
-          "whip": "1.15",
-          "hr": 11,
-          "bb": 15,
-          "so": 127,
-          "ip": "116 ⅔",
-          "hb": 7,
-          "fip": "3.41",
+          "name": "Ahn Hyun-min",
+          "url": "https://mykbostats.com/players/2303-Ahn-Hyunmin-KT-Wiz",
+          "era": "0.00",
+          "whip": "0.00",
+          "hr": 8,
+          "bb": 41,
+          "so": 47,
+          "ip": "0",
+          "hb": 0,
+          "fip": "4.50",
           "yearUsed": "2026"
         },
         "batting": {
@@ -154,7 +154,7 @@ window.kboData = {
     {
       "id": "13844-Doosan-vs-NC-20260820",
       "url": "https://mykbostats.com/games/13844-Doosan-vs-NC-20260820",
-      "status": "7:00pm",
+      "status": "Bot 1st",
       "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
@@ -195,16 +195,16 @@ window.kboData = {
         "name": "NC Dinos",
         "url": "https://mykbostats.com/teams/9-NC-Dinos",
         "pitcher": {
-          "name": "Koo Chang-mo",
-          "url": "https://mykbostats.com/players/1099-Koo-Changmo-NC-Dinos",
-          "era": "3.94",
-          "whip": "1.26",
-          "hr": 14,
-          "bb": 33,
-          "so": 99,
-          "ip": "114 ⅓",
-          "hb": 4,
-          "fip": "4.63",
+          "name": "Kim Ju-won",
+          "url": "https://mykbostats.com/players/2154-Kim-Juwon-NC-Dinos",
+          "era": "0.00",
+          "whip": "0.00",
+          "hr": 15,
+          "bb": 40,
+          "so": 62,
+          "ip": "0",
+          "hb": 0,
+          "fip": "4.50",
           "yearUsed": "2026"
         },
         "batting": {
@@ -229,23 +229,23 @@ window.kboData = {
     {
       "id": "13845-SSG-vs-Samsung-20260820",
       "url": "https://mykbostats.com/games/13845-SSG-vs-Samsung-20260820",
-      "status": "7:00pm",
+      "status": "Top 1st",
       "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "SSG Landers",
         "url": "https://mykbostats.com/teams/24-SSG-Landers",
         "pitcher": {
-          "name": "Choi Min-jun",
-          "url": "https://mykbostats.com/players/1676-Choi-Minjun-SSG-Landers",
-          "era": "5.09",
-          "whip": "1.42",
-          "hr": 11,
-          "bb": 33,
-          "so": 63,
-          "ip": "76",
-          "hb": 5,
-          "fip": "5.52",
+          "name": "Choi Ji-hoon",
+          "url": "https://mykbostats.com/players/1977-Choi-Jihoon-SSG-Landers",
+          "era": "0.00",
+          "whip": "0.00",
+          "hr": 12,
+          "bb": 32,
+          "so": 64,
+          "ip": "0",
+          "hb": 0,
+          "fip": "4.50",
           "yearUsed": "2026"
         },
         "batting": {
@@ -304,7 +304,7 @@ window.kboData = {
     {
       "id": "13846-Kiwoom-vs-Lotte-20260820",
       "url": "https://mykbostats.com/games/13846-Kiwoom-vs-Lotte-20260820",
-      "status": "7:00pm",
+      "status": "Top 1st",
       "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
