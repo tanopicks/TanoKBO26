@@ -1,5 +1,5 @@
 window.kboData = {
-  "lastUpdated": "2026-08-21T03:13:14.577Z",
+  "lastUpdated": "2026-08-21T03:59:58.036Z",
   "games": [
     {
       "id": "13847-Kia-vs-Kiwoom-20260821",
@@ -174,12 +174,12 @@ window.kboData = {
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": "0.268",
-          "obp": "0.357",
-          "slg": "0.405",
-          "ops": "0.762",
-          "r": "466",
-          "r_per_game": "5.18",
+          "avg": "0.271",
+          "obp": "0.355",
+          "slg": "0.419",
+          "ops": "0.774",
+          "r": "473",
+          "r_per_game": "5.26",
           "hr": 97
         },
         "pitching": {
@@ -188,7 +188,7 @@ window.kboData = {
           "hr": 87,
           "bb": 232,
           "so": 480,
-          "avg": "0.278"
+          "avg": "0.281"
         }
       },
       "teamHome": {
@@ -324,21 +324,21 @@ window.kboData = {
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": "0.292",
-          "obp": "0.384",
-          "slg": "0.443",
-          "ops": "0.828",
-          "r": "506",
-          "r_per_game": "5.63",
-          "hr": 100
+          "avg": ".265",
+          "obp": ".335",
+          "slg": ".410",
+          "ops": ".745",
+          "r": "450",
+          "r_per_game": "5.00",
+          "hr": 90
         },
         "pitching": {
-          "era": "4.29",
-          "whip": "1.39",
-          "hr": 90,
-          "bb": 252,
-          "so": 577,
-          "avg": "0.302"
+          "era": "4.50",
+          "whip": "1.40",
+          "hr": 80,
+          "bb": 350,
+          "so": 700,
+          "avg": ".265"
         }
       },
       "teamHome": {
