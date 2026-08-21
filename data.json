@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T08:30:46.893Z",
+  "lastUpdated": "2026-08-21T09:09:30.511Z",
   "games": [
     {
       "id": "13847-Kia-vs-Kiwoom-20260821",
@@ -24,21 +24,21 @@
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": ".265",
-          "obp": ".335",
-          "slg": ".410",
-          "ops": ".745",
-          "r": "450",
-          "r_per_game": "5.00",
-          "hr": 90
+          "avg": "0.281",
+          "obp": "0.354",
+          "slg": "0.458",
+          "ops": "0.812",
+          "r": "497",
+          "r_per_game": "5.52",
+          "hr": 117
         },
         "pitching": {
-          "era": "4.50",
+          "era": "4.39",
           "whip": "1.40",
-          "hr": 80,
-          "bb": 350,
-          "so": 700,
-          "avg": ".265"
+          "hr": 105,
+          "bb": 361,
+          "so": 699,
+          "avg": "0.291"
         }
       },
       "teamHome": {
@@ -197,14 +197,14 @@
         "pitcher": {
           "name": "Bruce Zimmerman",
           "url": "https://mykbostats.com/players/3100-Bruce-Zimmerman-Hanwha-Eagles",
-          "era": "5.21",
-          "whip": "1.54",
-          "hr": 11,
-          "bb": 20,
-          "so": 52,
-          "ip": "65 ⅔",
+          "era": "9.00",
+          "whip": "2.00",
+          "hr": 3,
+          "bb": 5,
+          "so": 9,
+          "ip": "13",
           "hb": 0,
-          "fip": "5.31",
+          "fip": "6.57",
           "yearUsed": "2026"
         },
         "batting": {
