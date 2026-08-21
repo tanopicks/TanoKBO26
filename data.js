@@ -1,5 +1,5 @@
 window.kboData = {
-  "lastUpdated": "2026-08-21T17:47:50.822Z",
+  "lastUpdated": "2026-08-21T18:14:48.736Z",
   "games": [
     {
       "id": "13852-Kia-vs-Kiwoom-20260822",
@@ -99,21 +99,21 @@ window.kboData = {
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": "0.290",
+          "avg": "0.289",
           "obp": "0.370",
-          "slg": "0.410",
-          "ops": "0.781",
-          "r": "478",
-          "r_per_game": "5.31",
+          "slg": "0.409",
+          "ops": "0.779",
+          "r": "477",
+          "r_per_game": "5.30",
           "hr": 70
         },
         "pitching": {
           "era": "3.73",
           "whip": "1.33",
           "hr": 63,
-          "bb": 190,
-          "so": 511,
-          "avg": "0.300"
+          "bb": 191,
+          "so": 513,
+          "avg": "0.299"
         }
       },
       "teamHome": {
@@ -251,7 +251,7 @@ window.kboData = {
         "batting": {
           "avg": "0.279",
           "obp": "0.343",
-          "slg": "0.409",
+          "slg": "0.408",
           "ops": "0.751",
           "r": "460",
           "r_per_game": "5.11",
@@ -284,11 +284,11 @@ window.kboData = {
         },
         "batting": {
           "avg": "0.275",
-          "obp": "0.347",
+          "obp": "0.348",
           "slg": "0.401",
-          "ops": "0.748",
+          "ops": "0.749",
           "r": "458",
-          "r_per_game": "5.08",
+          "r_per_game": "5.09",
           "hr": 72
         },
         "pitching": {
@@ -327,17 +327,17 @@ window.kboData = {
           "avg": "0.292",
           "obp": "0.384",
           "slg": "0.443",
-          "ops": "0.828",
+          "ops": "0.827",
           "r": "506",
-          "r_per_game": "5.63",
+          "r_per_game": "5.62",
           "hr": 100
         },
         "pitching": {
-          "era": "4.29",
+          "era": "4.28",
           "whip": "1.39",
           "hr": 90,
           "bb": 253,
-          "so": 579,
+          "so": 580,
           "avg": "0.302"
         }
       },
@@ -363,7 +363,7 @@ window.kboData = {
           "slg": "0.420",
           "ops": "0.783",
           "r": "479",
-          "r_per_game": "5.33",
+          "r_per_game": "5.32",
           "hr": 81
         },
         "pitching": {
