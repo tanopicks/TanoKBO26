@@ -1,5 +1,5 @@
 window.kboData = {
-  "lastUpdated": "2026-08-21T06:20:08.853Z",
+  "lastUpdated": "2026-08-21T07:12:46.418Z",
   "games": [
     {
       "id": "13847-Kia-vs-Kiwoom-20260821",
@@ -347,15 +347,15 @@ window.kboData = {
         "pitcher": {
           "name": "Toda Natsuki",
           "url": "https://mykbostats.com/players/2961-Toda-Natsuki-NC-Dinos",
-          "era": "5.16",
-          "whip": "1.54",
-          "hr": 16,
-          "bb": 34,
-          "so": 84,
-          "ip": "103",
-          "hb": 2,
-          "fip": "5.24",
-          "yearUsed": "2026"
+          "era": 4.5,
+          "whip": 1.4,
+          "hr": 0,
+          "bb": 0,
+          "so": 0,
+          "ip": 0,
+          "hb": 0,
+          "fip": 4.5,
+          "yearUsed": "Error"
         },
         "batting": {
           "avg": "0.281",
