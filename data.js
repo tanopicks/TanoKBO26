@@ -1,5 +1,5 @@
 window.kboData = {
-  "lastUpdated": "2026-08-21T14:50:51.732Z",
+  "lastUpdated": "2026-08-21T15:18:35.826Z",
   "games": [
     {
       "id": "13852-Kia-vs-Kiwoom-20260822",
@@ -70,8 +70,8 @@ window.kboData = {
           "era": "4.73",
           "whip": "1.47",
           "hr": 58,
-          "bb": 239,
-          "so": 450,
+          "bb": 241,
+          "so": 456,
           "avg": "0.271"
         }
       }
@@ -336,8 +336,8 @@ window.kboData = {
           "era": "4.29",
           "whip": "1.39",
           "hr": 90,
-          "bb": 252,
-          "so": 577,
+          "bb": 253,
+          "so": 579,
           "avg": "0.302"
         }
       },
