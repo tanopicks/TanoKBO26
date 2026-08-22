@@ -1,5 +1,5 @@
 window.kboData = {
-  "lastUpdated": "2026-08-22T11:37:21.485Z",
+  "lastUpdated": "2026-08-22T11:53:51.775Z",
   "games": [
     {
       "id": "13852-Kia-vs-Kiwoom-20260822",
@@ -11,13 +11,13 @@ window.kboData = {
         "name": "Kia Tigers",
         "url": "https://mykbostats.com/teams/5-Kia-Tigers",
         "pitcher": {
-          "name": "Kim Do-yeong",
-          "url": "https://mykbostats.com/players/2281-Kim-Doyeong-Kia-Tigers",
+          "name": "Oh Sun-woo",
+          "url": "https://mykbostats.com/players/1896-Oh-Sunwoo-Kia-Tigers",
           "era": "0.00",
           "whip": "0.00",
-          "hr": 37,
-          "bb": 64,
-          "so": 82,
+          "hr": 3,
+          "bb": 8,
+          "so": 19,
           "ip": "0",
           "hb": 0,
           "fip": "4.50",
@@ -286,7 +286,7 @@ window.kboData = {
     {
       "id": "13856-Samsung-vs-NC-20260822",
       "url": "https://mykbostats.com/games/13856-Samsung-vs-NC-20260822",
-      "status": "Bot 4th",
+      "status": "Bot 5th",
       "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
@@ -327,13 +327,13 @@ window.kboData = {
         "name": "NC Dinos",
         "url": "https://mykbostats.com/teams/9-NC-Dinos",
         "pitcher": {
-          "name": "Kim Ju-won",
-          "url": "https://mykbostats.com/players/2154-Kim-Juwon-NC-Dinos",
+          "name": "Kim Whee-jip",
+          "url": "https://mykbostats.com/players/2167-Kim-Wheejip-NC-Dinos",
           "era": "0.00",
           "whip": "0.00",
-          "hr": 15,
-          "bb": 41,
-          "so": 62,
+          "hr": 8,
+          "bb": 22,
+          "so": 33,
           "ip": "0",
           "hb": 0,
           "fip": "4.50",
