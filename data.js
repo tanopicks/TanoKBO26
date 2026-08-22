@@ -1,5 +1,5 @@
 window.kboData = {
-  "lastUpdated": "2026-08-22T07:49:42.575Z",
+  "lastUpdated": "2026-08-22T08:11:33.244Z",
   "games": [
     {
       "id": "13852-Kia-vs-Kiwoom-20260822",
@@ -148,24 +148,21 @@ window.kboData = {
     {
       "id": "13854-LG-vs-Hanwha-20260822",
       "url": "https://mykbostats.com/games/13854-LG-vs-Hanwha-20260822",
-      "status": "7:00pm",
+      "status": "Canceled",
       "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "LG Twins",
         "url": "https://mykbostats.com/teams/6-LG-Twins",
         "pitcher": {
-          "name": "Carlos Carrasco",
-          "url": "https://mykbostats.com/players/3101-Carlos-Carrasco-LG-Twins",
-          "era": "3.44",
-          "whip": "0.76",
-          "hr": 2,
-          "bb": 1,
-          "so": 15,
-          "ip": "18 ⅓",
-          "hb": 1,
-          "fip": "3.91",
-          "yearUsed": "2026"
+          "name": "TBD",
+          "era": "0.00",
+          "whip": "0.00",
+          "hr": 0,
+          "bb": 0,
+          "so": 0,
+          "ip": "0",
+          "fip": "0.00"
         },
         "batting": {
           "avg": "0.271",
@@ -189,17 +186,14 @@ window.kboData = {
         "name": "Hanwha Eagles",
         "url": "https://mykbostats.com/teams/4-Hanwha-Eagles",
         "pitcher": {
-          "name": "Park Jun-yeong",
-          "url": "https://mykbostats.com/players/2276-Park-Junyeong-Hanwha-Eagles",
-          "era": "4.50",
-          "whip": "1.44",
-          "hr": 7,
-          "bb": 29,
-          "so": 49,
-          "ip": "54",
-          "hb": 4,
-          "fip": "5.50",
-          "yearUsed": "2026"
+          "name": "TBD",
+          "era": "0.00",
+          "whip": "0.00",
+          "hr": 0,
+          "bb": 0,
+          "so": 0,
+          "ip": "0",
+          "fip": "0.00"
         },
         "batting": {
           "avg": "0.279",
