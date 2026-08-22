@@ -1,5 +1,5 @@
 window.kboData = {
-  "lastUpdated": "2026-08-22T04:18:20.761Z",
+  "lastUpdated": "2026-08-22T04:53:01.972Z",
   "games": [
     {
       "id": "13852-Kia-vs-Kiwoom-20260822",
@@ -24,21 +24,21 @@ window.kboData = {
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": "0.282",
-          "obp": "0.355",
-          "slg": "0.459",
-          "ops": "0.814",
-          "r": "498",
-          "r_per_game": "5.54",
-          "hr": 119
+          "avg": ".265",
+          "obp": ".335",
+          "slg": ".410",
+          "ops": ".745",
+          "r": "450",
+          "r_per_game": "5.00",
+          "hr": 90
         },
         "pitching": {
-          "era": "4.31",
-          "whip": "1.38",
-          "hr": 107,
-          "bb": 327,
-          "so": 649,
-          "avg": "0.292"
+          "era": "4.50",
+          "whip": "1.40",
+          "hr": 80,
+          "bb": 350,
+          "so": 700,
+          "avg": ".265"
         }
       },
       "teamHome": {
@@ -99,21 +99,21 @@ window.kboData = {
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": ".265",
-          "obp": ".335",
-          "slg": ".410",
-          "ops": ".745",
-          "r": "450",
-          "r_per_game": "5.00",
-          "hr": 90
+          "avg": "0.289",
+          "obp": "0.370",
+          "slg": "0.410",
+          "ops": "0.780",
+          "r": "478",
+          "r_per_game": "5.31",
+          "hr": 72
         },
         "pitching": {
-          "era": "4.50",
-          "whip": "1.40",
-          "hr": 80,
-          "bb": 350,
-          "so": 700,
-          "avg": ".265"
+          "era": "3.72",
+          "whip": "1.34",
+          "hr": 65,
+          "bb": 197,
+          "so": 519,
+          "avg": "0.299"
         }
       },
       "teamHome": {
@@ -272,15 +272,15 @@ window.kboData = {
         "pitcher": {
           "name": "Gwak Been",
           "url": "https://mykbostats.com/players/1628-Gwak-Been-Doosan-Bears",
-          "era": 4.5,
-          "whip": 1.4,
-          "hr": 0,
-          "bb": 0,
-          "so": 0,
-          "ip": 0,
-          "hb": 0,
-          "fip": 4.5,
-          "yearUsed": "Error"
+          "era": "2.46",
+          "whip": "1.11",
+          "hr": 9,
+          "bb": 31,
+          "so": 153,
+          "ip": "128",
+          "hb": 5,
+          "fip": "3.17",
+          "yearUsed": "2026"
         },
         "batting": {
           "avg": "0.273",
