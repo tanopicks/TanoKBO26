@@ -1,5 +1,5 @@
 window.kboData = {
-  "lastUpdated": "2026-08-22T05:43:28.264Z",
+  "lastUpdated": "2026-08-22T06:01:41.113Z",
   "games": [
     {
       "id": "13852-Kia-vs-Kiwoom-20260822",
@@ -47,15 +47,15 @@ window.kboData = {
         "pitcher": {
           "name": "An Woo-jin",
           "url": "https://mykbostats.com/players/1681-An-Woojin-Kiwoom-Heroes",
-          "era": "3.69",
-          "whip": "1.27",
-          "hr": 6,
-          "bb": 27,
-          "so": 95,
-          "ip": "78",
-          "hb": 2,
-          "fip": "3.48",
-          "yearUsed": "2026"
+          "era": 4.5,
+          "whip": 1.4,
+          "hr": 0,
+          "bb": 0,
+          "so": 0,
+          "ip": 0,
+          "hb": 0,
+          "fip": 4.5,
+          "yearUsed": "Error"
         },
         "batting": {
           "avg": "0.259",
