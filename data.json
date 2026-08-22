@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T07:20:35.307Z",
+  "lastUpdated": "2026-08-22T07:49:42.575Z",
   "games": [
     {
       "id": "13852-Kia-vs-Kiwoom-20260822",
@@ -24,21 +24,21 @@
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": ".265",
-          "obp": ".335",
-          "slg": ".410",
-          "ops": ".745",
-          "r": "450",
-          "r_per_game": "5.00",
-          "hr": 90
+          "avg": "0.282",
+          "obp": "0.355",
+          "slg": "0.459",
+          "ops": "0.814",
+          "r": "498",
+          "r_per_game": "5.54",
+          "hr": 119
         },
         "pitching": {
-          "era": "4.50",
-          "whip": "1.40",
-          "hr": 80,
-          "bb": 350,
-          "so": 700,
-          "avg": ".265"
+          "era": "4.36",
+          "whip": "1.39",
+          "hr": 107,
+          "bb": 364,
+          "so": 711,
+          "avg": "0.292"
         }
       },
       "teamHome": {
@@ -191,15 +191,15 @@
         "pitcher": {
           "name": "Park Jun-yeong",
           "url": "https://mykbostats.com/players/2276-Park-Junyeong-Hanwha-Eagles",
-          "era": 4.5,
-          "whip": 1.4,
-          "hr": 0,
-          "bb": 0,
-          "so": 0,
-          "ip": 0,
-          "hb": 0,
-          "fip": 4.5,
-          "yearUsed": "Error"
+          "era": "4.50",
+          "whip": "1.44",
+          "hr": 7,
+          "bb": 29,
+          "so": 49,
+          "ip": "54",
+          "hb": 4,
+          "fip": "5.50",
+          "yearUsed": "2026"
         },
         "batting": {
           "avg": "0.279",
@@ -223,24 +223,21 @@
     {
       "id": "13855-Lotte-vs-Doosan-20260822",
       "url": "https://mykbostats.com/games/13855-Lotte-vs-Doosan-20260822",
-      "status": "7:00pm",
+      "status": "Canceled",
       "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "Lotte Giants",
         "url": "https://mykbostats.com/teams/2-Lotte-Giants",
         "pitcher": {
-          "name": "Park Se-woong",
-          "url": "https://mykbostats.com/players/1166-Park-Sewoong-Lotte-Giants",
-          "era": "4.77",
-          "whip": "1.50",
-          "hr": 9,
-          "bb": 38,
-          "so": 94,
-          "ip": "103 ⅔",
-          "hb": 7,
-          "fip": "4.42",
-          "yearUsed": "2026"
+          "name": "TBD",
+          "era": "0.00",
+          "whip": "0.00",
+          "hr": 0,
+          "bb": 0,
+          "so": 0,
+          "ip": "0",
+          "fip": "0.00"
         },
         "batting": {
           "avg": "0.278",
@@ -264,17 +261,14 @@
         "name": "Doosan Bears",
         "url": "https://mykbostats.com/teams/1-Doosan-Bears",
         "pitcher": {
-          "name": "Gwak Been",
-          "url": "https://mykbostats.com/players/1628-Gwak-Been-Doosan-Bears",
-          "era": "2.46",
-          "whip": "1.11",
-          "hr": 9,
-          "bb": 31,
-          "so": 153,
-          "ip": "128",
-          "hb": 5,
-          "fip": "3.17",
-          "yearUsed": "2026"
+          "name": "TBD",
+          "era": "0.00",
+          "whip": "0.00",
+          "hr": 0,
+          "bb": 0,
+          "so": 0,
+          "ip": "0",
+          "fip": "0.00"
         },
         "batting": {
           "avg": "0.273",
