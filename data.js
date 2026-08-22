@@ -1,5 +1,5 @@
 window.kboData = {
-  "lastUpdated": "2026-08-22T15:07:56.628Z",
+  "lastUpdated": "2026-08-22T15:32:34.793Z",
   "games": [
     {
       "id": "13853-KT-vs-SSG-20260822",
@@ -267,7 +267,7 @@ window.kboData = {
         "batting": {
           "avg": "0.259",
           "obp": "0.341",
-          "slg": "0.375",
+          "slg": "0.374",
           "ops": "0.715",
           "r": "438",
           "r_per_game": "4.86",
