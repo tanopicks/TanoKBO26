@@ -1,5 +1,5 @@
 window.kboData = {
-  "lastUpdated": "2026-08-22T12:11:35.351Z",
+  "lastUpdated": "2026-08-22T12:59:09.059Z",
   "games": [
     {
       "id": "13853-KT-vs-SSG-20260822",
@@ -211,23 +211,23 @@ window.kboData = {
     {
       "id": "13856-Samsung-vs-NC-20260822",
       "url": "https://mykbostats.com/games/13856-Samsung-vs-NC-20260822",
-      "status": "Bot 6th",
+      "status": "Top 8th",
       "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "Samsung Lions",
         "url": "https://mykbostats.com/teams/3-Samsung-Lions",
         "pitcher": {
-          "name": "Im Gi-yeong",
-          "url": "https://mykbostats.com/players/242-Im-Giyeong-Samsung-Lions",
-          "era": "4.50",
-          "whip": "1.36",
-          "hr": 6,
-          "bb": 10,
-          "so": 29,
-          "ip": "42",
-          "hb": 3,
-          "fip": "5.20",
+          "name": "Choi Hyoung-woo",
+          "url": "https://mykbostats.com/players/192-Choi-Hyoungwoo-Samsung-Lions",
+          "era": "0.00",
+          "whip": "0.00",
+          "hr": 15,
+          "bb": 62,
+          "so": 68,
+          "ip": "0",
+          "hb": 0,
+          "fip": "4.50",
           "yearUsed": "2026"
         },
         "batting": {
@@ -252,16 +252,16 @@ window.kboData = {
         "name": "NC Dinos",
         "url": "https://mykbostats.com/teams/9-NC-Dinos",
         "pitcher": {
-          "name": "Kim Hyung-jun",
-          "url": "https://mykbostats.com/players/1689-Kim-Hyungjun-NC-Dinos",
-          "era": "0.00",
-          "whip": "0.00",
-          "hr": 11,
-          "bb": 26,
-          "so": 91,
-          "ip": "0",
-          "hb": 0,
-          "fip": "4.50",
+          "name": "Bae Jae-whan",
+          "url": "https://mykbostats.com/players/633-Bae-Jaewhan-NC-Dinos",
+          "era": "4.91",
+          "whip": "1.50",
+          "hr": 5,
+          "bb": 10,
+          "so": 29,
+          "ip": "29 ⅓",
+          "hb": 1,
+          "fip": "5.16",
           "yearUsed": "2026"
         },
         "batting": {
