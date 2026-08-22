@@ -1,5 +1,5 @@
 window.kboData = {
-  "lastUpdated": "2026-08-22T06:50:18.072Z",
+  "lastUpdated": "2026-08-22T07:20:35.307Z",
   "games": [
     {
       "id": "13852-Kia-vs-Kiwoom-20260822",
@@ -24,21 +24,21 @@ window.kboData = {
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": "0.282",
-          "obp": "0.355",
-          "slg": "0.459",
-          "ops": "0.814",
-          "r": "498",
-          "r_per_game": "5.54",
-          "hr": 119
+          "avg": ".265",
+          "obp": ".335",
+          "slg": ".410",
+          "ops": ".745",
+          "r": "450",
+          "r_per_game": "5.00",
+          "hr": 90
         },
         "pitching": {
-          "era": "4.31",
-          "whip": "1.38",
-          "hr": 107,
-          "bb": 327,
-          "so": 649,
-          "avg": "0.292"
+          "era": "4.50",
+          "whip": "1.40",
+          "hr": 80,
+          "bb": 350,
+          "so": 700,
+          "avg": ".265"
         }
       },
       "teamHome": {
@@ -67,11 +67,11 @@ window.kboData = {
           "hr": 64
         },
         "pitching": {
-          "era": "4.83",
-          "whip": "1.48",
+          "era": "4.56",
+          "whip": "1.43",
           "hr": 58,
-          "bb": 245,
-          "so": 457,
+          "bb": 247,
+          "so": 522,
           "avg": "0.269"
         }
       }
@@ -79,24 +79,21 @@ window.kboData = {
     {
       "id": "13853-KT-vs-SSG-20260822",
       "url": "https://mykbostats.com/games/13853-KT-vs-SSG-20260822",
-      "status": "7:00pm",
+      "status": "Canceled",
       "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "KT Wiz",
         "url": "https://mykbostats.com/teams/22-KT-Wiz",
         "pitcher": {
-          "name": "Logan Allen",
-          "url": "https://mykbostats.com/players/2782-Logan-Allen-KT-Wiz",
-          "era": "3.26",
-          "whip": "1.37",
-          "hr": 5,
-          "bb": 15,
-          "so": 36,
-          "ip": "49 ⅔",
-          "hb": 2,
-          "fip": "4.69",
-          "yearUsed": "2026"
+          "name": "TBD",
+          "era": "0.00",
+          "whip": "0.00",
+          "hr": 0,
+          "bb": 0,
+          "so": 0,
+          "ip": "0",
+          "fip": "0.00"
         },
         "batting": {
           "avg": "0.289",
@@ -120,17 +117,14 @@ window.kboData = {
         "name": "SSG Landers",
         "url": "https://mykbostats.com/teams/24-SSG-Landers",
         "pitcher": {
-          "name": "Pedro Ávila",
-          "url": "https://mykbostats.com/players/3095-Pedro-A%CC%81vila-SSG-Landers",
-          "era": "1.54",
-          "whip": "1.20",
+          "name": "TBD",
+          "era": "0.00",
+          "whip": "0.00",
           "hr": 0,
-          "bb": 15,
-          "so": 40,
-          "ip": "35",
-          "hb": 0,
-          "fip": "2.80",
-          "yearUsed": "2026"
+          "bb": 0,
+          "so": 0,
+          "ip": "0",
+          "fip": "0.00"
         },
         "batting": {
           "avg": "0.264",
@@ -197,15 +191,15 @@ window.kboData = {
         "pitcher": {
           "name": "Park Jun-yeong",
           "url": "https://mykbostats.com/players/2276-Park-Junyeong-Hanwha-Eagles",
-          "era": "4.50",
-          "whip": "1.44",
-          "hr": 7,
-          "bb": 29,
-          "so": 49,
-          "ip": "54",
-          "hb": 4,
-          "fip": "5.50",
-          "yearUsed": "2026"
+          "era": 4.5,
+          "whip": 1.4,
+          "hr": 0,
+          "bb": 0,
+          "so": 0,
+          "ip": 0,
+          "hb": 0,
+          "fip": 4.5,
+          "yearUsed": "Error"
         },
         "batting": {
           "avg": "0.279",
