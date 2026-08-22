@@ -1,81 +1,6 @@
 window.kboData = {
-  "lastUpdated": "2026-08-22T11:53:51.775Z",
+  "lastUpdated": "2026-08-22T12:11:35.351Z",
   "games": [
-    {
-      "id": "13852-Kia-vs-Kiwoom-20260822",
-      "url": "https://mykbostats.com/games/13852-Kia-vs-Kiwoom-20260822",
-      "status": "Top 9th",
-      "isTomorrow": false,
-      "time": "6:30pm",
-      "teamAway": {
-        "name": "Kia Tigers",
-        "url": "https://mykbostats.com/teams/5-Kia-Tigers",
-        "pitcher": {
-          "name": "Oh Sun-woo",
-          "url": "https://mykbostats.com/players/1896-Oh-Sunwoo-Kia-Tigers",
-          "era": "0.00",
-          "whip": "0.00",
-          "hr": 3,
-          "bb": 8,
-          "so": 19,
-          "ip": "0",
-          "hb": 0,
-          "fip": "4.50",
-          "yearUsed": "2026"
-        },
-        "batting": {
-          "avg": "0.282",
-          "obp": "0.355",
-          "slg": "0.459",
-          "ops": "0.814",
-          "r": "498",
-          "r_per_game": "5.54",
-          "hr": 119
-        },
-        "pitching": {
-          "era": "4.36",
-          "whip": "1.39",
-          "hr": 107,
-          "bb": 364,
-          "so": 711,
-          "avg": "0.292"
-        }
-      },
-      "teamHome": {
-        "name": "Kiwoom Heroes",
-        "url": "https://mykbostats.com/teams/23-Kiwoom-Heroes",
-        "pitcher": {
-          "name": "Kanakubo Yuto",
-          "url": "https://mykbostats.com/players/2979-Kanakubo-Yuto-Kiwoom-Heroes",
-          "era": "3.24",
-          "whip": "1.27",
-          "hr": 3,
-          "bb": 13,
-          "so": 43,
-          "ip": "41 ⅔",
-          "hb": 0,
-          "fip": "3.61",
-          "yearUsed": "2026"
-        },
-        "batting": {
-          "avg": "0.259",
-          "obp": "0.341",
-          "slg": "0.375",
-          "ops": "0.715",
-          "r": "438",
-          "r_per_game": "4.86",
-          "hr": 64
-        },
-        "pitching": {
-          "era": "4.56",
-          "whip": "1.43",
-          "hr": 58,
-          "bb": 247,
-          "so": 522,
-          "avg": "0.269"
-        }
-      }
-    },
     {
       "id": "13853-KT-vs-SSG-20260822",
       "url": "https://mykbostats.com/games/13853-KT-vs-SSG-20260822",
@@ -286,7 +211,7 @@ window.kboData = {
     {
       "id": "13856-Samsung-vs-NC-20260822",
       "url": "https://mykbostats.com/games/13856-Samsung-vs-NC-20260822",
-      "status": "Bot 5th",
+      "status": "Bot 6th",
       "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
@@ -327,13 +252,13 @@ window.kboData = {
         "name": "NC Dinos",
         "url": "https://mykbostats.com/teams/9-NC-Dinos",
         "pitcher": {
-          "name": "Kim Whee-jip",
-          "url": "https://mykbostats.com/players/2167-Kim-Wheejip-NC-Dinos",
+          "name": "Kim Hyung-jun",
+          "url": "https://mykbostats.com/players/1689-Kim-Hyungjun-NC-Dinos",
           "era": "0.00",
           "whip": "0.00",
-          "hr": 8,
-          "bb": 22,
-          "so": 33,
+          "hr": 11,
+          "bb": 26,
+          "so": 91,
           "ip": "0",
           "hb": 0,
           "fip": "4.50",
@@ -355,6 +280,81 @@ window.kboData = {
           "bb": 304,
           "so": 616,
           "avg": "0.291"
+        }
+      }
+    },
+    {
+      "id": "13857-Kia-vs-Kiwoom-20260823",
+      "url": "https://mykbostats.com/games/13857-Kia-vs-Kiwoom-20260823",
+      "status": "2:00pm",
+      "isTomorrow": true,
+      "time": "6:30pm",
+      "teamAway": {
+        "name": "Kia Tigers",
+        "url": "https://mykbostats.com/teams/5-Kia-Tigers",
+        "pitcher": {
+          "name": "James Naile",
+          "url": "https://mykbostats.com/players/2590-James-Naile-Kia-Tigers",
+          "era": "3.74",
+          "whip": "1.17",
+          "hr": 10,
+          "bb": 27,
+          "so": 109,
+          "ip": "134 ⅔",
+          "hb": 14,
+          "fip": "4.06",
+          "yearUsed": "2026"
+        },
+        "batting": {
+          "avg": "0.282",
+          "obp": "0.355",
+          "slg": "0.459",
+          "ops": "0.814",
+          "r": "498",
+          "r_per_game": "5.54",
+          "hr": 119
+        },
+        "pitching": {
+          "era": "4.36",
+          "whip": "1.39",
+          "hr": 107,
+          "bb": 364,
+          "so": 711,
+          "avg": "0.292"
+        }
+      },
+      "teamHome": {
+        "name": "Kiwoom Heroes",
+        "url": "https://mykbostats.com/teams/23-Kiwoom-Heroes",
+        "pitcher": {
+          "name": "Jhun Jun-pyo",
+          "url": "https://mykbostats.com/players/2619-Jhun-Junpyo-Kiwoom-Heroes",
+          "era": "3.99",
+          "whip": "1.67",
+          "hr": 2,
+          "bb": 26,
+          "so": 22,
+          "ip": "29 ⅓",
+          "hb": 5,
+          "fip": "6.36",
+          "yearUsed": "2026"
+        },
+        "batting": {
+          "avg": "0.259",
+          "obp": "0.341",
+          "slg": "0.375",
+          "ops": "0.715",
+          "r": "438",
+          "r_per_game": "4.86",
+          "hr": 64
+        },
+        "pitching": {
+          "era": "4.56",
+          "whip": "1.43",
+          "hr": 58,
+          "bb": 247,
+          "so": 522,
+          "avg": "0.269"
         }
       }
     }
