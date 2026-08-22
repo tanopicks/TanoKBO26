@@ -1,5 +1,5 @@
 window.kboData = {
-  "lastUpdated": "2026-08-22T05:14:54.451Z",
+  "lastUpdated": "2026-08-22T05:43:28.264Z",
   "games": [
     {
       "id": "13852-Kia-vs-Kiwoom-20260822",
@@ -88,32 +88,32 @@ window.kboData = {
         "pitcher": {
           "name": "Logan Allen",
           "url": "https://mykbostats.com/players/2782-Logan-Allen-KT-Wiz",
-          "era": 4.5,
-          "whip": 1.4,
-          "hr": 0,
-          "bb": 0,
-          "so": 0,
-          "ip": 0,
-          "hb": 0,
-          "fip": 4.5,
-          "yearUsed": "Error"
+          "era": "3.26",
+          "whip": "1.37",
+          "hr": 5,
+          "bb": 15,
+          "so": 36,
+          "ip": "49 ⅔",
+          "hb": 2,
+          "fip": "4.69",
+          "yearUsed": "2026"
         },
         "batting": {
-          "avg": ".265",
-          "obp": ".335",
-          "slg": ".410",
-          "ops": ".745",
-          "r": "450",
-          "r_per_game": "5.00",
-          "hr": 90
+          "avg": "0.289",
+          "obp": "0.370",
+          "slg": "0.410",
+          "ops": "0.780",
+          "r": "478",
+          "r_per_game": "5.31",
+          "hr": 72
         },
         "pitching": {
-          "era": "4.50",
-          "whip": "1.40",
-          "hr": 80,
-          "bb": 350,
-          "so": 700,
-          "avg": ".265"
+          "era": "3.72",
+          "whip": "1.34",
+          "hr": 65,
+          "bb": 197,
+          "so": 519,
+          "avg": "0.299"
         }
       },
       "teamHome": {
@@ -163,32 +163,32 @@ window.kboData = {
         "pitcher": {
           "name": "Carlos Carrasco",
           "url": "https://mykbostats.com/players/3101-Carlos-Carrasco-LG-Twins",
-          "era": 4.5,
-          "whip": 1.4,
-          "hr": 0,
-          "bb": 0,
-          "so": 0,
-          "ip": 0,
-          "hb": 0,
-          "fip": 4.5,
-          "yearUsed": "Error"
+          "era": "3.44",
+          "whip": "0.76",
+          "hr": 2,
+          "bb": 1,
+          "so": 15,
+          "ip": "18 ⅓",
+          "hb": 1,
+          "fip": "3.91",
+          "yearUsed": "2026"
         },
         "batting": {
-          "avg": ".265",
-          "obp": ".335",
-          "slg": ".410",
-          "ops": ".745",
-          "r": "450",
-          "r_per_game": "5.00",
-          "hr": 90
+          "avg": "0.271",
+          "obp": "0.355",
+          "slg": "0.420",
+          "ops": "0.775",
+          "r": "474",
+          "r_per_game": "5.27",
+          "hr": 98
         },
         "pitching": {
-          "era": "4.50",
-          "whip": "1.40",
-          "hr": 80,
-          "bb": 350,
-          "so": 700,
-          "avg": ".265"
+          "era": "4.84",
+          "whip": "1.48",
+          "hr": 88,
+          "bb": 237,
+          "so": 477,
+          "avg": "0.281"
         }
       },
       "teamHome": {
