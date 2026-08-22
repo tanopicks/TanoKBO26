@@ -1,5 +1,5 @@
 window.kboData = {
-  "lastUpdated": "2026-08-22T21:00:49.143Z",
+  "lastUpdated": "2026-08-22T21:26:10.087Z",
   "games": [
     {
       "id": "13857-Kia-vs-Kiwoom-20260823",
