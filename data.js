@@ -1,10 +1,10 @@
 window.kboData = {
-  "lastUpdated": "2026-08-22T09:06:32.289Z",
+  "lastUpdated": "2026-08-22T09:36:56.479Z",
   "games": [
     {
       "id": "13852-Kia-vs-Kiwoom-20260822",
       "url": "https://mykbostats.com/games/13852-Kia-vs-Kiwoom-20260822",
-      "status": "Bot 1st",
+      "status": "Bot 3rd",
       "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
@@ -45,16 +45,16 @@ window.kboData = {
         "name": "Kiwoom Heroes",
         "url": "https://mykbostats.com/teams/23-Kiwoom-Heroes",
         "pitcher": {
-          "name": "An Woo-jin",
-          "url": "https://mykbostats.com/players/1681-An-Woojin-Kiwoom-Heroes",
-          "era": "3.69",
-          "whip": "1.27",
-          "hr": 6,
-          "bb": 27,
-          "so": 95,
-          "ip": "78",
-          "hb": 2,
-          "fip": "3.48",
+          "name": "Eo Joon-seo",
+          "url": "https://mykbostats.com/players/2795-Eo-Joonseo-Kiwoom-Heroes",
+          "era": "0.00",
+          "whip": "0.00",
+          "hr": 0,
+          "bb": 3,
+          "so": 20,
+          "ip": "0",
+          "hb": 0,
+          "fip": "4.50",
           "yearUsed": "2026"
         },
         "batting": {
