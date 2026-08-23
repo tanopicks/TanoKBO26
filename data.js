@@ -1,5 +1,5 @@
 window.kboData = {
-  "lastUpdated": "2026-08-23T14:03:12.139Z",
+  "lastUpdated": "2026-08-23T14:32:25.828Z",
   "games": [
     {
       "id": "13853-KT-vs-SSG-20260822",
@@ -61,7 +61,7 @@ window.kboData = {
           "hr": 81
         },
         "pitching": {
-          "era": "4.73",
+          "era": "4.72",
           "whip": "1.45",
           "hr": 73,
           "bb": 315,
