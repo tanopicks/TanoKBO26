@@ -1,81 +1,6 @@
 {
-  "lastUpdated": "2026-08-23T08:16:28.567Z",
+  "lastUpdated": "2026-08-23T08:50:40.532Z",
   "games": [
-    {
-      "id": "13857-Kia-vs-Kiwoom-20260823",
-      "url": "https://mykbostats.com/games/13857-Kia-vs-Kiwoom-20260823",
-      "status": "Bot 9th",
-      "isTomorrow": false,
-      "time": "6:30pm",
-      "teamAway": {
-        "name": "Kia Tigers",
-        "url": "https://mykbostats.com/teams/5-Kia-Tigers",
-        "pitcher": {
-          "name": "Lee Eui-lee",
-          "url": "https://mykbostats.com/players/2140-Lee-Euilee-Kia-Tigers",
-          "era": "7.21",
-          "whip": "1.73",
-          "hr": 8,
-          "bb": 37,
-          "so": 51,
-          "ip": "48 ⅔",
-          "hb": 2,
-          "fip": "6.25",
-          "yearUsed": "2026"
-        },
-        "batting": {
-          "avg": "0.282",
-          "obp": "0.355",
-          "slg": "0.457",
-          "ops": "0.812",
-          "r": "497",
-          "r_per_game": "5.52",
-          "hr": 119
-        },
-        "pitching": {
-          "era": "4.34",
-          "whip": "1.39",
-          "hr": 107,
-          "bb": 366,
-          "so": 720,
-          "avg": "0.292"
-        }
-      },
-      "teamHome": {
-        "name": "Kiwoom Heroes",
-        "url": "https://mykbostats.com/teams/23-Kiwoom-Heroes",
-        "pitcher": {
-          "name": "Matthew Davidson",
-          "url": "https://mykbostats.com/players/2602-Matthew-Davidson-Kiwoom-Heroes",
-          "era": "0.00",
-          "whip": "0.00",
-          "hr": 14,
-          "bb": 20,
-          "so": 98,
-          "ip": "0",
-          "hb": 0,
-          "fip": "4.50",
-          "yearUsed": "2026"
-        },
-        "batting": {
-          "avg": "0.259",
-          "obp": "0.340",
-          "slg": "0.374",
-          "ops": "0.714",
-          "r": "437",
-          "r_per_game": "4.86",
-          "hr": 64
-        },
-        "pitching": {
-          "era": "4.50",
-          "whip": "1.42",
-          "hr": 58,
-          "bb": 247,
-          "so": 531,
-          "avg": "0.269"
-        }
-      }
-    },
     {
       "id": "13858-KT-vs-SSG-20260823",
       "url": "https://mykbostats.com/games/13858-KT-vs-SSG-20260823",
@@ -249,21 +174,21 @@
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": "0.281",
-          "obp": "0.345",
-          "slg": "0.411",
-          "ops": "0.755",
-          "r": "462",
-          "r_per_game": "5.14",
-          "hr": 72
+          "avg": ".265",
+          "obp": ".335",
+          "slg": ".410",
+          "ops": ".745",
+          "r": "450",
+          "r_per_game": "5.00",
+          "hr": 90
         },
         "pitching": {
-          "era": "4.28",
+          "era": "4.50",
           "whip": "1.40",
-          "hr": 65,
-          "bb": 326,
-          "so": 788,
-          "avg": "0.291"
+          "hr": 80,
+          "bb": 350,
+          "so": 700,
+          "avg": ".265"
         }
       },
       "teamHome": {
@@ -313,32 +238,32 @@
         "pitcher": {
           "name": "Chris Paddack",
           "url": "https://mykbostats.com/players/3097-Chris-Paddack-Samsung-Lions",
-          "era": 4.5,
-          "whip": 1.4,
-          "hr": 0,
-          "bb": 0,
-          "so": 0,
-          "ip": 0,
-          "hb": 0,
-          "fip": 4.5,
-          "yearUsed": "Error"
+          "era": "3.00",
+          "whip": "0.87",
+          "hr": 3,
+          "bb": 6,
+          "so": 35,
+          "ip": "30",
+          "hb": 2,
+          "fip": "3.57",
+          "yearUsed": "2026"
         },
         "batting": {
-          "avg": "0.291",
-          "obp": "0.385",
-          "slg": "0.442",
-          "ops": "0.827",
-          "r": "506",
-          "r_per_game": "5.62",
-          "hr": 102
+          "avg": "0.288",
+          "obp": "0.379",
+          "slg": "0.438",
+          "ops": "0.817",
+          "r": "500",
+          "r_per_game": "5.56",
+          "hr": 104
         },
         "pitching": {
           "era": "4.29",
           "whip": "1.39",
-          "hr": 92,
+          "hr": 94,
           "bb": 254,
           "so": 587,
-          "avg": "0.301"
+          "avg": "0.298"
         }
       },
       "teamHome": {
@@ -373,6 +298,75 @@
           "bb": 317,
           "so": 637,
           "avg": "0.292"
+        }
+      }
+    },
+    {
+      "id": "13853-KT-vs-SSG-20260822",
+      "url": "https://mykbostats.com/games/13853-KT-vs-SSG-20260822",
+      "status": "Canceled",
+      "isTomorrow": false,
+      "time": "6:30pm",
+      "teamAway": {
+        "name": "KT Wiz",
+        "url": "https://mykbostats.com/teams/22-KT-Wiz",
+        "pitcher": {
+          "name": "TBD",
+          "era": "0.00",
+          "whip": "0.00",
+          "hr": 0,
+          "bb": 0,
+          "so": 0,
+          "ip": "0",
+          "fip": "0.00"
+        },
+        "batting": {
+          "avg": "0.289",
+          "obp": "0.370",
+          "slg": "0.410",
+          "ops": "0.780",
+          "r": "478",
+          "r_per_game": "5.31",
+          "hr": 72
+        },
+        "pitching": {
+          "era": "3.72",
+          "whip": "1.34",
+          "hr": 65,
+          "bb": 197,
+          "so": 519,
+          "avg": "0.299"
+        }
+      },
+      "teamHome": {
+        "name": "SSG Landers",
+        "url": "https://mykbostats.com/teams/24-SSG-Landers",
+        "pitcher": {
+          "name": "TBD",
+          "era": "0.00",
+          "whip": "0.00",
+          "hr": 0,
+          "bb": 0,
+          "so": 0,
+          "ip": "0",
+          "fip": "0.00"
+        },
+        "batting": {
+          "avg": "0.264",
+          "obp": "0.340",
+          "slg": "0.395",
+          "ops": "0.735",
+          "r": "450",
+          "r_per_game": "5.00",
+          "hr": 81
+        },
+        "pitching": {
+          "era": "4.74",
+          "whip": "1.46",
+          "hr": 73,
+          "bb": 314,
+          "so": 558,
+          "avg": "0.274"
         }
       }
     }
