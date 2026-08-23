@@ -1,26 +1,26 @@
 window.kboData = {
-  "lastUpdated": "2026-08-23T07:54:49.367Z",
+  "lastUpdated": "2026-08-23T08:16:28.567Z",
   "games": [
     {
       "id": "13857-Kia-vs-Kiwoom-20260823",
       "url": "https://mykbostats.com/games/13857-Kia-vs-Kiwoom-20260823",
-      "status": "Top 9th",
+      "status": "Bot 9th",
       "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "Kia Tigers",
         "url": "https://mykbostats.com/teams/5-Kia-Tigers",
         "pitcher": {
-          "name": "Harold Castro",
-          "url": "https://mykbostats.com/players/2949-Harold-Castro-Kia-Tigers",
-          "era": "0.00",
-          "whip": "0.00",
-          "hr": 13,
-          "bb": 14,
-          "so": 44,
-          "ip": "0",
-          "hb": 0,
-          "fip": "4.50",
+          "name": "Lee Eui-lee",
+          "url": "https://mykbostats.com/players/2140-Lee-Euilee-Kia-Tigers",
+          "era": "7.21",
+          "whip": "1.73",
+          "hr": 8,
+          "bb": 37,
+          "so": 51,
+          "ip": "48 ⅔",
+          "hb": 2,
+          "fip": "6.25",
           "yearUsed": "2026"
         },
         "batting": {
@@ -45,16 +45,16 @@ window.kboData = {
         "name": "Kiwoom Heroes",
         "url": "https://mykbostats.com/teams/23-Kiwoom-Heroes",
         "pitcher": {
-          "name": "Park Jin-hyung",
-          "url": "https://mykbostats.com/players/629-Park-Jinhyung-Kiwoom-Heroes",
-          "era": "4.71",
-          "whip": "1.60",
-          "hr": 2,
-          "bb": 15,
-          "so": 22,
-          "ip": "28 ⅔",
-          "hb": 4,
-          "fip": "5.16",
+          "name": "Matthew Davidson",
+          "url": "https://mykbostats.com/players/2602-Matthew-Davidson-Kiwoom-Heroes",
+          "era": "0.00",
+          "whip": "0.00",
+          "hr": 14,
+          "bb": 20,
+          "so": 98,
+          "ip": "0",
+          "hb": 0,
+          "fip": "4.50",
           "yearUsed": "2026"
         },
         "batting": {
@@ -174,12 +174,12 @@ window.kboData = {
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": "0.271",
-          "obp": "0.355",
-          "slg": "0.420",
-          "ops": "0.775",
-          "r": "474",
-          "r_per_game": "5.27",
+          "avg": "0.269",
+          "obp": "0.358",
+          "slg": "0.406",
+          "ops": "0.764",
+          "r": "468",
+          "r_per_game": "5.20",
           "hr": 98
         },
         "pitching": {
@@ -188,7 +188,7 @@ window.kboData = {
           "hr": 88,
           "bb": 237,
           "so": 477,
-          "avg": "0.281"
+          "avg": "0.279"
         }
       },
       "teamHome": {
@@ -249,21 +249,21 @@ window.kboData = {
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": "0.278",
-          "obp": "0.342",
-          "slg": "0.407",
-          "ops": "0.748",
-          "r": "458",
-          "r_per_game": "5.09",
-          "hr": 56
+          "avg": "0.281",
+          "obp": "0.345",
+          "slg": "0.411",
+          "ops": "0.755",
+          "r": "462",
+          "r_per_game": "5.14",
+          "hr": 72
         },
         "pitching": {
-          "era": "4.29",
-          "whip": "1.41",
-          "hr": 50,
-          "bb": 303,
-          "so": 758,
-          "avg": "0.288"
+          "era": "4.28",
+          "whip": "1.40",
+          "hr": 65,
+          "bb": 326,
+          "so": 788,
+          "avg": "0.291"
         }
       },
       "teamHome": {
@@ -285,10 +285,10 @@ window.kboData = {
         "batting": {
           "avg": "0.273",
           "obp": "0.346",
-          "slg": "0.399",
-          "ops": "0.745",
-          "r": "456",
-          "r_per_game": "5.07",
+          "slg": "0.398",
+          "ops": "0.744",
+          "r": "455",
+          "r_per_game": "5.06",
           "hr": 72
         },
         "pitching": {
@@ -313,15 +313,15 @@ window.kboData = {
         "pitcher": {
           "name": "Chris Paddack",
           "url": "https://mykbostats.com/players/3097-Chris-Paddack-Samsung-Lions",
-          "era": "3.00",
-          "whip": "0.87",
-          "hr": 3,
-          "bb": 6,
-          "so": 35,
-          "ip": "30",
-          "hb": 2,
-          "fip": "3.57",
-          "yearUsed": "2026"
+          "era": 4.5,
+          "whip": 1.4,
+          "hr": 0,
+          "bb": 0,
+          "so": 0,
+          "ip": 0,
+          "hb": 0,
+          "fip": 4.5,
+          "yearUsed": "Error"
         },
         "batting": {
           "avg": "0.291",
@@ -367,11 +367,11 @@ window.kboData = {
           "hr": 82
         },
         "pitching": {
-          "era": "4.75",
-          "whip": "1.45",
+          "era": "4.72",
+          "whip": "1.44",
           "hr": 74,
-          "bb": 312,
-          "so": 625,
+          "bb": 317,
+          "so": 637,
           "avg": "0.292"
         }
       }
