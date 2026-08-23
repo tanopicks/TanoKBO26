@@ -1,26 +1,26 @@
 window.kboData = {
-  "lastUpdated": "2026-08-23T06:03:49.638Z",
+  "lastUpdated": "2026-08-23T06:55:40.865Z",
   "games": [
     {
       "id": "13857-Kia-vs-Kiwoom-20260823",
       "url": "https://mykbostats.com/games/13857-Kia-vs-Kiwoom-20260823",
-      "status": "Bot 3rd",
+      "status": "Top 6th",
       "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "Kia Tigers",
         "url": "https://mykbostats.com/teams/5-Kia-Tigers",
         "pitcher": {
-          "name": "James Naile",
-          "url": "https://mykbostats.com/players/2590-James-Naile-Kia-Tigers",
-          "era": "3.74",
-          "whip": "1.17",
-          "hr": 10,
-          "bb": 27,
-          "so": 109,
-          "ip": "134 ⅔",
-          "hb": 14,
-          "fip": "4.06",
+          "name": "Kim Tae-gun",
+          "url": "https://mykbostats.com/players/530-Kim-Taegun-Kia-Tigers",
+          "era": "0.00",
+          "whip": "0.00",
+          "hr": 4,
+          "bb": 8,
+          "so": 20,
+          "ip": "0",
+          "hb": 0,
+          "fip": "4.50",
           "yearUsed": "2026"
         },
         "batting": {
@@ -45,16 +45,16 @@ window.kboData = {
         "name": "Kiwoom Heroes",
         "url": "https://mykbostats.com/teams/23-Kiwoom-Heroes",
         "pitcher": {
-          "name": "Matthew Davidson",
-          "url": "https://mykbostats.com/players/2602-Matthew-Davidson-Kiwoom-Heroes",
-          "era": "0.00",
-          "whip": "0.00",
-          "hr": 14,
-          "bb": 20,
-          "so": 98,
-          "ip": "0",
+          "name": "Yun Seok-won",
+          "url": "https://mykbostats.com/players/2390-Yun-Seokwon-Kiwoom-Heroes",
+          "era": "7.56",
+          "whip": "1.44",
+          "hr": 1,
+          "bb": 2,
+          "so": 5,
+          "ip": "8 ⅓",
           "hb": 0,
-          "fip": "4.50",
+          "fip": "4.88",
           "yearUsed": "2026"
         },
         "batting": {
@@ -324,21 +324,21 @@ window.kboData = {
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": ".265",
-          "obp": ".335",
-          "slg": ".410",
-          "ops": ".745",
-          "r": "450",
-          "r_per_game": "5.00",
-          "hr": 90
+          "avg": "0.291",
+          "obp": "0.385",
+          "slg": "0.442",
+          "ops": "0.827",
+          "r": "506",
+          "r_per_game": "5.62",
+          "hr": 102
         },
         "pitching": {
-          "era": "4.50",
-          "whip": "1.40",
-          "hr": 80,
-          "bb": 350,
-          "so": 700,
-          "avg": ".265"
+          "era": "4.29",
+          "whip": "1.39",
+          "hr": 92,
+          "bb": 254,
+          "so": 587,
+          "avg": "0.301"
         }
       },
       "teamHome": {
