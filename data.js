@@ -1,26 +1,26 @@
 window.kboData = {
-  "lastUpdated": "2026-08-23T06:55:40.865Z",
+  "lastUpdated": "2026-08-23T07:25:41.692Z",
   "games": [
     {
       "id": "13857-Kia-vs-Kiwoom-20260823",
       "url": "https://mykbostats.com/games/13857-Kia-vs-Kiwoom-20260823",
-      "status": "Top 6th",
+      "status": "Bot 7th",
       "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "Kia Tigers",
         "url": "https://mykbostats.com/teams/5-Kia-Tigers",
         "pitcher": {
-          "name": "Kim Tae-gun",
-          "url": "https://mykbostats.com/players/530-Kim-Taegun-Kia-Tigers",
-          "era": "0.00",
-          "whip": "0.00",
-          "hr": 4,
-          "bb": 8,
-          "so": 20,
-          "ip": "0",
-          "hb": 0,
-          "fip": "4.50",
+          "name": "Jeon Sang-hyun",
+          "url": "https://mykbostats.com/players/1374-Jeon-Sanghyun-Kia-Tigers",
+          "era": "3.63",
+          "whip": "1.07",
+          "hr": 2,
+          "bb": 3,
+          "so": 19,
+          "ip": "22 ⅓",
+          "hb": 2,
+          "fip": "3.93",
           "yearUsed": "2026"
         },
         "batting": {
@@ -45,16 +45,16 @@ window.kboData = {
         "name": "Kiwoom Heroes",
         "url": "https://mykbostats.com/teams/23-Kiwoom-Heroes",
         "pitcher": {
-          "name": "Yun Seok-won",
-          "url": "https://mykbostats.com/players/2390-Yun-Seokwon-Kiwoom-Heroes",
-          "era": "7.56",
-          "whip": "1.44",
-          "hr": 1,
-          "bb": 2,
-          "so": 5,
-          "ip": "8 ⅓",
+          "name": "Matthew Davidson",
+          "url": "https://mykbostats.com/players/2602-Matthew-Davidson-Kiwoom-Heroes",
+          "era": "0.00",
+          "whip": "0.00",
+          "hr": 14,
+          "bb": 20,
+          "so": 98,
+          "ip": "0",
           "hb": 0,
-          "fip": "4.88",
+          "fip": "4.50",
           "yearUsed": "2026"
         },
         "batting": {
@@ -347,15 +347,15 @@ window.kboData = {
         "pitcher": {
           "name": "Riley Thompson",
           "url": "https://mykbostats.com/players/2781-Riley-Thompson-NC-Dinos",
-          "era": "2.98",
-          "whip": "1.10",
-          "hr": 14,
-          "bb": 22,
-          "so": 116,
-          "ip": "87 ⅔",
+          "era": 4.5,
+          "whip": 1.4,
+          "hr": 0,
+          "bb": 0,
+          "so": 0,
+          "ip": 0,
           "hb": 0,
-          "fip": "3.98",
-          "yearUsed": "2026"
+          "fip": 4.5,
+          "yearUsed": "Error"
         },
         "batting": {
           "avg": "0.282",
