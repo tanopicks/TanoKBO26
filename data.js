@@ -1,26 +1,26 @@
 window.kboData = {
-  "lastUpdated": "2026-08-23T05:45:46.372Z",
+  "lastUpdated": "2026-08-23T06:03:49.638Z",
   "games": [
     {
       "id": "13857-Kia-vs-Kiwoom-20260823",
       "url": "https://mykbostats.com/games/13857-Kia-vs-Kiwoom-20260823",
-      "status": "Top 3rd",
+      "status": "Bot 3rd",
       "isTomorrow": false,
       "time": "6:30pm",
       "teamAway": {
         "name": "Kia Tigers",
         "url": "https://mykbostats.com/teams/5-Kia-Tigers",
         "pitcher": {
-          "name": "Kim Sun-bin",
-          "url": "https://mykbostats.com/players/268-Kim-Sunbin-Kia-Tigers",
-          "era": "0.00",
-          "whip": "0.00",
-          "hr": 1,
-          "bb": 52,
-          "so": 41,
-          "ip": "0",
-          "hb": 0,
-          "fip": "4.50",
+          "name": "James Naile",
+          "url": "https://mykbostats.com/players/2590-James-Naile-Kia-Tigers",
+          "era": "3.74",
+          "whip": "1.17",
+          "hr": 10,
+          "bb": 27,
+          "so": 109,
+          "ip": "134 ⅔",
+          "hb": 14,
+          "fip": "4.06",
           "yearUsed": "2026"
         },
         "batting": {
@@ -45,16 +45,16 @@ window.kboData = {
         "name": "Kiwoom Heroes",
         "url": "https://mykbostats.com/teams/23-Kiwoom-Heroes",
         "pitcher": {
-          "name": "Jhun Jun-pyo",
-          "url": "https://mykbostats.com/players/2619-Jhun-Junpyo-Kiwoom-Heroes",
-          "era": "3.99",
-          "whip": "1.67",
-          "hr": 2,
-          "bb": 26,
-          "so": 22,
-          "ip": "29 ⅓",
-          "hb": 5,
-          "fip": "6.36",
+          "name": "Matthew Davidson",
+          "url": "https://mykbostats.com/players/2602-Matthew-Davidson-Kiwoom-Heroes",
+          "era": "0.00",
+          "whip": "0.00",
+          "hr": 14,
+          "bb": 20,
+          "so": 98,
+          "ip": "0",
+          "hb": 0,
+          "fip": "4.50",
           "yearUsed": "2026"
         },
         "batting": {
@@ -249,21 +249,21 @@ window.kboData = {
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": ".265",
-          "obp": ".335",
-          "slg": ".410",
-          "ops": ".745",
-          "r": "450",
-          "r_per_game": "5.00",
-          "hr": 90
+          "avg": "0.278",
+          "obp": "0.342",
+          "slg": "0.407",
+          "ops": "0.748",
+          "r": "458",
+          "r_per_game": "5.09",
+          "hr": 56
         },
         "pitching": {
-          "era": "4.50",
-          "whip": "1.40",
-          "hr": 80,
-          "bb": 350,
-          "so": 700,
-          "avg": ".265"
+          "era": "4.29",
+          "whip": "1.41",
+          "hr": 50,
+          "bb": 303,
+          "so": 758,
+          "avg": "0.288"
         }
       },
       "teamHome": {
@@ -324,21 +324,21 @@ window.kboData = {
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": "0.291",
-          "obp": "0.385",
-          "slg": "0.442",
-          "ops": "0.827",
-          "r": "506",
-          "r_per_game": "5.62",
-          "hr": 102
+          "avg": ".265",
+          "obp": ".335",
+          "slg": ".410",
+          "ops": ".745",
+          "r": "450",
+          "r_per_game": "5.00",
+          "hr": 90
         },
         "pitching": {
-          "era": "4.29",
-          "whip": "1.39",
-          "hr": 92,
-          "bb": 254,
-          "so": 587,
-          "avg": "0.301"
+          "era": "4.50",
+          "whip": "1.40",
+          "hr": 80,
+          "bb": 350,
+          "so": 700,
+          "avg": ".265"
         }
       },
       "teamHome": {
