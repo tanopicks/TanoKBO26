@@ -1,5 +1,5 @@
 window.kboData = {
-  "lastUpdated": "2026-08-24T22:47:17.987Z",
+  "lastUpdated": "2026-08-24T23:04:14.330Z",
   "games": [
     {
       "id": "13862-Hanwha-vs-SSG-20260825",
@@ -175,9 +175,9 @@ window.kboData = {
         },
         "batting": {
           "avg": "0.280",
-          "obp": "0.361",
+          "obp": "0.360",
           "slg": "0.416",
-          "ops": "0.777",
+          "ops": "0.776",
           "r": "475",
           "r_per_game": "5.28",
           "hr": 82
