@@ -1,5 +1,5 @@
 window.kboData = {
-  "lastUpdated": "2026-08-25T14:55:46.183Z",
+  "lastUpdated": "2026-08-25T15:34:00.833Z",
   "games": [
     {
       "id": "13867-Hanwha-vs-SSG-20260826",
@@ -292,7 +292,7 @@ window.kboData = {
           "hr": 80
         },
         "pitching": {
-          "era": "3.68",
+          "era": "3.69",
           "whip": "1.33",
           "hr": 72,
           "bb": 199,
