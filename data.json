@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T07:13:45.072Z",
+  "lastUpdated": "2026-08-25T07:58:35.831Z",
   "games": [
     {
       "id": "13862-Hanwha-vs-SSG-20260825",
@@ -24,21 +24,21 @@
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": ".265",
-          "obp": ".335",
-          "slg": ".410",
-          "ops": ".745",
-          "r": "450",
-          "r_per_game": "5.00",
-          "hr": 90
+          "avg": "0.278",
+          "obp": "0.357",
+          "slg": "0.444",
+          "ops": "0.801",
+          "r": "490",
+          "r_per_game": "5.44",
+          "hr": 132
         },
         "pitching": {
-          "era": "4.50",
-          "whip": "1.40",
-          "hr": 80,
-          "bb": 350,
-          "so": 700,
-          "avg": ".265"
+          "era": "4.71",
+          "whip": "1.46",
+          "hr": 119,
+          "bb": 245,
+          "so": 515,
+          "avg": "0.288"
         }
       },
       "teamHome": {
@@ -197,15 +197,15 @@
         "pitcher": {
           "name": "Anders Tolhurst",
           "url": "https://mykbostats.com/players/2913-Anders-Tolhurst-LG-Twins",
-          "era": 4.5,
-          "whip": 1.4,
-          "hr": 0,
-          "bb": 0,
-          "so": 0,
-          "ip": 0,
-          "hb": 0,
-          "fip": 4.5,
-          "yearUsed": "Error"
+          "era": "4.49",
+          "whip": "1.28",
+          "hr": 12,
+          "bb": 31,
+          "so": 102,
+          "ip": "122 ⅓",
+          "hb": 8,
+          "fip": "4.36",
+          "yearUsed": "2026"
         },
         "batting": {
           "avg": "0.272",
