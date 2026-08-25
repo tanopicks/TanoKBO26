@@ -1,5 +1,5 @@
 window.kboData = {
-  "lastUpdated": "2026-08-25T04:11:38.719Z",
+  "lastUpdated": "2026-08-25T04:52:46.184Z",
   "games": [
     {
       "id": "13862-Hanwha-vs-SSG-20260825",
@@ -122,15 +122,15 @@ window.kboData = {
         "pitcher": {
           "name": "Keisho Shirakawa",
           "url": "https://mykbostats.com/players/2730-Keisho-Shirakawa-Kia-Tigers",
-          "era": "4.44",
-          "whip": "1.46",
-          "hr": 5,
-          "bb": 31,
-          "so": 40,
-          "ip": "50 ⅔",
-          "hb": 1,
-          "fip": "5.40",
-          "yearUsed": "2026"
+          "era": 4.5,
+          "whip": 1.4,
+          "hr": 0,
+          "bb": 0,
+          "so": 0,
+          "ip": 0,
+          "hb": 0,
+          "fip": 4.5,
+          "yearUsed": "Error"
         },
         "batting": {
           "avg": "0.282",
@@ -197,15 +197,15 @@ window.kboData = {
         "pitcher": {
           "name": "Anders Tolhurst",
           "url": "https://mykbostats.com/players/2913-Anders-Tolhurst-LG-Twins",
-          "era": "4.49",
-          "whip": "1.28",
-          "hr": 12,
-          "bb": 31,
-          "so": 102,
-          "ip": "122 ⅓",
-          "hb": 8,
-          "fip": "4.36",
-          "yearUsed": "2026"
+          "era": 4.5,
+          "whip": 1.4,
+          "hr": 0,
+          "bb": 0,
+          "so": 0,
+          "ip": 0,
+          "hb": 0,
+          "fip": 4.5,
+          "yearUsed": "Error"
         },
         "batting": {
           "avg": "0.272",
@@ -272,15 +272,15 @@ window.kboData = {
         "pitcher": {
           "name": "So Hyeong-jun",
           "url": "https://mykbostats.com/players/1990-So-Hyeongjun-KT-Wiz",
-          "era": "3.39",
-          "whip": "1.32",
-          "hr": 6,
-          "bb": 17,
-          "so": 73,
-          "ip": "90 ⅓",
-          "hb": 3,
-          "fip": "3.71",
-          "yearUsed": "2026"
+          "era": 4.5,
+          "whip": 1.4,
+          "hr": 0,
+          "bb": 0,
+          "so": 0,
+          "ip": 0,
+          "hb": 0,
+          "fip": 4.5,
+          "yearUsed": "Error"
         },
         "batting": {
           "avg": "0.288",
