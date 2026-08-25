@@ -1,5 +1,5 @@
 window.kboData = {
-  "lastUpdated": "2026-08-25T03:32:38.681Z",
+  "lastUpdated": "2026-08-25T04:11:38.719Z",
   "games": [
     {
       "id": "13862-Hanwha-vs-SSG-20260825",
@@ -174,21 +174,21 @@ window.kboData = {
           "yearUsed": "2026"
         },
         "batting": {
-          "avg": ".265",
-          "obp": ".335",
-          "slg": ".410",
-          "ops": ".745",
-          "r": "450",
-          "r_per_game": "5.00",
-          "hr": 90
+          "avg": "0.280",
+          "obp": "0.361",
+          "slg": "0.416",
+          "ops": "0.777",
+          "r": "476",
+          "r_per_game": "5.28",
+          "hr": 82
         },
         "pitching": {
-          "era": "4.50",
-          "whip": "1.40",
-          "hr": 80,
-          "bb": 350,
-          "so": 700,
-          "avg": ".265"
+          "era": "4.68",
+          "whip": "1.43",
+          "hr": 74,
+          "bb": 319,
+          "so": 649,
+          "avg": "0.290"
         }
       },
       "teamHome": {
