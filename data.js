@@ -1,5 +1,5 @@
 window.kboData = {
-  "lastUpdated": "2026-08-26T03:41:29.382Z",
+  "lastUpdated": "2026-08-26T04:23:04.090Z",
   "games": [
     {
       "id": "13867-Hanwha-vs-SSG-20260826",
@@ -272,15 +272,15 @@ window.kboData = {
         "pitcher": {
           "name": "Davis Daniel",
           "url": "https://mykbostats.com/players/3102-Davis-Daniel-KT-Wiz",
-          "era": "2.70",
-          "whip": "1.20",
-          "hr": 1,
-          "bb": 3,
-          "so": 8,
-          "ip": "10",
+          "era": 4.5,
+          "whip": 1.4,
+          "hr": 0,
+          "bb": 0,
+          "so": 0,
+          "ip": 0,
           "hb": 0,
-          "fip": "4.40",
-          "yearUsed": "2026"
+          "fip": 4.5,
+          "yearUsed": "Error"
         },
         "batting": {
           "avg": "0.282",
