@@ -1,4 +1,4 @@
 window.kboData = {
-  "lastUpdated": "2026-09-15T22:27:22.331Z",
+  "lastUpdated": "2026-09-16T00:38:01.881Z",
   "games": []
 };
